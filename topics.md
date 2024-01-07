@@ -201,6 +201,7 @@
 
 ## ai 
 
+- [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
@@ -803,6 +804,7 @@
 
 ## github 
 
+- [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
@@ -1691,6 +1693,9 @@
 
 ## others 
 
+- [rswier/swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
+- [luisherranz/deepsignal](https://github.com/luisherranz/deepsignal) - DeepSignal 🧶 - Preact signals, but using regular JavaScript objects
+- [developit/preact-token-input](https://github.com/developit/preact-token-input) - :bookmark: A text field that tokenizes input, for things like tags.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [lennart-k/gnome-rounded-corners](https://github.com/lennart-k/gnome-rounded-corners) - The most useful GNOME extension on the planet. Rounded corners offer innovative advantages like less screen real estate. Saves energy on OLED screens since less pixels are lit.
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
@@ -1765,7 +1770,7 @@
 - [bluskript/vite-plugin-inline-css-modules](https://github.com/bluskript/vite-plugin-inline-css-modules) - Write CSS modules without leaving your javascript!
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building editor(s)
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building collaborative editors and applications.
 - [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [aziis98/go-lisp-interpreter](https://github.com/aziis98/go-lisp-interpreter) - A small interpreter for a lisp like language embedded in Go
@@ -2320,6 +2325,7 @@
 
 ## react 
 
+- [trambarhq/relaks](https://github.com/trambarhq/relaks) - Asynchrounous React component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
