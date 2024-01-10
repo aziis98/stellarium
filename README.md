@@ -191,6 +191,7 @@
 
 ## C++ 
 
+- [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
 - [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
@@ -1199,6 +1200,7 @@
 
 ## SCSS 
 
+- [phc-dm/seminarietti-website](https://github.com/phc-dm/seminarietti-website) - Piccolo sito in Astro per i Seminarietti del PHC
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
@@ -1336,7 +1338,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
+- [aidenybai/million](https://github.com/aidenybai/million) - Make React faster, automatically ⚡ 70% performance optimization ▶️ npx million@latest
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [staticdeploy/staticdeploy](https://github.com/staticdeploy/staticdeploy) - Open-Source Platform for Deploying Static Apps
 - [eeue56/derw](https://github.com/eeue56/derw) - An Elm-inspired language that transpiles to TypeScript
