@@ -729,6 +729,7 @@
 - [aziis98/art-2021-12-19](https://github.com/aziis98/art-2021-12-19) - Growing circuit board pattern
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [ncase/joy](https://github.com/ncase/joy) - make happy little programs
 - [kdl-org/kdljs](https://github.com/kdl-org/kdljs) - JavaScript KDL library
@@ -1265,6 +1266,7 @@
 
 ## TeX 
 
+- [lukefleed/G2-cheat-sheet](https://github.com/lukefleed/G2-cheat-sheet) - 
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [le-pap/Topologia-Algebrica-A](https://github.com/le-pap/Topologia-Algebrica-A) - Appunti del Corso
@@ -1346,8 +1348,7 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [staticdeploy/staticdeploy](https://github.com/staticdeploy/staticdeploy) - Open-Source Platform for Deploying Static Apps
 - [eeue56/derw](https://github.com/eeue56/derw) - An Elm-inspired language that transpiles to TypeScript
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [felvin-search/instant-apps](https://github.com/felvin-search/instant-apps) - Your search box is now an app store! 🎉
 - [brundonsmith/bagel](https://github.com/brundonsmith/bagel) - A reactive and strongly-typed, but also pragmatic, new programming language. Compiles to JavaScript, designed to be comfy for people used to the JavaScript/TypeScript language and ecosystem.
