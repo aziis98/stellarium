@@ -538,6 +538,7 @@
 
 ## HTML 
 
+- [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [cortinico/thebakery](https://github.com/cortinico/thebakery) - Website for The Developers' Bakery Podcast 👨‍🍳
 - [hbroek/reken](https://github.com/hbroek/reken) - Fast, reactive, HTML First web pages without virtual DOM overhead or build tools.
 - [atomiks/rehype-pretty-code](https://github.com/atomiks/rehype-pretty-code) - Beautiful code blocks for Markdown or MDX.
@@ -1291,7 +1292,6 @@
 
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [guangzhengli/vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
-- [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions. It works as a simple key value database store and backend with support for Re
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
