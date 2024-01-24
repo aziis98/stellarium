@@ -633,6 +633,7 @@
 
 ## JavaScript 
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [developit/preact-token-input](https://github.com/developit/preact-token-input) - :bookmark: A text field that tokenizes input, for things like tags.
 - [trambarhq/relaks](https://github.com/trambarhq/relaks) - Asynchrounous React component
@@ -929,6 +930,7 @@
 
 ## Objective-C 
 
+- [focus-editor/focus](https://github.com/focus-editor/focus) - A simple and fast text editor
 - [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 
 ## Objective-C++ 
@@ -943,7 +945,6 @@
 
 - [aziis98/stellarium](https://github.com/aziis98/stellarium) - Awesome page generated from by starred repositories (thanks to the starred project)
 - [make-github-pseudonymous-again/pixels](https://github.com/make-github-pseudonymous-again/pixels) - :flower_playing_cards: 1x1 black and white images in jpg, png, gif and ppm formats
-- [focus-editor/focus](https://github.com/focus-editor/focus) - A simple and fast text editor
 - [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
 - [snaptoken/kilo-tutorial](https://github.com/snaptoken/kilo-tutorial) - build your own text editor
 - [Siilikuin/minimum-viable-hugo](https://github.com/Siilikuin/minimum-viable-hugo) - No CSS, no JS. One static HTML page to start you off.
@@ -1228,6 +1229,7 @@
 
 ## Shell 
 
+- [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
 - [cgsdev0/bash-stack](https://github.com/cgsdev0/bash-stack) - modern web framework in bash
 - [jjcm/nonio](https://github.com/jjcm/nonio) - 
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
