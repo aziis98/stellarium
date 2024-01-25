@@ -98,6 +98,7 @@
 
 ## C 
 
+- [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [rswier/swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
@@ -1095,6 +1096,7 @@
 
 ## Rust 
 
+- [modrinth/theseus](https://github.com/modrinth/theseus) - Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
 - [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - WIP library for COSMIC applications
 - [pop-os/cosmic-edit](https://github.com/pop-os/cosmic-edit) - COSMIC Text Editor
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
