@@ -193,6 +193,7 @@
 
 ## C++ 
 
+- [dealii/dealii](https://github.com/dealii/dealii) - The development repository for the deal.II finite element library.
 - [BrigJS/brig](https://github.com/BrigJS/brig) - User Interface Toolkits for Node.js
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
