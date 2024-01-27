@@ -189,6 +189,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -754,7 +755,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Golang SSR-first Frontend Library
+- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Asynchronous frontends with Go
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript Framework
@@ -765,7 +766,7 @@
 
 - [choojs/nanohtml](https://github.com/choojs/nanohtml) - :dragon: HTML template strings for the Browser with support for Server Side Rendering in Node.
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
-- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Golang SSR-first Frontend Library
+- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Asynchronous frontends with Go
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 
@@ -907,7 +908,7 @@
 - [gorilla/feeds](https://github.com/gorilla/feeds) - Package gorilla/feeds is a golang rss/atom generator library
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Golang SSR-first Frontend Library
+- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Asynchronous frontends with Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
@@ -994,7 +995,7 @@
 - [davidbyttow/govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Golang SSR-first Frontend Library
+- [kyoto-framework/kyoto](https://github.com/kyoto-framework/kyoto) - Asynchronous frontends with Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
@@ -1833,7 +1834,7 @@
 - [bluskript/vite-plugin-inline-css-modules](https://github.com/bluskript/vite-plugin-inline-css-modules) - Write CSS modules without leaving your javascript!
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [kkuchta/tabdb](https://github.com/kkuchta/tabdb) - Using browser tabs as a database like only a maniac would
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building collaborative editors and applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building collaborative editors and applications.
 - [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [aziis98/go-lisp-interpreter](https://github.com/aziis98/go-lisp-interpreter) - A small interpreter for a lisp like language embedded in Go
@@ -2813,6 +2814,11 @@
 - [michael-klein/funcy.js](https://github.com/michael-klein/funcy.js) - funcy.js - a functional web components wrapper
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [defx/synergy](https://github.com/defx/synergy) - Synergy is a tiny runtime library for crafting Web Components
+
+## web-development 
+
+- [andrewpillar/webutil](https://github.com/andrewpillar/webutil) - Utility package for web development in Go
+- [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 
 ## webapp 
 
