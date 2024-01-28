@@ -101,7 +101,6 @@
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [rswier/swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [quelsolaar/makemake](https://github.com/quelsolaar/makemake) - 
@@ -199,6 +198,7 @@
 - [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [tlack/atree](https://github.com/tlack/atree) - Stevan Apter-style trees in C++17
@@ -834,6 +834,7 @@
 
 ## Jupyter Notebook 
 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [redhog/InfiniteGlass](https://github.com/redhog/InfiniteGlass) - Window manager with infinite desktop, infinite zoom and infinite window resolution
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
@@ -1364,7 +1365,7 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [staticdeploy/staticdeploy](https://github.com/staticdeploy/staticdeploy) - Open-Source Platform for Deploying Static Apps
 - [eeue56/derw](https://github.com/eeue56/derw) - An Elm-inspired language that transpiles to TypeScript
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [felvin-search/instant-apps](https://github.com/felvin-search/instant-apps) - Your search box is now an app store! 🎉
 - [brundonsmith/bagel](https://github.com/brundonsmith/bagel) - A reactive and strongly-typed, but also pragmatic, new programming language. Compiles to JavaScript, designed to be comfy for people used to the JavaScript/TypeScript language and ecosystem.
