@@ -395,7 +395,7 @@
 ## chrome-extension 
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that show related submissions on Hacker News https://news.ycombinator.com
+- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - Related submissions for Hacker News
 - [aziis98/dashboard-2](https://github.com/aziis98/dashboard-2) - New dashboard to replace my browser blank page
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [ZMYaro/chrome-voice-actions](https://github.com/ZMYaro/chrome-voice-actions) - A Chrome extension that brings Voice Actions to Google Chrome.  The extension is free, but please consider supporting development at https://ko-fi.com/ZMYaro or https://patreon.com/ZMYaro.
@@ -1743,6 +1743,7 @@
 
 ## others 
 
+- [cotyhamilton/hacker-newsy](https://github.com/cotyhamilton/hacker-newsy) - pretty hacker news client
 - [dealii/dealii](https://github.com/dealii/dealii) - The development repository for the deal.II finite element library.
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
