@@ -102,7 +102,6 @@
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [rswier/swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [quelsolaar/makemake](https://github.com/quelsolaar/makemake) - 
 - [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, explo
 - [michaelengel/crosstalk](https://github.com/michaelengel/crosstalk) - Smalltalk-80 bare metal implementation for the Raspberry Pi
@@ -204,6 +203,7 @@
 - [tlack/atree](https://github.com/tlack/atree) - Stevan Apter-style trees in C++17
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean 3 Theorem Prover (community fork)
@@ -625,6 +625,7 @@
 - [steve-perkins/jlink-demo](https://github.com/steve-perkins/jlink-demo) - A demo of using Java 9 modularization, and the JDK's new `jlink` tool, for zero-dependency  deployments
 - [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code.
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [SilverTiger/lwjgl3-tutorial](https://github.com/SilverTiger/lwjgl3-tutorial) - Tutorial for the Lightweight Java Game Library (LWJGL) 3
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [sarxos/webcam-capture](https://github.com/sarxos/webcam-capture) - The goal of this project is to allow integrated or USB-connected webcams to be accessed directly from Java. Using provided libraries users are able to read camera images and detect motion. Main projec
@@ -665,7 +666,7 @@
 - [expressjs/multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that show related submissions on Hacker News https://news.ycombinator.com
+- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - Related submissions for Hacker News
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
 - [JohnEarnest/ok](https://github.com/JohnEarnest/ok) - An open-source interpreter for the K5 programming language.
@@ -850,7 +851,6 @@
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [wasabifx/wasabi](https://github.com/wasabifx/wasabi) - An HTTP Framework
 - [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Java & Kotlin, inspired by Redux & Elm
 - [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
@@ -1266,6 +1266,7 @@
 
 ## Svelte 
 
+- [cotyhamilton/hacker-newsy](https://github.com/cotyhamilton/hacker-newsy) - pretty hacker news client
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
 
 ## Swift 
