@@ -2255,7 +2255,7 @@
 - [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Java & Kotlin, inspired by Redux & Elm
 - [crookookoo/p5-boilerplate](https://github.com/crookookoo/p5-boilerplate) - p5.js experiment boilerplate
 - [cy6erGn0m/webgl-test](https://github.com/cy6erGn0m/webgl-test) - 
-- [sqren/fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits
+- [sorenlouv/fb-sleep-stats](https://github.com/sorenlouv/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [myplanet/angular-color-picker](https://github.com/myplanet/angular-color-picker) - Lightweight color picker for Angular
