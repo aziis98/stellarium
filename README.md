@@ -707,7 +707,6 @@
 - [totaljs/Tangular](https://github.com/totaljs/Tangular) - A simple JavaScript template engine like Angular.js for websites or node.js
 - [jshttp/mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [michael-klein/funcy.js](https://github.com/michael-klein/funcy.js) - funcy.js - a functional web components wrapper
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [nextapps-de/mikado](https://github.com/nextapps-de/mikado) - Mikado is the webs fastest template library for building user interfaces.
@@ -1356,6 +1355,7 @@
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [alexlafroscia/vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Vite support for Handlebars
 - [nota-lang/nota](https://github.com/nota-lang/nota) - A document language for the browser
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
