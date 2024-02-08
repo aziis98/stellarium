@@ -339,6 +339,7 @@
 
 ## Go 
 
+- [crawshaw/jsonfile](https://github.com/crawshaw/jsonfile) - Persist a Go object to a JSON file
 - [BurntSushi/wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager written in Go.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
@@ -770,6 +771,7 @@
 - [mljs/matrix](https://github.com/mljs/matrix) - Matrix manipulation and computation library
 - [jcoglan/sylvester](https://github.com/jcoglan/sylvester) - Vector, matrix and geometry math JavaScript
 - [hiddentao/linear-algebra](https://github.com/hiddentao/linear-algebra) - Efficient, high-performance linear algebra for node.js and browsers
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [gosukiwi/Pasukon](https://github.com/gosukiwi/Pasukon) - JavaScript practical parser generator library using combinators
 - [gtanner/qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - QRCodes in your terminal, cause thats hot.
@@ -831,7 +833,6 @@
 ## Julia 
 
 - [QuantumBFS/YaoLang.jl](https://github.com/QuantumBFS/YaoLang.jl) - YaoLang: The next DSL for Yao and quantum programs.
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
 ## Jupyter Notebook 
 
@@ -992,6 +993,7 @@
 
 ## Python 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
