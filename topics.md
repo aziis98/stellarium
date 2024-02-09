@@ -108,6 +108,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -1486,6 +1487,10 @@
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
+## low-code 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ## lua 
 
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
@@ -1750,6 +1755,7 @@
 
 ## others 
 
+- [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [crawshaw/jsonfile](https://github.com/crawshaw/jsonfile) - Persist a Go object to a JSON file
 - [BurntSushi/wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager written in Go.
