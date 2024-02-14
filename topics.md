@@ -935,7 +935,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -1771,6 +1771,7 @@
 
 ## others 
 
+- [webqit/quantum-js](https://github.com/webqit/quantum-js) - A runtime extension to JavaScript that enables us do Imperative Reactive Programming (IRP) in the very language!
 - [s-expressions/pose](https://github.com/s-expressions/pose) - Portable S-expressions (POSE) spec and libs
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2633,7 +2634,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
