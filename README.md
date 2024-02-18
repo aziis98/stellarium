@@ -628,6 +628,7 @@
 - [steve-perkins/jlink-demo](https://github.com/steve-perkins/jlink-demo) - A demo of using Java 9 modularization, and the JDK's new `jlink` tool, for zero-dependency  deployments
 - [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code.
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [SilverTiger/lwjgl3-tutorial](https://github.com/SilverTiger/lwjgl3-tutorial) - Tutorial for the Lightweight Java Game Library (LWJGL) 3
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [sarxos/webcam-capture](https://github.com/sarxos/webcam-capture) - The goal of this project is to allow integrated or USB-connected webcams to be accessed directly from Java. Using provided libraries users are able to read camera images and detect motion. Main projec
@@ -854,7 +855,6 @@
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [wasabifx/wasabi](https://github.com/wasabifx/wasabi) - An HTTP Framework
 - [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Java & Kotlin, inspired by Redux & Elm
 - [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
