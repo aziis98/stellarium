@@ -1250,6 +1250,7 @@
 
 ## javascript 
 
+- [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions. It works as a simple key value database store and backend with support for Re
@@ -1771,6 +1772,7 @@
 
 ## others 
 
+- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [webqit/quantum-js](https://github.com/webqit/quantum-js) - A runtime extension to JavaScript that enables us do Imperative Reactive Programming (IRP) in the very language!
@@ -1935,7 +1937,7 @@
 - [Unipisa/dm-cups](https://github.com/Unipisa/dm-cups) - Backend CUPS con accounting integrato
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [mjl-/duit](https://github.com/mjl-/duit) - pure go, cross-platform, MIT-licensed ui toolkit for developers
-- [emosheeep/vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin for Vite, generate multiple files using only one template..
+- [emosheeep/vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin for Vite, generate multiple entries using only one template.
 - [4silvertooth/QwikTape](https://github.com/4silvertooth/QwikTape) - Do calculations, annotate like you would on a paper "qwikly".
 - [budRich/pkg-listn](https://github.com/budRich/pkg-listn) - manage linux packages with textfiles
 - [z-pattern-matching/z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
