@@ -651,7 +651,7 @@
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [WebReflection/uhooks](https://github.com/WebReflection/uhooks) - micro hooks: a minimalistic client/server hooks' implementation
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [face-hh/fextify](https://github.com/face-hh/fextify) - A simple text editor written in Tauri, inspired by Obsidian.
+- [face-hh/fextify](https://github.com/face-hh/fextify) - A simple text editor written in Rust using Tauri, inspired by Obsidian.
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js) - Fraction is a rational numbers library written in JavaScript
 - [choojs/nanohtml](https://github.com/choojs/nanohtml) - :dragon: HTML template strings for the Browser with support for Server Side Rendering in Node.
 - [choojs/nanomorph](https://github.com/choojs/nanomorph) - 🚅 - Hyper fast diffing algorithm for real DOM nodes
