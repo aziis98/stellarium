@@ -1831,7 +1831,7 @@
 - [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
-- [face-hh/fextify](https://github.com/face-hh/fextify) - A simple text editor written in Tauri, inspired by Obsidian.
+- [face-hh/fextify](https://github.com/face-hh/fextify) - A simple text editor written in Rust using Tauri, inspired by Obsidian.
 - [KnorrFG/dotree](https://github.com/KnorrFG/dotree) - A small, interactive command runner
 - [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
 - [aziis98/go-fsrouter](https://github.com/aziis98/go-fsrouter) - A simple file system router library for golang
