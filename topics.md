@@ -14,6 +14,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -268,6 +269,13 @@
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [pksunkara/octonode](https://github.com/pksunkara/octonode) - github api v3 in nodejs
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## archlinux 
+
+- [budRich/pkg-listn](https://github.com/budRich/pkg-listn) - manage linux packages with textfiles
+- [crystal-linux/iso](https://github.com/crystal-linux/iso) - Build or download the Arch-based Crystal Linux iso.
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 
 ## artificial-intelligence 
 
@@ -526,7 +534,7 @@
 - [aziis98/preact-timer](https://github.com/aziis98/preact-timer) - A localStorage-timer made with Preact with developit/htm
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [getbem/getbem.github.io](https://github.com/getbem/getbem.github.io) - Get BEM to all people in simplest way
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
@@ -1379,6 +1387,7 @@
 
 ## julia 
 
+- [JuliaParallel/PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) - Julia wrappers for the PETSc library
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
 ## koa 
@@ -1785,6 +1794,7 @@
 
 ## others 
 
+- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -1953,7 +1963,6 @@
 - [mjl-/duit](https://github.com/mjl-/duit) - pure go, cross-platform, MIT-licensed ui toolkit for developers
 - [emosheeep/vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin for Vite, generate multiple entries using only one template.
 - [4silvertooth/QwikTape](https://github.com/4silvertooth/QwikTape) - Do calculations, annotate like you would on a paper "qwikly".
-- [budRich/pkg-listn](https://github.com/budRich/pkg-listn) - manage linux packages with textfiles
 - [z-pattern-matching/z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
@@ -1993,7 +2002,6 @@
 - [tj/co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
 - [memononen/nanovg](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
 - [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
-- [crystal-linux/iso](https://github.com/crystal-linux/iso) - Build or download the Arch-based Crystal Linux iso.
 - [grego/caretaker](https://github.com/grego/caretaker) - A simple, configurable filesystem watcher
 - [hylo-lang/Lotsawa](https://github.com/hylo-lang/Lotsawa) - A Swift implementation of the MARPA algorithms
 - [Fran314/bbup-rs](https://github.com/Fran314/bbup-rs) - 
@@ -2178,7 +2186,6 @@
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
-- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [bontaq/textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
 - [gtanner/qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - QRCodes in your terminal, cause thats hot.
 - [mdp/qrterminal](https://github.com/mdp/qrterminal) - QR Codes in your terminal
@@ -2473,7 +2480,7 @@
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [gilamran/fullstack-typescript](https://github.com/gilamran/fullstack-typescript) - FAST FullStack React with TypeScript starter kit.
@@ -2710,7 +2717,7 @@
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [pintariching/rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## swift 
 
