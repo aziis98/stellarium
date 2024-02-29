@@ -789,7 +789,7 @@
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [yanshiyason/github-stars](https://github.com/yanshiyason/github-stars) - chrome extension to display github stars in repo links
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [thecodercoder/frontend-boilerplate](https://github.com/thecodercoder/frontend-boilerplate) - front-end boilerplate for Sass and Gulp 4
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 - [gwgundersen/anno](https://github.com/gwgundersen/anno) - Anno is a thin user interface on Markdown files for easy and local text editing, organization, and portability.
@@ -836,6 +836,7 @@
 
 ## Julia 
 
+- [JuliaParallel/PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) - Julia wrappers for the PETSc library
 - [QuantumBFS/YaoLang.jl](https://github.com/QuantumBFS/YaoLang.jl) - YaoLang: The next DSL for Yao and quantum programs.
 
 ## Jupyter Notebook 
@@ -1458,6 +1459,7 @@
 
 ## Zig 
 
+- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui) - Use any web browser as GUI, with Zig in the backend and HTML5 in the frontend.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
