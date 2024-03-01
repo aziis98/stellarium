@@ -418,6 +418,7 @@
 
 ## cli 
 
+- [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
 - [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible
 - [mjpclab/go-http-file-server](https://github.com/mjpclab/go-http-file-server) - Simple command line based HTTP file server to share local file system
@@ -844,6 +845,8 @@
 
 ## git 
 
+- [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [nikochiko/autosaved](https://github.com/nikochiko/autosaved) - Never worry about losing your code. Written in Go
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -864,6 +867,7 @@
 
 ## go 
 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -946,7 +950,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -1073,6 +1077,8 @@
 
 ## hacktoberfest 
 
+- [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [modrinth/theseus](https://github.com/modrinth/theseus) - Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -1813,7 +1819,7 @@
 - [t-e-l/tel](https://github.com/t-e-l/tel) - Termux Launcher for Experts
 - [lukefleed/G2-cheat-sheet](https://github.com/lukefleed/G2-cheat-sheet) - 
 - [mario-goulart/awful](https://github.com/mario-goulart/awful) - awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
-- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [phc-dm/seminarietti-website](https://github.com/phc-dm/seminarietti-website) - Piccolo sito in Astro per i Seminarietti del PHC
 - [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - WIP library for COSMIC applications
 - [pop-os/cosmic-edit](https://github.com/pop-os/cosmic-edit) - COSMIC Text Editor
@@ -2344,6 +2350,7 @@
 
 ## php 
 
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki
 - [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd
@@ -2532,6 +2539,8 @@
 
 ## rust 
 
+- [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
+- [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast and flexible allocator for no_std and WebAssembly
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -2611,6 +2620,8 @@
 
 ## security 
 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
 ## self-hosted 
@@ -2662,7 +2673,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
