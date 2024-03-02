@@ -1000,6 +1000,7 @@
 
 ## Python 
 
+- [mattneary/attention](https://github.com/mattneary/attention) - visualizing attention for LLM users
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on both Windows and Linux.
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
