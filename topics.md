@@ -44,6 +44,7 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -279,6 +280,7 @@
 
 ## artificial-intelligence 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
 ## atom 
@@ -560,6 +562,10 @@
 
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 
+## data-science 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+
 ## data-structures 
 
 - [tlack/atree](https://github.com/tlack/atree) - Stevan Apter-style trees in C++17
@@ -568,6 +574,7 @@
 
 ## data-visualization 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
@@ -1549,6 +1556,7 @@
 
 ## machine-learning 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
@@ -1800,6 +1808,9 @@
 
 ## others 
 
+- [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
+- [ruecat/ollama-telegram](https://github.com/ruecat/ollama-telegram) - 🦙 Ollama Telegram bot, with advanced configuration
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [kspalaiologos/kamilalisp](https://github.com/kspalaiologos/kamilalisp) - A functional, flexible and concise Lisp.
 - [mattneary/attention](https://github.com/mattneary/attention) - visualizing attention for LLM users
@@ -2398,6 +2409,8 @@
 
 ## python 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on both Windows and Linux.
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
@@ -2439,6 +2452,7 @@
 
 ## python3 
 
+- [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 - [H4kor/graph-force](https://github.com/H4kor/graph-force) - Python library for embedding large graphs in 2D space, using force-directed layouts.
