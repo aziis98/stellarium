@@ -25,6 +25,7 @@
 - [F#](#f#)
 - [Fortran](#fortran)
 - [GDScript](#gdscript)
+- [Gleam](#gleam)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -338,6 +339,11 @@
 ## GDScript 
 
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
+
+## Gleam 
+
+- [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
+- [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - An Elm-inspired framework for building HTML templates, single page applications, and server-rendered components in Gleam!
 
 ## Go 
 
