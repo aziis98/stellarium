@@ -1809,6 +1809,8 @@
 
 ## others 
 
+- [bananaml/fructose](https://github.com/bananaml/fructose) - 
+- [soorajshankar/logScreen](https://github.com/soorajshankar/logScreen) - Loglines can be messy, read it better on a browser, `command | npx logscreen`
 - [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - An Elm-inspired framework for building HTML templates, single page applications, and server-rendered components in Gleam!
 - [phc-dm/phc-tweaks](https://github.com/phc-dm/phc-tweaks) - GUI application for the computers in the department of mathematics
 - [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
