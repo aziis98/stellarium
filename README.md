@@ -965,6 +965,7 @@
 
 ## Others 
 
+- [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [aziis98/stellarium](https://github.com/aziis98/stellarium) - Awesome page generated from by starred repositories (thanks to the starred project)
 - [make-github-pseudonymous-again/pixels](https://github.com/make-github-pseudonymous-again/pixels) - :flower_playing_cards: 1x1 black and white images in jpg, png, gif and ppm formats
