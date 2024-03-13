@@ -347,6 +347,7 @@
 
 ## Go 
 
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
@@ -649,6 +650,8 @@
 
 ## JavaScript 
 
+- [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
+- [marianoguerra/json.human.js](https://github.com/marianoguerra/json.human.js) - Convert JSON to human readable HTML
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [soorajshankar/logScreen](https://github.com/soorajshankar/logScreen) - Loglines can be messy, read it better on a browser, `command | npx logscreen`
@@ -1018,6 +1021,7 @@
 
 ## Python 
 
+- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
