@@ -666,6 +666,7 @@
 
 ## django 
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [mataroa-blog/mataroa](https://github.com/mataroa-blog/mataroa) - Naked blogging platform
@@ -759,6 +760,7 @@
 
 ## flask 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [Andreilys/personal_dashboard](https://github.com/Andreilys/personal_dashboard) - A Real-Time Personal Dashboard For Your Life
 
 ## flutter 
@@ -781,6 +783,7 @@
 
 ## framework 
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
@@ -1968,7 +1971,7 @@
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [JohnEarnest/ok](https://github.com/JohnEarnest/ok) - An open-source interpreter for the K5 programming language.
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [zachallaun/secd](https://github.com/zachallaun/secd) - A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)
 - [RedHaloStudio/Sketchup_Importer](https://github.com/RedHaloStudio/Sketchup_Importer) - Python bindings for the official Sketchup API
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -2439,6 +2442,8 @@
 
 ## python 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
@@ -2939,6 +2944,7 @@
 
 ## web 
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions. It works as a simple key value database store and backend with support for Re
