@@ -793,7 +793,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [sarulabs/di](https://github.com/sarulabs/di) - Dependency injection container in go (golang)
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -1813,7 +1813,7 @@
 ## open-source 
 
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 
 ## opencv 
@@ -1841,6 +1841,9 @@
 
 ## others 
 
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+- [Michaelangel007/nanofont3x4](https://github.com/Michaelangel007/nanofont3x4) - World's smallest readable 3x4 font with lowercase; includes all ASCII symbols
 - [matthewhague/sat-css-tool](https://github.com/matthewhague/sat-css-tool) - Minify CSS files through refactoring
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git
@@ -2481,7 +2484,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor with an API for custom nodes
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [H4kor/graph-force](https://github.com/H4kor/graph-force) - Python library for embedding large graphs in 2D space, using force-directed layouts.
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
