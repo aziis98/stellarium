@@ -793,7 +793,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [sarulabs/di](https://github.com/sarulabs/di) - Dependency injection container in go (golang)
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -1813,7 +1813,7 @@
 ## open-source 
 
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 
 ## opencv 
@@ -1855,7 +1855,6 @@
 - [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
-- [soorajshankar/logScreen](https://github.com/soorajshankar/logScreen) - Loglines can be messy, read it better on a browser, `command | npx logscreen`
 - [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - An Elm-inspired framework for building HTML templates, single page applications, and server-rendered components in Gleam!
 - [phc-dm/phc-tweaks](https://github.com/phc-dm/phc-tweaks) - GUI application for the computers in the department of mathematics
 - [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
@@ -2464,7 +2463,7 @@
 
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on both Windows and Linux.
@@ -2484,7 +2483,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor with an API for custom nodes
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
 - [H4kor/graph-force](https://github.com/H4kor/graph-force) - Python library for embedding large graphs in 2D space, using force-directed layouts.
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
@@ -2545,6 +2544,7 @@
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+- [soorajshankar/logScreen](https://github.com/soorajshankar/logScreen) - Piping logs, visualising on a web app – just suffix "| npx logscreen"
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [trambarhq/relaks](https://github.com/trambarhq/relaks) - Asynchrounous React component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -2969,6 +2969,7 @@
 
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
+- [soorajshankar/logScreen](https://github.com/soorajshankar/logScreen) - Piping logs, visualising on a web app – just suffix "| npx logscreen"
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions. It works as a simple key value database store and backend with support for Re
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
