@@ -74,6 +74,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
+- [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
@@ -99,6 +100,7 @@
 
 ## C 
 
+- [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
 - [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
 - [s-expressions/pose](https://github.com/s-expressions/pose) - Portable S-expressions (POSE) spec and libs
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
@@ -1026,6 +1028,8 @@
 
 ## Python 
 
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+- [paveldedik/ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building HTML pages in pure Python.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [matthewhague/sat-css-tool](https://github.com/matthewhague/sat-css-tool) - Minify CSS files through refactoring
@@ -1151,6 +1155,7 @@
 
 ## Rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [phc-dm/phc-tweaks](https://github.com/phc-dm/phc-tweaks) - GUI application for the computers in the department of mathematics
 - [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
 - [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast and flexible allocator for no_std and WebAssembly
@@ -1358,6 +1363,7 @@
 
 ## TypeScript 
 
+- [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -1488,6 +1494,10 @@
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+
+## Vala 
+
+- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
 
 ## Vim Script 
 
