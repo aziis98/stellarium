@@ -1029,7 +1029,7 @@
 ## Python 
 
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
-- [paveldedik/ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building HTML pages in pure Python.
+- [paveldedik/ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [matthewhague/sat-css-tool](https://github.com/matthewhague/sat-css-tool) - Minify CSS files through refactoring
@@ -1533,7 +1533,7 @@
 - [b0bleet/zvisor](https://github.com/b0bleet/zvisor) - Zig-based Hypervisor
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
-- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
 ## sed 
 
