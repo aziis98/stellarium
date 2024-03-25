@@ -100,6 +100,7 @@
 
 ## C 
 
+- [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
 - [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
 - [s-expressions/pose](https://github.com/s-expressions/pose) - Portable S-expressions (POSE) spec and libs
@@ -350,6 +351,7 @@
 
 ## Go 
 
+- [refaktor/rye](https://github.com/refaktor/rye) - homoiconic dynamic programming language with some new ideas
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
