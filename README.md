@@ -100,6 +100,7 @@
 
 ## C 
 
+- [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
 - [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
@@ -1032,7 +1033,7 @@
 ## Python 
 
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
-- [paveldedik/ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python.
+- [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [matthewhague/sat-css-tool](https://github.com/matthewhague/sat-css-tool) - Minify CSS files through refactoring
@@ -1366,6 +1367,7 @@
 
 ## TypeScript 
 
+- [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
