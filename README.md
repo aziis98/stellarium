@@ -187,6 +187,7 @@
 
 ## C# # 
 
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [Unipisa/Oraculum](https://github.com/Unipisa/Oraculum) - Library to manage knowledge and create prompts to support OpenAI generative AI scenarios
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -353,6 +354,7 @@
 
 ## Go 
 
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Lightweight and modern Discord client
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables in the RebootX app.
 - [refaktor/rye](https://github.com/refaktor/rye) - homoiconic dynamic programming language with some new ideas
@@ -936,6 +938,7 @@
 
 ## Makefile 
 
+- [everpeace/kube-openmpi](https://github.com/everpeace/kube-openmpi) - Open MPI jobs on Kubernetes
 - [aziis98/talk-intro-go-generics](https://github.com/aziis98/talk-intro-go-generics) - Talk "Introduzione alle Generics in Go" per la DevFest del GDG
 - [budRich/pkg-listn](https://github.com/budRich/pkg-listn) - manage linux packages with textfiles
 - [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
