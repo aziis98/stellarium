@@ -354,7 +354,7 @@
 
 ## Go 
 
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Lightweight and modern Discord client
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables in the RebootX app.
 - [refaktor/rye](https://github.com/refaktor/rye) - homoiconic dynamic programming language with some new ideas
