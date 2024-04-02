@@ -1855,6 +1855,7 @@
 
 ## others 
 
+- [jart/sectorlisp](https://github.com/jart/sectorlisp) - Bootstrapping LISP in a Boot Sector
 - [everpeace/kube-openmpi](https://github.com/everpeace/kube-openmpi) - Open MPI jobs on Kubernetes
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [friedow/centerpiece](https://github.com/friedow/centerpiece) - Your trusty omnibox search.
