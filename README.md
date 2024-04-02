@@ -100,6 +100,7 @@
 
 ## C 
 
+- [jart/sectorlisp](https://github.com/jart/sectorlisp) - Bootstrapping LISP in a Boot Sector
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
