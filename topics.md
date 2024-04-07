@@ -177,6 +177,7 @@
 - [sketch](#sketch)
 - [software](#software)
 - [sql](#sql)
+- [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
@@ -1759,6 +1760,7 @@
 
 ## nextjs 
 
+- [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [guangzhengli/vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
@@ -2470,6 +2472,7 @@
 
 ## postgresql 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
@@ -2588,6 +2591,8 @@
 
 ## react 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
@@ -2820,14 +2825,20 @@
 
 ## sql 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
 
+## sql-server 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+
 ## sqlite 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
