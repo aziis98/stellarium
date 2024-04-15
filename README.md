@@ -91,7 +91,7 @@
 
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
 - [aziis98/website-2023](https://github.com/aziis98/website-2023) - Forse finalmente mi sono fatto un sito che funge (con Astro, Preact e prima ho poi un po' di MDX)
-- [SublimeText/Astro](https://github.com/SublimeText/Astro) - Astro syntax highlighting for Sublime Text
+- [SublimeText/Astro](https://github.com/SublimeText/Astro) - Astro syntax for Sublime Text
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
 
 ## Brainfuck 
