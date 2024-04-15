@@ -2889,7 +2889,7 @@
 
 ## sublime-text 
 
-- [SublimeText/Astro](https://github.com/SublimeText/Astro) - Astro syntax highlighting for Sublime Text
+- [SublimeText/Astro](https://github.com/SublimeText/Astro) - Astro syntax for Sublime Text
 - [randy3k/AlignTab](https://github.com/randy3k/AlignTab) - An alignment plugin for Sublime Text using regular expression
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 
