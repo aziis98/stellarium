@@ -215,7 +215,7 @@
 
 ## ai 
 
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for document interaction with local LLM
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [janhq/nitro](https://github.com/janhq/nitro) - An inference server on top of llama.cpp. OpenAI-compatible API, queue, & scaling. Embed a prod-ready, local inference engine in your apps. Powers Jan
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1889,6 +1889,7 @@
 
 ## others 
 
+- [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
