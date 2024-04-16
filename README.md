@@ -672,7 +672,7 @@
 
 ## JavaScript 
 
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for document interaction with local LLM
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
 - [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
@@ -1394,6 +1394,7 @@
 
 ## TypeScript 
 
+- [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
