@@ -672,7 +672,7 @@
 
 ## JavaScript 
 
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for easy document interaction with local LLM
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - The easiest-to-use app for RAG and document interaction with a local LLM.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
 - [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
@@ -1562,6 +1562,7 @@
 
 ## Zig 
 
+- [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui) - Use any web browser as GUI, with Zig in the backend and HTML5 in the frontend.
