@@ -215,7 +215,7 @@
 
 ## ai 
 
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - The easiest-to-use app for RAG and document interaction with a local LLM.
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - The easiest-to-use app for RAG and document interaction with a fully local LLM that runs offline
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [janhq/nitro](https://github.com/janhq/nitro) - An inference server on top of llama.cpp. OpenAI-compatible API, queue, & scaling. Embed a prod-ready, local inference engine in your apps. Powers Jan
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -634,7 +634,7 @@
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -1848,7 +1848,7 @@
 
 ## npm 
 
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [felvin-search/instant-apps](https://github.com/felvin-search/instant-apps) - Your search box is now an app store! 🎉
 - [RusticFlare/pixel-sorter](https://github.com/RusticFlare/pixel-sorter) - A command line app for pixel sorting images
 
@@ -2783,6 +2783,7 @@
 ## self-hosted 
 
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - The easiest-to-use app for RAG and document interaction with a fully local LLM that runs offline
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -2800,7 +2801,7 @@
 
 ## server 
 
-- [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables in the RebootX app.
+- [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables and dashboards in the RebootX app.
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -3000,7 +3001,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [kitajs/html](https://github.com/kitajs/html) - 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [nicojs/typed-html](https://github.com/nicojs/typed-html) - TypeSafe HTML templates using TypeScript. No need to learn a template library.
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
