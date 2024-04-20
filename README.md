@@ -672,7 +672,7 @@
 
 ## JavaScript 
 
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - The easiest-to-use app for RAG and document interaction with a fully local LLM that runs offline
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - RAG and Local AI made super-easy
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
 - [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
