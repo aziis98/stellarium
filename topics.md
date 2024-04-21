@@ -1890,6 +1890,7 @@
 
 ## others 
 
+- [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
@@ -2189,7 +2190,7 @@
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [jhnc/findimagedupes](https://github.com/jhnc/findimagedupes) - Finds visually similar or duplicate images
 - [BestImageViewer/geeqie](https://github.com/BestImageViewer/geeqie) - claiming to be the best image viewer / photo collection browser
-- [antfu/vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
+- [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [rubik/rubik.github.io](https://github.com/rubik/rubik.github.io) - A blog about Python and Kubernetes
 - [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
 - [adamhaile/S](https://github.com/adamhaile/S) - S.js - Simple, Clean, Fast Reactive Programming in Javascript
