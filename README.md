@@ -364,6 +364,7 @@
 
 ## Go 
 
+- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1403,6 +1404,7 @@
 
 ## TypeScript 
 
+- [aziis98/gdsl](https://github.com/aziis98/gdsl) - A small declarative DSL for CanvasRenderingContext2D
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
@@ -1491,7 +1493,7 @@
 - [wycats/starbeam-historical](https://github.com/wycats/starbeam-historical) - 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [vega/vega-datasets](https://github.com/vega/vega-datasets) - Common repository for example datasets used by Vega-related projects
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
