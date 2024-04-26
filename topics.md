@@ -247,7 +247,7 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -344,7 +344,7 @@
 
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## bash 
 
@@ -700,7 +700,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -782,7 +782,7 @@
 ## firebase 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 
 ## flask 
@@ -793,7 +793,7 @@
 ## flutter 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## flutter-apps 
 
@@ -914,6 +914,7 @@
 
 ## go 
 
+- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
@@ -1011,6 +1012,7 @@
 
 ## golang 
 
+- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [pkg/xattr](https://github.com/pkg/xattr) - Extended attribute support for Go (linux + darwin + freebsd)
@@ -1175,7 +1177,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
@@ -1297,7 +1299,7 @@
 
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 
 ## iot 
@@ -1373,7 +1375,7 @@
 - [jshttp/mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1742,6 +1744,7 @@
 
 ## monitoring 
 
+- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1792,7 +1795,7 @@
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## nim 
@@ -1901,6 +1904,7 @@
 
 ## others 
 
+- [aziis98/gdsl](https://github.com/aziis98/gdsl) - A small declarative DSL for CanvasRenderingContext2D
 - [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
@@ -2639,7 +2643,7 @@
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -2661,7 +2665,7 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 
@@ -2796,6 +2800,7 @@
 
 ## self-hosted 
 
+- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for easy RAG with local LLM
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -2805,7 +2810,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -2827,7 +2832,7 @@
 ## serverless 
 
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 
 ## shell 
@@ -2875,6 +2880,7 @@
 
 ## sqlite 
 
+- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
@@ -2923,7 +2929,7 @@
 ## swift 
 
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## swiftui 
 
@@ -3101,7 +3107,7 @@
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
