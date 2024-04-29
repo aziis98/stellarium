@@ -365,6 +365,8 @@
 
 ## Go 
 
+- [tractordev/wanix](https://github.com/tractordev/wanix) - Experimental, local-first, web-native, Unix-like development environment
+- [aziis98/go-restruct](https://github.com/aziis98/go-restruct) - A golang library to convert between types using generics and reflection
 - [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
@@ -1191,6 +1193,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
@@ -1479,7 +1482,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [emosheeep/vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin for Vite, generate multiple entries using only one template.
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
-- [meganetaaan/stack-chan](https://github.com/meganetaaan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
