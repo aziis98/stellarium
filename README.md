@@ -367,7 +367,7 @@
 
 - [tractordev/wanix](https://github.com/tractordev/wanix) - Experimental, local-first, web-native, Unix-like development environment
 - [aziis98/go-restruct](https://github.com/aziis98/go-restruct) - A golang library to convert between types using generics and reflection
-- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1009,6 +1009,7 @@
 
 ## Others 
 
+- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 - [trekhleb/okso-app](https://github.com/trekhleb/okso-app) - ✍🏻 The drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 - [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -1424,7 +1425,7 @@
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
@@ -1545,7 +1546,7 @@
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [red/VScode-extension](https://github.com/red/VScode-extension) - Red extension for Visual Studio Code
 - [kutlugsahin/smooth-dnd](https://github.com/kutlugsahin/smooth-dnd) - drag and drop library for javascript
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 ## V 
