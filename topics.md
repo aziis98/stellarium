@@ -560,7 +560,7 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [getbem/getbem.github.io](https://github.com/getbem/getbem.github.io) - Get BEM to all people in simplest way
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
 
@@ -601,7 +601,7 @@
 
 ## database 
 
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
@@ -913,7 +913,7 @@
 
 ## go 
 
-- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
@@ -1012,7 +1012,7 @@
 ## golang 
 
 - [tractordev/wanix](https://github.com/tractordev/wanix) - Experimental, local-first, web-native, Unix-like development environment
-- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [pkg/xattr](https://github.com/pkg/xattr) - Extended attribute support for Go (linux + darwin + freebsd)
@@ -1222,7 +1222,7 @@
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
 ## haskell 
@@ -1240,7 +1240,7 @@
 
 ## html 
 
-- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
@@ -1257,7 +1257,7 @@
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 ## html5 
@@ -1418,7 +1418,7 @@
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [kutlugsahin/smooth-dnd](https://github.com/kutlugsahin/smooth-dnd) - drag and drop library for javascript
 - [kbrsh/moon](https://github.com/kbrsh/moon) - 🌙 The minimal & fast library for functional user interfaces
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -1521,6 +1521,7 @@
 
 ## languages 
 
+- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 
 ## latex 
@@ -1609,7 +1610,7 @@
 
 ## low-code 
 
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
@@ -1746,7 +1747,7 @@
 
 ## monitoring 
 
-- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -2512,7 +2513,7 @@
 ## postgresql 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -2809,7 +2810,7 @@
 
 ## self-hosted 
 
-- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for easy RAG with local LLM
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -2890,9 +2891,9 @@
 
 ## sqlite 
 
-- [goksan/Statusnook](https://github.com/goksan/Statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
