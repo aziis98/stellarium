@@ -2369,7 +2369,7 @@
 - [MunifTanjim/minimo](https://github.com/MunifTanjim/minimo) - Minimo - Minimalist theme for Hugo
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [oskardolch/SteamCAD](https://github.com/oskardolch/SteamCAD) - 2D CAD especially designed to draw steam locomotives
-- [azmelanar/hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll) - A simple, beautiful Hugo theme that's mobile first.
+- [azmelanar/hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll) - A simple, beautiful theme for Hugo.
 - [knadh/hugo-ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme for Hugo
 - [jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) - Lithium - A simple responsive Hugo theme
 - [carsonip/hugo-theme-minos](https://github.com/carsonip/hugo-theme-minos) - A simple and retro styled Hugo theme ported from Hexo
