@@ -574,7 +574,7 @@
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
@@ -1194,6 +1194,8 @@
 
 ## Rust 
 
+- [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
