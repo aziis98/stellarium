@@ -1523,7 +1523,6 @@
 
 ## languages 
 
-- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 
 ## latex 
@@ -1910,6 +1909,7 @@
 
 ## others 
 
+- [microsoft/go](https://github.com/microsoft/go) - The Microsoft build of the Go toolset
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [aziis98/go-restruct](https://github.com/aziis98/go-restruct) - A golang library to convert between types using generics and reflection
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
