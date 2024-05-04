@@ -1340,6 +1340,7 @@
 ## javascript 
 
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
@@ -1909,6 +1910,7 @@
 
 ## others 
 
+- [sebbbi/OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation
 - [microsoft/go](https://github.com/microsoft/go) - The Microsoft build of the Go toolset
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [aziis98/go-restruct](https://github.com/aziis98/go-restruct) - A golang library to convert between types using generics and reflection
@@ -3081,7 +3083,7 @@
 
 ## visual-studio-code 
 
-- [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
+- [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
