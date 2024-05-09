@@ -113,6 +113,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -1613,6 +1614,21 @@
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
+## llm 
+
+- [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
+- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for easy RAG with local LLM
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+- [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
+- [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+- [janhq/cortex](https://github.com/janhq/cortex) - Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM). Powers 👋 Jan
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
+- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
+
 ## low-code 
 
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -1920,7 +1936,6 @@
 - [aziis98/go-restruct](https://github.com/aziis98/go-restruct) - A golang library to convert between types using generics and reflection
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [aziis98/gdsl](https://github.com/aziis98/gdsl) - A small declarative DSL for CanvasRenderingContext2D
-- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
@@ -1936,7 +1951,6 @@
 - [trekhleb/okso-app](https://github.com/trekhleb/okso-app) - ✍🏻 The drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 - [capjamesg/knowledge-graph-language](https://github.com/capjamesg/knowledge-graph-language) - A query language for exploring knowledge graphs.
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -1949,7 +1963,6 @@
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
-- [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
 - [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - An Elm-inspired framework for building HTML templates, single page applications, and server-rendered components in Gleam!
@@ -1997,13 +2010,11 @@
 - [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui) - Use any web browser as GUI, with Zig in the backend and HTML5 in the frontend.
 - [Unipisa/dm-planimetrie](https://github.com/Unipisa/dm-planimetrie) - Progetto planimetrie per il sito del dipartimento di matematica
 - [GenieFramework/Stipple.jl](https://github.com/GenieFramework/Stipple.jl) - The reactive UI library for interactive data applications with pure Julia.
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [penxio/penx](https://github.com/penxio/penx) - A structured knowledge base for personal use.
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [Unipisa/Oraculum](https://github.com/Unipisa/Oraculum) - Library to manage knowledge and create prompts to support OpenAI generative AI scenarios
 - [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - The Lean 4 web editor
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
