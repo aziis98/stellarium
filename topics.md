@@ -57,6 +57,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -719,6 +720,12 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 
+## dotfiles 
+
+- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
+- [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
+- [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
+
 ## dotnet 
 
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -1128,7 +1135,6 @@
 - [graphql-compose/graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose) - Mongoose model converter to GraphQL types with resolvers for graphql-compose https://github.com/nodkz/graphql-compose
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
 
@@ -2317,7 +2323,6 @@
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [aziis98/ordinazioni-condivise](https://github.com/aziis98/ordinazioni-condivise) - Un progetto realizzato in una manciata di ore per stimare i costi di ordinazioni condivise
 - [masotime/json-url](https://github.com/masotime/json-url) - Compress JSON into compact base64 URI-friendly notation
-- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [github/template-parts](https://github.com/github/template-parts) - An implementation of the Template Parts proposal
