@@ -372,7 +372,7 @@
 
 ## Go 
 
-- [andydunstall/pico](https://github.com/andydunstall/pico) - A reverse proxy to connect to external networks (tunnelling)
+- [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 - [microsoft/go](https://github.com/microsoft/go) - The Microsoft build of the Go toolset
@@ -908,6 +908,7 @@
 
 ## Jupyter Notebook 
 
+- [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [redhog/InfiniteGlass](https://github.com/redhog/InfiniteGlass) - Window manager with infinite desktop, infinite zoom and infinite window resolution
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
@@ -1462,7 +1463,7 @@
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
-- [penxio/penx](https://github.com/penxio/penx) - A structured knowledge base for personal use.
+- [penxio/penx](https://github.com/penxio/penx) - Your personal database
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
@@ -1594,6 +1595,7 @@
 
 ## Zig 
 
+- [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
