@@ -2254,7 +2254,7 @@
 - [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
-- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
+- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A next-gen functional language
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [awelm/simpledb](https://github.com/awelm/simpledb) - A simple database built from scratch that has some the basic RDBMS features (SQL query parser, transactions, query optimizer)
 - [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb) - New wrap requests
