@@ -441,7 +441,7 @@
 
 ## cli 
 
-- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
@@ -1027,7 +1027,7 @@
 
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [tractordev/wanix](https://github.com/tractordev/wanix) - Experimental, local-first, web-native, Unix-like development environment
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
