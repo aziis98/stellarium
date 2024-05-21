@@ -693,7 +693,7 @@
 ## JavaScript 
 
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
-- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Standalone app for easy RAG with local LLM
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
 - [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
@@ -909,7 +909,7 @@
 ## Jupyter Notebook 
 
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [redhog/InfiniteGlass](https://github.com/redhog/InfiniteGlass) - Window manager with infinite desktop, infinite zoom and infinite window resolution
 - [morrolinux/simple-ehm](https://github.com/morrolinux/simple-ehm) - A simple tool for a simple task: remove filler sounds ("ehm") from pre-recorded speeches. AI powered.
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
