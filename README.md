@@ -205,6 +205,8 @@
 
 ## C++ 
 
+- [rrwick/Bandage](https://github.com/rrwick/Bandage) - a Bioinformatics Application for Navigating De novo Assembly Graphs Easily
+- [ggonnella/gfaviz](https://github.com/ggonnella/gfaviz) - Graphical interactive tool for the visualization of sequence graphs in GFA format.
 - [sebbbi/OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -1205,6 +1207,7 @@
 
 ## Rust 
 
+- [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
@@ -1389,6 +1392,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [cotyhamilton/hacker-newsy](https://github.com/cotyhamilton/hacker-newsy) - pretty hacker news client
