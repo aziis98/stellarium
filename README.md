@@ -905,6 +905,9 @@
 
 ## Julia 
 
+- [JuliaNLSolvers/Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Optimization functions for Julia
+- [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
+- [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [JuliaParallel/PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) - Julia wrappers for the PETSc library
 - [QuantumBFS/YaoLang.jl](https://github.com/QuantumBFS/YaoLang.jl) - YaoLang: The next DSL for Yao and quantum programs.
 
