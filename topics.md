@@ -1950,6 +1950,7 @@
 
 ## others 
 
+- [sphaerophoria/video-editor](https://github.com/sphaerophoria/video-editor) - 
 - [rrwick/Bandage](https://github.com/rrwick/Bandage) - a Bioinformatics Application for Navigating De novo Assembly Graphs Easily
 - [ggonnella/gfaviz](https://github.com/ggonnella/gfaviz) - Graphical interactive tool for the visualization of sequence graphs in GFA format.
 - [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
