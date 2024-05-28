@@ -1210,6 +1210,7 @@
 
 ## Rust 
 
+- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
