@@ -1381,7 +1381,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
-- [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
+- [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [josephernest/Swap](https://github.com/josephernest/Swap) - Swap.js is a "HTML-over-the-wire" AJAX-navigation micro-library
 - [saharan/OimoPhysics](https://github.com/saharan/OimoPhysics) - A cross-platform 3D physics engine
@@ -2353,7 +2353,7 @@
 - [cnf/structhash](https://github.com/cnf/structhash) - Go (golang) package to get hash strings of arbitrary data structures.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [QuantumBFS/YaoLang.jl](https://github.com/QuantumBFS/YaoLang.jl) - YaoLang: The next DSL for Yao and quantum programs.
 - [soruly/trace.moe-telegram-bot](https://github.com/soruly/trace.moe-telegram-bot) - This Telegram Bot can tell the anime when you send an screenshot to it
 - [forgojs/forgo](https://github.com/forgojs/forgo) - An ultra-light UI runtime
