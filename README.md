@@ -729,7 +729,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [boutell/tome](https://github.com/boutell/tome) - A command line text editor written in Node.js, focused on JavaScript.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
-- [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
+- [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
 - [Unipisa/dm-manager](https://github.com/Unipisa/dm-manager) - gestione informazioni amministrative di dipartimento
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
@@ -1540,7 +1540,7 @@
 - [wwwtyro/candygraph](https://github.com/wwwtyro/candygraph) - Fast by default, flexible 2D plotting library.
 - [github/template-parts](https://github.com/github/template-parts) - An implementation of the Template Parts proposal
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [forgojs/forgo](https://github.com/forgojs/forgo) - An ultra-light UI runtime
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
