@@ -661,6 +661,7 @@
 
 ## Java 
 
+- [jbellis/jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
 - [kspalaiologos/kamilalisp](https://github.com/kspalaiologos/kamilalisp) - A functional, flexible and concise Lisp.
 - [t-e-l/tel](https://github.com/t-e-l/tel) - Termux Launcher for Experts
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -1005,6 +1006,7 @@
 
 ## OCaml 
 
+- [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 
 ## Objective-C 
@@ -1210,6 +1212,7 @@
 
 ## Rust 
 
+- [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ Local Zapier replacement written in Rust to make local AI do way more than chat
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
