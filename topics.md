@@ -700,6 +700,7 @@
 
 ## docker 
 
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1068,7 +1069,7 @@
 - [steinfletcher/gonum](https://github.com/steinfletcher/gonum) - An enum generator for Go
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-- [psilva261/opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
+- [psilva261/mycel](https://github.com/psilva261/mycel) - Rudimentary web browser written in Golang
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
 - [sarulabs/di](https://github.com/sarulabs/di) - Dependency injection container in go (golang)
 - [aegistudio/enigma](https://github.com/aegistudio/enigma) - 🔢🔒Enigma: a simple cross-platform encrypted filesystem
