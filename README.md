@@ -206,6 +206,7 @@
 
 ## C++ 
 
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [rrwick/Bandage](https://github.com/rrwick/Bandage) - a Bioinformatics Application for Navigating De novo Assembly Graphs Easily
 - [ggonnella/gfaviz](https://github.com/ggonnella/gfaviz) - Graphical interactive tool for the visualization of sequence graphs in GFA format.
 - [sebbbi/OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation
@@ -467,7 +468,7 @@
 - [NoahShen/gotunnelme](https://github.com/NoahShen/gotunnelme) - golang version of http://localtunnel.me client
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [mjl-/duit](https://github.com/mjl-/duit) - pure go, cross-platform, MIT-licensed ui toolkit for developers
-- [psilva261/opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
+- [psilva261/mycel](https://github.com/psilva261/mycel) - Rudimentary web browser written in Golang
 - [appleboy/drone-ssh](https://github.com/appleboy/drone-ssh) - Drone plugin for executing remote ssh commands
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
 - [qiangxue/fasthttp-routing](https://github.com/qiangxue/fasthttp-routing) - A fast and powerful routing package for fasthttp servers
