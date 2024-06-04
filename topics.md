@@ -1584,6 +1584,7 @@
 
 ## linux 
 
+- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
@@ -1956,6 +1957,7 @@
 
 ## others 
 
+- [piqoni/hn-text](https://github.com/piqoni/hn-text) - A text-first HN client.
 - [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - Fine-Tuning Embedding for RAG with Synthetic Data
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
@@ -2215,7 +2217,7 @@
 - [grego/caretaker](https://github.com/grego/caretaker) - A simple, configurable filesystem watcher
 - [hylo-lang/Lotsawa](https://github.com/hylo-lang/Lotsawa) - A Swift implementation of the MARPA algorithms
 - [Fran314/bbup-rs](https://github.com/Fran314/bbup-rs) - 
-- [Concurnas/Concurnas](https://github.com/Concurnas/Concurnas) - Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems
+- [Concurnas/Concurnas](https://github.com/Concurnas/Concurnas) - =Please be aware that Concurnas is no longer in active development = Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distrib
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
@@ -2669,6 +2671,7 @@
 
 ## qt 
 
+- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
@@ -3223,6 +3226,7 @@
 
 ## windows 
 
+- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
