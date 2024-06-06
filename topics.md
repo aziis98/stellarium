@@ -64,6 +64,7 @@
 - [elixir](#elixir)
 - [emacs](#emacs)
 - [embedded](#embedded)
+- [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
@@ -442,6 +443,7 @@
 
 ## cli 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -700,6 +702,7 @@
 
 ## docker 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -779,6 +782,10 @@
 - [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
+## emulator 
+
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 
 ## es6 
 
@@ -904,6 +911,7 @@
 
 ## games 
 
+- [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [domeengine/dome](https://github.com/domeengine/dome) - A lightweight game development environment where games can be written in Wren
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
@@ -1156,6 +1164,7 @@
 
 ## hacktoberfest 
 
+- [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [bolt/core](https://github.com/bolt/core) - 🧿 Bolt 5 core
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -1942,6 +1951,7 @@
 
 ## opengl 
 
+- [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [cococry/leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [fabioarnold/nanovg-zig](https://github.com/fabioarnold/nanovg-zig) - A small anti-aliased hardware-accelerated vector graphics library
@@ -1961,6 +1971,7 @@
 
 ## others 
 
+- [johnBuffer/JuliaRendering](https://github.com/johnBuffer/JuliaRendering) - 
 - [piqoni/hn-text](https://github.com/piqoni/hn-text) - A text-first HN client.
 - [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - Fine-Tuning Embedding for RAG with Synthetic Data
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
@@ -2782,6 +2793,7 @@
 
 ## rust 
 
+- [LeopoldArkham/humansize](https://github.com/LeopoldArkham/humansize) - Humansize - A flexible crate for humanizing file sizes
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
