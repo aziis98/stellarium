@@ -615,7 +615,7 @@
 
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
-- [penxio/penx](https://github.com/penxio/penx) - Your personal database
+- [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [spandanb/learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch.
@@ -1240,7 +1240,6 @@
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [napcs/node-livereload](https://github.com/napcs/node-livereload) - Current maintained fork of LiveReload server in Node.js
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
@@ -1370,6 +1369,7 @@
 
 ## javascript 
 
+- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
@@ -1690,6 +1690,7 @@
 
 ## machine-learning 
 
+- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [jbellis/jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
 - [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
@@ -1971,6 +1972,8 @@
 
 ## others 
 
+- [Bloomca/veles](https://github.com/Bloomca/veles) - UI library with main focus on performance
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [johnBuffer/JuliaRendering](https://github.com/johnBuffer/JuliaRendering) - 
 - [piqoni/hn-text](https://github.com/piqoni/hn-text) - A text-first HN client.
 - [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - Fine-Tuning Embedding for RAG with Synthetic Data
@@ -2420,6 +2423,7 @@
 - [hoisie/mustache](https://github.com/hoisie/mustache) - The mustache template language in Go
 - [treeform/fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
 - [abbot/go-http-auth](https://github.com/abbot/go-http-auth) - Basic and Digest HTTP Authentication for golang http
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [mudgen/webscript](https://github.com/mudgen/webscript) - Webscript is a Javascript library for creating DOM elements. Use it to create web applications. It is like HTML but it is Javascript. It is designed to work with existing libraries.
 - [rxi/lite-plugins](https://github.com/rxi/lite-plugins) - Plugins for the lite text editor
 - [vekatze/neut](https://github.com/vekatze/neut) - A dependently-typed programming language with static memory management
@@ -2564,6 +2568,7 @@
 
 ## parsing 
 
+- [0x2a-42/lelwel](https://github.com/0x2a-42/lelwel) - Resilient LL(1) parser generator for Rust
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
@@ -2793,6 +2798,7 @@
 
 ## rust 
 
+- [0x2a-42/lelwel](https://github.com/0x2a-42/lelwel) - Resilient LL(1) parser generator for Rust
 - [LeopoldArkham/humansize](https://github.com/LeopoldArkham/humansize) - Humansize - A flexible crate for humanizing file sizes
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
@@ -3098,6 +3104,7 @@
 
 ## typescript 
 
+- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
