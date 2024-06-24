@@ -2003,6 +2003,7 @@
 
 ## others 
 
+- [kcning/intel-hybrid-driver](https://github.com/kcning/intel-hybrid-driver) - 
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [sosedoff/gitkit](https://github.com/sosedoff/gitkit) - Git toolkit for Go: Smart HTTP server, SSH server, hook receiver
