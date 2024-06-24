@@ -207,6 +207,7 @@
 
 ## C++ 
 
+- [kcning/intel-hybrid-driver](https://github.com/kcning/intel-hybrid-driver) - 
 - [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [johnBuffer/JuliaRendering](https://github.com/johnBuffer/JuliaRendering) - 
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
