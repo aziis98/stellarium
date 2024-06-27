@@ -568,6 +568,7 @@
 
 ## csharp 
 
+- [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
@@ -1402,6 +1403,7 @@
 
 ## javascript 
 
+- [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [Bloomca/veles](https://github.com/Bloomca/veles) - UI library with main focus on performance
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
@@ -1915,6 +1917,7 @@
 
 ## node 
 
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Building web app with less complexity and more joy 🎉
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
@@ -2015,6 +2018,9 @@
 
 ## others 
 
+- [DouglasDwyer/type_enum](https://github.com/DouglasDwyer/type_enum) - Create tagged unions consisting of different types.
+- [sirwhinesalot/gc-arena](https://github.com/sirwhinesalot/gc-arena) - A simple Garbage Collected Arena for C.
+- [aziis98/spectral-sequence-editor](https://github.com/aziis98/spectral-sequence-editor) - Small spectral sequence editor web app
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [kcning/intel-hybrid-driver](https://github.com/kcning/intel-hybrid-driver) - 
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
@@ -2033,6 +2039,7 @@
 - [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [sebbbi/OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation
+- [aziis98/fantavision](https://github.com/aziis98/fantavision) - Progetto pensato per l'EuroVision realizzato con Astro e Firebase
 - [microsoft/go](https://github.com/microsoft/go) - The Microsoft build of the Go toolset
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [aziis98/go-restruct](https://github.com/aziis98/go-restruct) - A golang library to convert between types using generics and reflection
@@ -2675,6 +2682,7 @@
 
 ## python 
 
+- [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [pygae/clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
@@ -2852,6 +2860,7 @@
 
 ## rust 
 
+- [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [sulami/blog](https://github.com/sulami/blog) - ✍️ My blog. Custom static site generator.
@@ -3037,6 +3046,7 @@
 
 ## sqlite 
 
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Building web app with less complexity and more joy 🎉
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
@@ -3164,6 +3174,7 @@
 
 ## typescript 
 
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Building web app with less complexity and more joy 🎉
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
