@@ -1922,7 +1922,7 @@
 
 ## node 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Building web app with less complexity and more joy 🎉
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Full-stack web framework based on SQLite and HTMX
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
@@ -3053,7 +3053,7 @@
 
 ## sqlite 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Building web app with less complexity and more joy 🎉
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Full-stack web framework based on SQLite and HTMX
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
@@ -3181,7 +3181,7 @@
 
 ## typescript 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Building web app with less complexity and more joy 🎉
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Full-stack web framework based on SQLite and HTMX
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
