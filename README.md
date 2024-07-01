@@ -1475,7 +1475,7 @@
 
 ## TypeScript 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Building web app with less complexity and more joy 🎉
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Full-stack web framework based on SQLite and HTMX
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
