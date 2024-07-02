@@ -1457,6 +1457,7 @@
 
 ## TeX 
 
+- [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [Splines/vscode-latex-wsl-setup](https://github.com/Splines/vscode-latex-wsl-setup) - My setup for writing LaTeX documents on Windows using WSL, VSCode & TeXLive
 - [lukefleed/G2-cheat-sheet](https://github.com/lukefleed/G2-cheat-sheet) - 
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
