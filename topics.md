@@ -1606,6 +1606,7 @@
 
 ## latex 
 
+- [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [Splines/vscode-latex-wsl-setup](https://github.com/Splines/vscode-latex-wsl-setup) - My setup for writing LaTeX documents on Windows using WSL, VSCode & TeXLive
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
