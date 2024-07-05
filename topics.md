@@ -582,7 +582,7 @@
 - [aziis98/preact-timer](https://github.com/aziis98/preact-timer) - A localStorage-timer made with Preact with developit/htm
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [getbem/getbem.github.io](https://github.com/getbem/getbem.github.io) - Get BEM to all people in simplest way
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
@@ -1208,7 +1208,7 @@
 - [timvisee/prs](https://github.com/timvisee/prs) - 🔐 A secure, fast & convenient password manager CLI using GPG and git to sync.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [modrinth/theseus](https://github.com/modrinth/theseus) - AKA the Modrinth App, a launcher for Minecraft: Java Edition with a clean look, easy-to-use interface, and deep integration into Modrinth services.
+- [modrinth/olympus](https://github.com/modrinth/olympus) - The Modrinth monorepo containing all code which powers Modrinth!
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [cortinico/thebakery](https://github.com/cortinico/thebakery) - Website for The Developers' Bakery Podcast 👨‍🍳
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
@@ -1826,7 +1826,7 @@
 ## minecraft 
 
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-- [modrinth/theseus](https://github.com/modrinth/theseus) - AKA the Modrinth App, a launcher for Minecraft: Java Edition with a clean look, easy-to-use interface, and deep integration into Modrinth services.
+- [modrinth/olympus](https://github.com/modrinth/olympus) - The Modrinth monorepo containing all code which powers Modrinth!
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) - Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -2814,7 +2814,7 @@
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [gilamran/fullstack-typescript](https://github.com/gilamran/fullstack-typescript) - FAST FullStack React with TypeScript starter kit.
@@ -3104,7 +3104,7 @@
 - [pintariching/rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## swift 
 
@@ -3132,6 +3132,7 @@
 
 ## terminal 
 
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
 - [file-acomplaint/kyun](https://github.com/file-acomplaint/kyun) - The worst text editor (yet)
@@ -3244,6 +3245,7 @@
 
 ## vim 
 
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
