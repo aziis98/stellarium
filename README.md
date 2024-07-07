@@ -209,6 +209,7 @@
 
 ## C++ 
 
+- [linkdd/larena](https://github.com/linkdd/larena) - Yet another simple header only arena allocator for C11
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -712,6 +713,7 @@
 
 ## JavaScript 
 
+- [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
@@ -1105,6 +1107,7 @@
 
 ## Python 
 
+- [affjljoo3581/GPT2](https://github.com/affjljoo3581/GPT2) - PyTorch Implementation of OpenAI GPT-2
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
