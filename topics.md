@@ -132,6 +132,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nestjs](#nestjs)
 - [neural-network](#neural-network)
@@ -390,6 +391,7 @@
 
 ## c 
 
+- [linkdd/larena](https://github.com/linkdd/larena) - Yet another simple header only arena allocator for C11
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
@@ -1885,6 +1887,10 @@
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
+## natural-language-processing 
+
+- [affjljoo3581/GPT2](https://github.com/affjljoo3581/GPT2) - PyTorch Implementation of OpenAI GPT-2
+
 ## neovim 
 
 - [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
@@ -1919,6 +1925,7 @@
 
 ## nlp 
 
+- [affjljoo3581/GPT2](https://github.com/affjljoo3581/GPT2) - PyTorch Implementation of OpenAI GPT-2
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 
 ## node 
@@ -2024,6 +2031,7 @@
 
 ## others 
 
+- [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
@@ -2752,6 +2760,7 @@
 
 ## pytorch 
 
+- [affjljoo3581/GPT2](https://github.com/affjljoo3581/GPT2) - PyTorch Implementation of OpenAI GPT-2
 - [ashishpatel26/LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
