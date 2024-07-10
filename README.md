@@ -102,6 +102,7 @@
 
 ## C 
 
+- [zherczeg/sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [sirwhinesalot/gc-arena](https://github.com/sirwhinesalot/gc-arena) - A simple Garbage Collected Arena for C.
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
@@ -1486,8 +1487,9 @@
 
 ## TypeScript 
 
+- [gdgpescara/hedwig](https://github.com/gdgpescara/hedwig) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Fullstack micro framework based on SQLite and HTMX
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - TypeScript microframework based on JSX, SQLite and HTMX
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
