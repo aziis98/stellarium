@@ -827,6 +827,7 @@
 
 ## express 
 
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - TypeScript microframework based on JSX, SQLite and HTMX
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 
@@ -1935,7 +1936,7 @@
 
 ## node 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Fullstack micro framework based on SQLite and HTMX
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - TypeScript microframework based on JSX, SQLite and HTMX
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
@@ -2036,6 +2037,8 @@
 
 ## others 
 
+- [zherczeg/sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
+- [gdgpescara/hedwig](https://github.com/gdgpescara/hedwig) - 
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -3074,7 +3077,7 @@
 
 ## sqlite 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Fullstack micro framework based on SQLite and HTMX
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - TypeScript microframework based on JSX, SQLite and HTMX
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
@@ -3204,7 +3207,7 @@
 ## typescript 
 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - Fullstack micro framework based on SQLite and HTMX
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - TypeScript microframework based on JSX, SQLite and HTMX
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
