@@ -1112,6 +1112,7 @@
 
 ## Python 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [affjljoo3581/GPT2](https://github.com/affjljoo3581/GPT2) - PyTorch Implementation of OpenAI GPT-2
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
