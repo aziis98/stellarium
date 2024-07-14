@@ -206,6 +206,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-assembly](#web-assembly)
 - [web-components](#web-components)
 - [web-development](#web-development)
 - [webapp](#webapp)
@@ -2040,6 +2041,7 @@
 
 ## others 
 
+- [dawbarton/pdf2svg](https://github.com/dawbarton/pdf2svg) - A simple PDF to SVG converter using the Poppler and Cairo libraries
 - [FurqanSoftware/codemirror-languageserver](https://github.com/FurqanSoftware/codemirror-languageserver) - Language Server integration for CodeMirror 6
 - [qualified/lsps](https://github.com/qualified/lsps) - Use Language Servers with in-browser editors. Monorepo of editor agnostic packages and CodeMirror client.
 - [zherczeg/sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
@@ -2897,6 +2899,7 @@
 
 ## rust 
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
@@ -2991,6 +2994,7 @@
 
 ## security 
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
@@ -3333,6 +3337,10 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+
+## web-assembly 
+
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 
 ## web-components 
 
