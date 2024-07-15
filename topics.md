@@ -509,6 +509,7 @@
 
 ## compiler 
 
+- [mazeppa-dev/mazeppa](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [dylan-lang/opendylan](https://github.com/dylan-lang/opendylan) - Open Dylan compiler and IDE
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
@@ -1549,6 +1550,7 @@
 
 ## julia 
 
+- [JuliaRobotics/AprilTags.jl](https://github.com/JuliaRobotics/AprilTags.jl) - Using Apriltags in Julia
 - [JuliaIntervals/IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Library for validated numerics using interval arithmetic
 - [jhigginbotham64/Starlight.jl](https://github.com/jhigginbotham64/Starlight.jl) - A greedy game engine for greedy programmers!
 - [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
@@ -1584,6 +1586,7 @@
 
 ## language 
 
+- [mazeppa-dev/mazeppa](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -2887,6 +2890,7 @@
 
 ## robotics 
 
+- [JuliaRobotics/AprilTags.jl](https://github.com/JuliaRobotics/AprilTags.jl) - Using Apriltags in Julia
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Main repository for the Mech programming language. Start here!
 
