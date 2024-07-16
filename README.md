@@ -233,7 +233,7 @@
 - [janhq/cortex](https://github.com/janhq/cortex) - Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM, ONNX). Powers 👋 Jan
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with a KoboldAI UI
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
@@ -1037,6 +1037,7 @@
 
 ## Nim 
 
+- [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim
 - [karaxnim/karax](https://github.com/karaxnim/karax) - Karax. Single page applications for Nim.
 - [treeform/pixie](https://github.com/treeform/pixie) - Full-featured 2d graphics library for Nim.
 - [arturo-lang/arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
