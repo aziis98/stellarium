@@ -516,7 +516,7 @@
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
-- [dvmason/Zag-Smalltalk](https://github.com/dvmason/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
+- [Zag-Smalltalk/Zag-Smalltalk](https://github.com/Zag-Smalltalk/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -3424,7 +3424,7 @@
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
-- [dvmason/Zag-Smalltalk](https://github.com/dvmason/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
+- [Zag-Smalltalk/Zag-Smalltalk](https://github.com/Zag-Smalltalk/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
