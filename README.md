@@ -1453,7 +1453,7 @@
 
 - [powerlang/powerlang](https://github.com/powerlang/powerlang) - The Powerlang Bootstrapper
 - [aucerna/bee-dmr](https://github.com/aucerna/bee-dmr) - 
-- [Zag-Smalltalk/Zag-Smalltalk](https://github.com/Zag-Smalltalk/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
+- [Zag-Research/Zag-Smalltalk](https://github.com/Zag-Research/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
 
 ## Svelte 
 
