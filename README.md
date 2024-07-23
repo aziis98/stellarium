@@ -720,6 +720,8 @@
 
 ## JavaScript 
 
+- [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+- [jefago/tiny-markdown-editor](https://github.com/jefago/tiny-markdown-editor) - TinyMDE: A tiny, dependency-free embeddable HTML/JavaScript Markdown editor.
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
@@ -1038,6 +1040,7 @@
 
 ## Nim 
 
+- [mratsim/constantine](https://github.com/mratsim/constantine) - Constantine: modular, high-performance, zero-dependency  cryptography stack for verifiable computation, proof systems and blockchain protocols.
 - [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim
 - [karaxnim/karax](https://github.com/karaxnim/karax) - Karax. Single page applications for Nim.
 - [treeform/pixie](https://github.com/treeform/pixie) - Full-featured 2d graphics library for Nim.
@@ -1259,6 +1262,7 @@
 
 ## Rust 
 
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [elevenhsoft/WebApps](https://github.com/elevenhsoft/WebApps) - Web applications at your fingertips.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [DouglasDwyer/type_enum](https://github.com/DouglasDwyer/type_enum) - Create tagged unions consisting of different types.
@@ -1497,6 +1501,8 @@
 
 ## TypeScript 
 
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+- [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [FurqanSoftware/codemirror-languageserver](https://github.com/FurqanSoftware/codemirror-languageserver) - Language Server integration for CodeMirror 6
 - [qualified/lsps](https://github.com/qualified/lsps) - Use Language Servers with in-browser editors. Monorepo of editor agnostic packages and CodeMirror client.
 - [gdgpescara/hedwig](https://github.com/gdgpescara/hedwig) - 
