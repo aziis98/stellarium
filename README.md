@@ -388,6 +388,7 @@
 
 ## Go 
 
+- [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [spy16/slurp](https://github.com/spy16/slurp) - Slurp is a highly customisable LISP toolkit for Go applications. 💻
@@ -1072,6 +1073,7 @@
 
 ## Others 
 
+- [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [trekhleb/okso-app](https://github.com/trekhleb/okso-app) - ✍🏻 The drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 - [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
