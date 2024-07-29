@@ -1431,6 +1431,7 @@
 
 ## Shell 
 
+- [izabera/ps](https://github.com/izabera/ps) - 
 - [dawbarton/pdf2svg](https://github.com/dawbarton/pdf2svg) - A simple PDF to SVG converter using the Poppler and Cairo libraries
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
