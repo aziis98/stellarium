@@ -91,6 +91,7 @@
 
 ## Astro 
 
+- [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
 - [aziis98/website-2023](https://github.com/aziis98/website-2023) - Forse finalmente mi sono fatto un sito che funge (con Astro, Preact e prima ho poi un po' di MDX)
 - [SublimeText/Astro](https://github.com/SublimeText/Astro) - Astro syntax for Sublime Text
@@ -385,7 +386,7 @@
 ## Gleam 
 
 - [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
-- [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - An Elm-inspired framework for building HTML templates, single page applications, and server-rendered components in Gleam!
+- [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
 
 ## Go 
 
