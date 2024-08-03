@@ -2927,6 +2927,7 @@
 
 ## rust 
 
+- [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
