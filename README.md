@@ -1271,6 +1271,7 @@
 
 ## Rust 
 
+- [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [elevenhsoft/WebApps](https://github.com/elevenhsoft/WebApps) - Web applications at your fingertips.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
