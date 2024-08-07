@@ -457,6 +457,7 @@
 
 ## cli 
 
+- [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
@@ -511,6 +512,7 @@
 
 ## compiler 
 
+- [scala/scala3](https://github.com/scala/scala3) - The Scala 3 compiler, also known as Dotty.
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
@@ -694,6 +696,7 @@
 
 ## deployment 
 
+- [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
 
@@ -2973,7 +2976,7 @@
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -3026,6 +3029,7 @@
 
 ## scala 
 
+- [scala/scala3](https://github.com/scala/scala3) - The Scala 3 compiler, also known as Dotty.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 
 ## security 
