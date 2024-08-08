@@ -250,7 +250,6 @@
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean 3 Theorem Prover (community fork)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
@@ -297,7 +296,6 @@
 ## CSS 
 
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
-- [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - The Lean 4 web editor
 - [loichu/arc-theme-xfwm4-hidpi](https://github.com/loichu/arc-theme-xfwm4-hidpi) - Arc theme for xfwm4 with 192 DPI (for 4k or Retina displays). Instructions to do the same with any DPI value.
 - [azmelanar/hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll) - A simple, beautiful theme for Hugo.
 - [jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) - Lithium - A simple responsive Hugo theme
@@ -775,7 +773,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [boutell/tome](https://github.com/boutell/tome) - A command line text editor written in Node.js, focused on JavaScript.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
-- [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
+- [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
 - [Unipisa/dm-manager](https://github.com/Unipisa/dm-manager) - gestione informazioni amministrative di dipartimento
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
@@ -818,6 +816,7 @@
 - [luwes/js-diff-benchmark](https://github.com/luwes/js-diff-benchmark) - Simple benchmark for testing your DOM diffing algorithm.
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [lakesare/memcode](https://github.com/lakesare/memcode) - Spaced-repetition: for coders and scientists.
@@ -1278,6 +1277,7 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [elevenhsoft/WebApps](https://github.com/elevenhsoft/WebApps) - Web applications at your fingertips.
@@ -1344,6 +1344,7 @@
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
@@ -1571,6 +1572,7 @@
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
 - [0xzio/penx](https://github.com/0xzio/penx) - The space for web3 creator.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - The Lean 4 web editor
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -1607,7 +1609,6 @@
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
