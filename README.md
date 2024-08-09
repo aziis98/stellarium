@@ -393,6 +393,7 @@
 
 ## Go 
 
+- [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
@@ -704,7 +705,7 @@
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [awelm/simpledb](https://github.com/awelm/simpledb) - A simple database built from scratch that has some the basic RDBMS features (SQL query parser, transactions, query optimizer)
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
 - [CaffeineMC/phosphor-fabric](https://github.com/CaffeineMC/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs
 - [aidanharris/PDF-Live-Reload](https://github.com/aidanharris/PDF-Live-Reload) - PDF Viewer using PDF.js that reloads upon file change using browser-sync
@@ -1518,6 +1519,7 @@
 
 ## TypeScript 
 
+- [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [FurqanSoftware/codemirror-languageserver](https://github.com/FurqanSoftware/codemirror-languageserver) - Language Server integration for CodeMirror 6
