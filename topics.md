@@ -995,6 +995,7 @@
 
 ## go 
 
+- [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [spy16/slurp](https://github.com/spy16/slurp) - Slurp is a highly customisable LISP toolkit for Go applications. 💻
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
@@ -2063,6 +2064,7 @@
 
 ## others 
 
+- [steelbrain/ffmpeg-over-ip](https://github.com/steelbrain/ffmpeg-over-ip) - Connect to remote ffmpeg servers
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [false-schemers/skint](https://github.com/false-schemers/skint) - Cheap and fast R7RS Scheme interpreter
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
