@@ -393,6 +393,7 @@
 
 ## Go 
 
+- [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
@@ -730,6 +731,7 @@
 
 ## JavaScript 
 
+- [coder/picopilot](https://github.com/coder/picopilot) - GitHub Copilot in 70 lines of JavaScript
 - [steelbrain/ffmpeg-over-ip](https://github.com/steelbrain/ffmpeg-over-ip) - Connect to remote ffmpeg servers
 - [iglosiggio/nodejs-webcam-streaming](https://github.com/iglosiggio/nodejs-webcam-streaming) - Streaming a webcam over http with node.js
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
@@ -1708,6 +1710,7 @@
 
 ## Zig 
 
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [sphaerophoria/video-editor](https://github.com/sphaerophoria/video-editor) - 
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
