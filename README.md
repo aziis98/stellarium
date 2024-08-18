@@ -103,6 +103,8 @@
 
 ## C 
 
+- [ebassi/emeus](https://github.com/ebassi/emeus) - Constraint-based layout manager for GTK+
+- [ebassi/graphene](https://github.com/ebassi/graphene) - A thin layer of graphic data types
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 - [false-schemers/skint](https://github.com/false-schemers/skint) - Cheap and fast R7RS Scheme interpreter
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
@@ -1146,6 +1148,7 @@
 
 ## Python 
 
+- [sieuwe1/PS4-eye-camera-for-linux-with-python-and-OpenCV](https://github.com/sieuwe1/PS4-eye-camera-for-linux-with-python-and-OpenCV) - Use the PS4 camera as an cheap yet powerfull 3D depth and RGB camera for use with OpenCV and python in Linux
 - [dcharatan/pixelsplat](https://github.com/dcharatan/pixelsplat) - [CVPR 2024 Oral, Best Paper Runner-Up] Code for "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" by David Charatan, Sizhe Lester Li, Andrea Tagliasacchi, 
 - [donydchen/mvsplat](https://github.com/donydchen/mvsplat) - 🌊 [ECCV'24 Oral] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
