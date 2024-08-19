@@ -70,6 +70,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [finance](#finance)
 - [firebase](#firebase)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -196,6 +197,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -536,7 +538,7 @@
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Main repository for the Mech programming language. Start here!
+- [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Mech is a programming language for building data-driven systems like robots, games, and interfaces. Start here!
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -753,6 +755,7 @@
 
 ## docker 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [tippfehlr/composehook](https://github.com/tippfehlr/composehook) - create update webhooks for containers in docker compose projects. Configured exclusively with docker labels!
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -860,6 +863,12 @@
 - [joseferben/plainweb](https://github.com/joseferben/plainweb) - A web framework combining SQLite, HTMX and TypeScript
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+
+## finance 
+
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
 ## firebase 
 
@@ -1008,6 +1017,7 @@
 
 ## go 
 
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
@@ -1640,7 +1650,7 @@
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Main repository for the Mech programming language. Start here!
+- [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Mech is a programming language for building data-driven systems like robots, games, and interfaces. Start here!
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1703,6 +1713,7 @@
 
 ## linux 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -1768,7 +1779,7 @@
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [janhq/cortex](https://github.com/janhq/cortex) - Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM, ONNX). Powers 👋 Jan
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with a KoboldAI UI
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
@@ -2751,6 +2762,7 @@
 
 ## php 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [bolt/core](https://github.com/bolt/core) - 🧿 Bolt 5 core
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -2761,6 +2773,7 @@
 
 ## postgresql 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -2978,10 +2991,11 @@
 
 - [JuliaRobotics/AprilTags.jl](https://github.com/JuliaRobotics/AprilTags.jl) - Using Apriltags in Julia
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
-- [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Main repository for the Mech programming language. Start here!
+- [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Mech is a programming language for building data-driven systems like robots, games, and interfaces. Start here!
 
 ## ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -3247,6 +3261,14 @@
 ## symfony 
 
 - [bolt/core](https://github.com/bolt/core) - 🧿 Bolt 5 core
+
+## tailwindcss 
+
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
+- [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## telegram 
 
