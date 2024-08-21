@@ -324,6 +324,7 @@
 
 ## automation 
 
+- [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
@@ -516,6 +517,7 @@
 
 ## code 
 
+- [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 
@@ -1716,6 +1718,7 @@
 
 ## linux 
 
+- [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -1797,6 +1800,7 @@
 
 ## lua 
 
+- [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [zyedidia/knit](https://github.com/zyedidia/knit) - A simple and flexible build tool using Lua, similar to make/mk.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
@@ -2114,6 +2118,9 @@
 
 ## others 
 
+- [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
+- [pragtical/plugins](https://github.com/pragtical/plugins) - Plugins for the Pragtical editor
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
 - [ebassi/emeus](https://github.com/ebassi/emeus) - Constraint-based layout manager for GTK+
