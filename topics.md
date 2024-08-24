@@ -703,7 +703,7 @@
 
 ## deep-learning 
 
-- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
@@ -1042,6 +1042,7 @@
 
 ## go 
 
+- [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
 - [minefuto/tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
@@ -1729,6 +1730,7 @@
 
 ## library 
 
+- [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [Bloomca/veles](https://github.com/Bloomca/veles) - UI library with main focus on performance
 - [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
@@ -1800,7 +1802,7 @@
 
 ## llm 
 
-- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [ashishpatel26/LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
 - [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -1825,6 +1827,7 @@
 
 ## lua 
 
+- [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
 - [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [zyedidia/knit](https://github.com/zyedidia/knit) - A simple and flexible build tool using Lua, similar to make/mk.
@@ -3584,6 +3587,7 @@
 
 ## zig 
 
+- [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
