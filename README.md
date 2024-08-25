@@ -255,7 +255,7 @@
 - [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean 3 Theorem Prover (community fork)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
 - [snej/smol_world](https://github.com/snej/smol_world) - Compact garbage-collected heap and JSON-like object model
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
@@ -1561,6 +1561,7 @@
 
 ## TypeScript 
 
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
