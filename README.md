@@ -400,6 +400,8 @@
 
 ## Go 
 
+- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go
+- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
 - [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
 - [minefuto/tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -1572,7 +1574,7 @@
 - [qualified/lsps](https://github.com/qualified/lsps) - Use Language Servers with in-browser editors. Monorepo of editor agnostic packages and CodeMirror client.
 - [gdgpescara/hedwig](https://github.com/gdgpescara/hedwig) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - A web framework combining SQLite, HTMX and TypeScript
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - All-in-one web framework obsessing about velocity 🏎️
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
