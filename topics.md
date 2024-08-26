@@ -881,7 +881,7 @@
 
 ## express 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - A web framework combining SQLite, HTMX and TypeScript
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - All-in-one web framework obsessing about velocity 🏎️
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 
@@ -2047,7 +2047,7 @@
 
 ## node 
 
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - A web framework combining SQLite, HTMX and TypeScript
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - All-in-one web framework obsessing about velocity 🏎️
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
@@ -2149,6 +2149,8 @@
 
 ## others 
 
+- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go
+- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
@@ -3254,7 +3256,7 @@
 ## sqlite 
 
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - A web framework combining SQLite, HTMX and TypeScript
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - All-in-one web framework obsessing about velocity 🏎️
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
@@ -3397,7 +3399,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [joseferben/plainweb](https://github.com/joseferben/plainweb) - A web framework combining SQLite, HTMX and TypeScript
+- [joseferben/plainweb](https://github.com/joseferben/plainweb) - All-in-one web framework obsessing about velocity 🏎️
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
