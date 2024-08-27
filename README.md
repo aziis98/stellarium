@@ -377,7 +377,7 @@
 - [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
-- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - A very basic dark and sleek Emacs setup for general purpose editing and programming
 - [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [nickdrozd/reazon](https://github.com/nickdrozd/reazon) - miniKanren for Emacs
 
@@ -400,7 +400,7 @@
 
 ## Go 
 
-- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go
+- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
 - [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
 - [minefuto/tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
@@ -1485,6 +1485,7 @@
 
 ## Shell 
 
+- [daitangio/misterio](https://github.com/daitangio/misterio) - Docker-compose based Ansible alternative. It hates spiders
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [izabera/ps](https://github.com/izabera/ps) - 
 - [dawbarton/pdf2svg](https://github.com/dawbarton/pdf2svg) - A simple PDF to SVG converter using the Poppler and Cairo libraries
@@ -1563,6 +1564,7 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
