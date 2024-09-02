@@ -2199,6 +2199,7 @@
 
 ## others 
 
+- [phc-dm/tutorato](https://github.com/phc-dm/tutorato) - 
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [morris/exdom](https://github.com/morris/exdom) - Essential DOM utilities
