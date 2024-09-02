@@ -91,6 +91,7 @@
 
 ## Astro 
 
+- [phc-dm/tutorato](https://github.com/phc-dm/tutorato) - 
 - [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
 - [aziis98/website-2023](https://github.com/aziis98/website-2023) - Forse finalmente mi sono fatto un sito che funge (con Astro, Preact e prima o poi un po' di MDX)
