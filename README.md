@@ -220,6 +220,8 @@
 
 ## C++ 
 
+- [DLR-RM/3DObjectTracking](https://github.com/DLR-RM/3DObjectTracking) - Algorithms and Publications on 3D Object Tracking
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [linkdd/larena](https://github.com/linkdd/larena) - Yet another simple header only arena allocator for C11
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -1174,6 +1176,7 @@
 
 ## Python 
 
+- [ahmetgunduz/Real-time-GesRec](https://github.com/ahmetgunduz/Real-time-GesRec) - Real-time Hand Gesture Recognition with PyTorch on EgoGesture, NvGesture, Jester, Kinetics and UCF101
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [sieuwe1/PS4-eye-camera-for-linux-with-python-and-OpenCV](https://github.com/sieuwe1/PS4-eye-camera-for-linux-with-python-and-OpenCV) - Use the PS4 camera as an cheap yet powerfull 3D depth and RGB camera for use with OpenCV and python in Linux
 - [dcharatan/pixelsplat](https://github.com/dcharatan/pixelsplat) - [CVPR 2024 Oral, Best Paper Runner-Up] Code for "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" by David Charatan, Sizhe Lester Li, Andrea Tagliasacchi, 
@@ -1327,6 +1330,8 @@
 
 ## Rust 
 
+- [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
+- [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
@@ -1641,7 +1646,7 @@
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
-- [penxio/penx](https://github.com/penxio/penx) - The space for web3 creators (alternative to mirror.xyz)
+- [penxio/penx](https://github.com/penxio/penx) - The space for web3 creators.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - The Lean 4 web editor
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
