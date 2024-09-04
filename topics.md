@@ -835,7 +835,6 @@
 
 ## dotnet 
 
-- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
@@ -2114,7 +2113,7 @@
 
 ## nodejs 
 
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -2246,7 +2245,7 @@
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [jefago/tiny-markdown-editor](https://github.com/jefago/tiny-markdown-editor) - TinyMDE: A tiny, dependency-free embeddable HTML/JavaScript Markdown editor.
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
-- [elevenhsoft/WebApps](https://github.com/elevenhsoft/WebApps) - Web applications at your fingertips.
+- [cosmic-utils/WebApps](https://github.com/cosmic-utils/WebApps) - Web applications at your fingertips.
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim
 - [dawbarton/pdf2svg](https://github.com/dawbarton/pdf2svg) - A simple PDF to SVG converter using the Poppler and Cairo libraries
@@ -2927,7 +2926,7 @@
 
 ## pwa 
 
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 
 ## python 
