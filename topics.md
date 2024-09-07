@@ -692,6 +692,7 @@
 
 ## database 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
@@ -1531,6 +1532,7 @@
 
 ## javascript 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -2034,6 +2036,7 @@
 
 ## mysql 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
@@ -2110,6 +2113,7 @@
 
 ## nodejs 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -2201,6 +2205,9 @@
 
 ## others 
 
+- [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2) - HOTGLUE is a Content Manipulation System which allows to construct websites directly in a web-browser.
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
+- [luke8086/retronews](https://github.com/luke8086/retronews) - TUI browser for HN and Lobsters emulating classical Usenet and mail readers
 - [sugina-dev/latin-modern-web](https://github.com/sugina-dev/latin-modern-web) - CSS/Fonts of the 'Latin Modern' font family for use on a modern web browser
 - [jsebrech/tiny-signals](https://github.com/jsebrech/tiny-signals) - The tiniest implementation of signals, ideal for vanilla JavaScript projects.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
@@ -2322,7 +2329,7 @@
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [kspalaiologos/kamilalisp](https://github.com/kspalaiologos/kamilalisp) - A functional, flexible and concise Lisp.
 - [mattneary/attention](https://github.com/mattneary/attention) - visualizing attention for LLM users
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
@@ -2884,6 +2891,7 @@
 
 ## postgresql 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
@@ -3325,6 +3333,7 @@
 
 ## sqlite 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - All-in-one TypeScript web framework to build apps fast 🏎️
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
