@@ -635,6 +635,7 @@
 
 ## css 
 
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
@@ -726,7 +727,7 @@
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [FMInference/FlexiGen](https://github.com/FMInference/FlexiGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [gorgonia/tensor](https://github.com/gorgonia/tensor) - package tensor provides efficient and generic n-dimensional arrays in Go that are useful for machine learning and deep learning purposes
@@ -1422,6 +1423,7 @@
 
 ## html 
 
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - A html/template-based hypertext preprocessor and rapid application development web server written in Go.
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
@@ -1903,7 +1905,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [FMInference/FlexiGen](https://github.com/FMInference/FlexiGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -3156,7 +3158,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-- [ndavd/ncube](https://github.com/ndavd/ncube) - A Generalized Hypercube Visualizer
+- [ndavd/ncube](https://github.com/ndavd/ncube) - Generalized Hypercube Visualizer
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
@@ -3284,6 +3286,7 @@
 
 ## shell 
 
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
@@ -3579,6 +3582,7 @@
 
 ## web 
 
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
