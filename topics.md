@@ -409,6 +409,7 @@
 
 ## c 
 
+- [tekknolagi/full-beans](https://github.com/tekknolagi/full-beans) - 
 - [ebassi/graphene](https://github.com/ebassi/graphene) - A thin layer of graphic data types
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [linkdd/larena](https://github.com/linkdd/larena) - Yet another simple header only arena allocator for C11
@@ -1319,6 +1320,7 @@
 ## hacktoberfest 
 
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [bolt/core](https://github.com/bolt/core) - 🧿 Bolt 5 core
@@ -2207,6 +2209,8 @@
 
 ## others 
 
+- [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
+- [zserge/fenster](https://github.com/zserge/fenster) - The most minimal cross-platform GUI library
 - [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2) - HOTGLUE is a Content Manipulation System which allows to construct websites directly in a web-browser.
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [luke8086/retronews](https://github.com/luke8086/retronews) - TUI browser for HN and Lobsters emulating classical Usenet and mail readers
