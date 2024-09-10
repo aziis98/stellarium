@@ -36,6 +36,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [code](#code)
+- [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -548,6 +549,10 @@
 - [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
+
+## code-review 
+
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 
 ## compiler 
 
@@ -1920,6 +1925,7 @@
 
 ## macos 
 
+- [tekknolagi/full-beans](https://github.com/tekknolagi/full-beans) - 
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
@@ -2209,6 +2215,8 @@
 
 ## others 
 
+- [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
+- [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [zserge/fenster](https://github.com/zserge/fenster) - The most minimal cross-platform GUI library
 - [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2) - HOTGLUE is a Content Manipulation System which allows to construct websites directly in a web-browser.
@@ -3649,6 +3657,7 @@
 
 ## windows 
 
+- [tekknolagi/full-beans](https://github.com/tekknolagi/full-beans) - 
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
