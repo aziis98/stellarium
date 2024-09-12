@@ -802,6 +802,7 @@
 
 ## docker 
 
+- [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -1188,6 +1189,7 @@
 
 ## golang 
 
+- [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -3256,6 +3258,7 @@
 
 ## self-hosted 
 
+- [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -3638,6 +3641,7 @@
 
 ## webapp 
 
+- [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
