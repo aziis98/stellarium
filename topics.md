@@ -311,7 +311,7 @@
 
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
 - [budRich/pkg-listn](https://github.com/budRich/pkg-listn) - manage linux packages with textfiles
-- [crystal-linux/iso](https://github.com/crystal-linux/iso) - Build or download the Arch-based Crystal Linux iso.
+- [crystal-linux/iso](https://github.com/crystal-linux/iso) - Crystal Linux is now hosted at https://gitlab.com/crystal-linux
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 
@@ -677,10 +677,12 @@
 
 ## data-analysis 
 
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 
 ## data-science 
 
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 
@@ -693,6 +695,7 @@
 
 ## data-visualization 
 
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -728,6 +731,7 @@
 
 ## deep-learning 
 
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
@@ -815,6 +819,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible
@@ -1906,6 +1911,7 @@
 
 ## machine-learning 
 
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [ahmetgunduz/Real-time-GesRec](https://github.com/ahmetgunduz/Real-time-GesRec) - Real-time Hand Gesture Recognition with PyTorch on EgoGesture, NvGesture, Jester, Kinetics and UCF101
 - [google-deepmind/treescope](https://github.com/google-deepmind/treescope) - An interactive HTML pretty-printer for machine learning research in IPython notebooks.
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
@@ -2223,6 +2229,8 @@
 
 ## others 
 
+- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
+- [ldct/isicp](https://github.com/ldct/isicp) - Interactive Structure and Interpretation of Computer Programs
 - [muze-nl/jaqt](https://github.com/muze-nl/jaqt) - GraphQL-style Array.select() and Array.where() for javascript
 - [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [google-research/meliad](https://github.com/google-research/meliad) - 
@@ -2964,6 +2972,7 @@
 
 ## python 
 
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Florian-Barthel/splatviz](https://github.com/Florian-Barthel/splatviz) - Full python interactive 3D Gaussian Splatting viewer for real-time editing and analyzing.
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
@@ -3059,6 +3068,7 @@
 
 ## react 
 
+- [uiwjs/react-monacoeditor](https://github.com/uiwjs/react-monacoeditor) - Monaco Editor component for React.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
@@ -3650,6 +3660,7 @@
 
 ## webapp 
 
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
