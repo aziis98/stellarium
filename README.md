@@ -104,6 +104,7 @@
 
 ## C 
 
+- [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
@@ -325,7 +326,7 @@
 ## Clojure 
 
 - [HumbleUI/HumbleUI](https://github.com/HumbleUI/HumbleUI) - Clojure Desktop UI framework
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [zachallaun/secd](https://github.com/zachallaun/secd) - A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)
 - [daaku/dak](https://github.com/daaku/dak) - Dak is a Lisp like language that transpiles to JavaScript.
@@ -411,6 +412,7 @@
 
 ## Go 
 
+- [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
 - [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
@@ -767,6 +769,7 @@
 
 ## JavaScript 
 
+- [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [muze-nl/jaqt](https://github.com/muze-nl/jaqt) - GraphQL-style Array.select() and Array.where() for javascript
 - [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
@@ -1221,7 +1224,7 @@
 - [capjamesg/knowledge-graph-language](https://github.com/capjamesg/knowledge-graph-language) - A query language for exploring knowledge graphs.
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [matthewhague/sat-css-tool](https://github.com/matthewhague/sat-css-tool) - Minify CSS files through refactoring
 - [vshymanskyy/muon](https://github.com/vshymanskyy/muon) - µON - a compact and simple binary object notation
@@ -1604,6 +1607,7 @@
 
 ## TypeScript 
 
+- [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [uiwjs/react-monacoeditor](https://github.com/uiwjs/react-monacoeditor) - Monaco Editor component for React.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -1785,6 +1789,7 @@
 
 ## Vue 
 
+- [hanjuTsai/MusicTranscription](https://github.com/hanjuTsai/MusicTranscription) - A free tool that allows user to transcribe multiple music sources into each sheet music.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
