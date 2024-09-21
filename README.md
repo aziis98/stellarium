@@ -759,7 +759,6 @@
 - [steve-perkins/jlink-demo](https://github.com/steve-perkins/jlink-demo) - A demo of using Java 9 modularization, and the JDK's new `jlink` tool, for zero-dependency  deployments
 - [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code.
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [SilverTiger/lwjgl3-tutorial](https://github.com/SilverTiger/lwjgl3-tutorial) - Tutorial for the Lightweight Java Game Library (LWJGL) 3
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [sarxos/webcam-capture](https://github.com/sarxos/webcam-capture) - The goal of this project is to allow integrated or USB-connected webcams to be accessed directly from Java. Using provided libraries users are able to read camera images and detect motion. Main projec
@@ -772,7 +771,7 @@
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [muze-nl/jaqt](https://github.com/muze-nl/jaqt) - GraphQL-style Array.select() and Array.where() for javascript
-- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
 - [jsebrech/tiny-signals](https://github.com/jsebrech/tiny-signals) - The tiniest implementation of signals, ideal for vanilla JavaScript projects.
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -787,14 +786,14 @@
 - [jefago/tiny-markdown-editor](https://github.com/jefago/tiny-markdown-editor) - TinyMDE: A tiny, dependency-free embeddable HTML/JavaScript Markdown editor.
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
-- [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [aziis98/spectral-sequence-editor](https://github.com/aziis98/spectral-sequence-editor) - Small spectral sequence editor web app
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [aziis98/fantavision](https://github.com/aziis98/fantavision) - Progetto pensato per l'EuroVision realizzato con Astro e Firebase
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
 - [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
 - [marianoguerra/json.human.js](https://github.com/marianoguerra/json.human.js) - Convert JSON to human readable HTML
@@ -1037,6 +1036,7 @@
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [wasabifx/wasabi](https://github.com/wasabifx/wasabi) - An HTTP Framework
 - [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Java & Kotlin, inspired by Redux & Elm
 - [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
