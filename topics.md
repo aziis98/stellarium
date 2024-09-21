@@ -645,7 +645,7 @@
 
 ## css 
 
-- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
@@ -1344,7 +1344,7 @@
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [bolt/core](https://github.com/bolt/core) - 🧿 Bolt 5 core
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -1447,7 +1447,7 @@
 
 ## html 
 
-- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - A html/template-based hypertext preprocessor and rapid application development web server written in Go.
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
@@ -1565,11 +1565,12 @@
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [Bloomca/veles](https://github.com/Bloomca/veles) - UI library with main focus on performance
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
@@ -2321,7 +2322,6 @@
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
-- [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 - [DouglasDwyer/type_enum](https://github.com/DouglasDwyer/type_enum) - Create tagged unions consisting of different types.
 - [sirwhinesalot/gc-arena](https://github.com/sirwhinesalot/gc-arena) - A simple Garbage Collected Arena for C.
 - [aziis98/spectral-sequence-editor](https://github.com/aziis98/spectral-sequence-editor) - Small spectral sequence editor web app
@@ -2953,7 +2953,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
@@ -3098,7 +3098,7 @@
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
@@ -3344,7 +3344,7 @@
 
 ## shell 
 
-- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
@@ -3381,7 +3381,7 @@
 
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
@@ -3390,7 +3390,7 @@
 
 ## sql-server 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 ## sqlite 
 
@@ -3399,7 +3399,7 @@
 - [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - All-in-one TypeScript web framework to build apps fast 🏎️
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
@@ -3459,7 +3459,7 @@
 ## tailwindcss 
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
@@ -3640,7 +3640,7 @@
 
 ## web 
 
-- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A pure and vanilla shell-like interface for the web.
+- [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
