@@ -922,7 +922,7 @@
 - [aziis98/ordinazioni-condivise](https://github.com/aziis98/ordinazioni-condivise) - Un progetto realizzato in una manciata di ore per stimare i costi di ordinazioni condivise
 - [KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings
 - [masotime/json-url](https://github.com/masotime/json-url) - Compress JSON into compact base64 URI-friendly notation
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [pillarjs/hbs](https://github.com/pillarjs/hbs) - Express view engine wrapper for Handlebars
@@ -1810,6 +1810,7 @@
 
 ## Zig 
 
+- [BitlyTwiser/zdotenv](https://github.com/BitlyTwiser/zdotenv) - Zdotenv - A port of Godotenv for Zig
 - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
