@@ -414,7 +414,6 @@
 
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
 - [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
@@ -1194,6 +1193,9 @@
 
 ## Python 
 
+- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures complete privacy by organizing local documents, images, and PDFs using Google Gemma 2-2B and Llava v1.6 models. Initialized with the Nexa SDK, it intuit
+- [EtiennePerot/open-webui-code-execution](https://github.com/EtiennePerot/open-webui-code-execution) - Code execution utilities for Open WebUI & Ollama
+- [xlmnxp/Qocker](https://github.com/xlmnxp/Qocker) - Qocker is a user-friendly GUI application for managing Docker containers. Built with PyQt5, it provides an intuitive interface for viewing and interacting with your Docker containers.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
@@ -1217,7 +1219,7 @@
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 - [pygae/clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
-- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
@@ -1607,8 +1609,10 @@
 
 ## TypeScript 
 
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [uiwjs/react-monacoeditor](https://github.com/uiwjs/react-monacoeditor) - Monaco Editor component for React.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
