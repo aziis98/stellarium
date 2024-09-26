@@ -308,6 +308,7 @@
 
 ## CSS 
 
+- [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [sugina-dev/latin-modern-web](https://github.com/sugina-dev/latin-modern-web) - CSS/Fonts of the 'Latin Modern' font family for use on a modern web browser
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
@@ -414,7 +415,7 @@
 
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
 - [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
@@ -668,6 +669,7 @@
 
 ## HTML 
 
+- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [ldct/isicp](https://github.com/ldct/isicp) - Interactive Structure and Interpretation of Computer Programs
 - [namin/io.livecode.ch](https://github.com/namin/io.livecode.ch) - interactive programming tutorials, powered by Github and Docker
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
@@ -1569,7 +1571,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [cotyhamilton/hacker-newsy](https://github.com/cotyhamilton/hacker-newsy) - pretty hacker news client
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
@@ -1679,14 +1681,14 @@
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
-- [penxio/penx](https://github.com/penxio/penx) - The space for web3 creators.
+- [RespaceLabs/penx](https://github.com/RespaceLabs/penx) - The space for web3 creators.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - The Lean 4 web editor
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [graphql-compose/graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose) - Mongoose model converter to GraphQL types with resolvers for graphql-compose https://github.com/nodkz/graphql-compose
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
