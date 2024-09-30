@@ -1200,7 +1200,7 @@
 ## Python 
 
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images, and PDFs. Using Google Gemma 2-2B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures
-- [EtiennePerot/open-webui-code-execution](https://github.com/EtiennePerot/open-webui-code-execution) - Code execution utilities for Open WebUI & Ollama
+- [EtiennePerot/safe-code-execution](https://github.com/EtiennePerot/safe-code-execution) - Code execution utilities for Open WebUI & Ollama
 - [xlmnxp/Qocker](https://github.com/xlmnxp/Qocker) - Qocker is a user-friendly GUI application for managing Docker containers. Built with PyQt5, it provides an intuitive interface for viewing and interacting with your Docker containers.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -1361,6 +1361,7 @@
 
 ## Rust 
 
+- [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [Figma-Linux/figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper) - Font Helper for Figma for Linux x64 platform
