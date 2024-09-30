@@ -2273,13 +2273,14 @@
 
 ## others 
 
+- [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
 - [jwngr/jwn.gr](https://github.com/jwngr/jwn.gr) - Personal website
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [webyrd/quines](https://github.com/webyrd/quines) - Relational interpreter in miniKanren that can generate quines
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
-- [EtiennePerot/open-webui-code-execution](https://github.com/EtiennePerot/open-webui-code-execution) - Code execution utilities for Open WebUI & Ollama
+- [EtiennePerot/safe-code-execution](https://github.com/EtiennePerot/safe-code-execution) - Code execution utilities for Open WebUI & Ollama
 - [xlmnxp/Qocker](https://github.com/xlmnxp/Qocker) - Qocker is a user-friendly GUI application for managing Docker containers. Built with PyQt5, it provides an intuitive interface for viewing and interacting with your Docker containers.
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
