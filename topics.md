@@ -2280,6 +2280,7 @@
 
 ## others 
 
+- [szymonkaliski/cartographist](https://github.com/szymonkaliski/cartographist) - experimental web browser optimized for rabbit-holing
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
@@ -3277,7 +3278,7 @@
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
