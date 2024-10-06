@@ -777,6 +777,7 @@
 
 ## JavaScript 
 
+- [Nozbe/microfuzz](https://github.com/Nozbe/microfuzz) - A tiny, simple, fast JS fuzzy search library
 - [szymonkaliski/cartographist](https://github.com/szymonkaliski/cartographist) - experimental web browser optimized for rabbit-holing
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
@@ -1648,7 +1649,7 @@
 - [qualified/lsps](https://github.com/qualified/lsps) - Use Language Servers with in-browser editors. Monorepo of editor agnostic packages and CodeMirror client.
 - [gdgpescara/hedwig](https://github.com/gdgpescara/hedwig) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - All-in-one TypeScript web framework to build apps fast 🏎️
+- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - The single-file web framework for TypeScript
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
@@ -1660,7 +1661,7 @@
 - [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
-- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
