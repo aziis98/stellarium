@@ -1727,7 +1727,7 @@
 - [JuliaRobotics/AprilTags.jl](https://github.com/JuliaRobotics/AprilTags.jl) - Using Apriltags in Julia
 - [JuliaIntervals/IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Library for validated numerics using interval arithmetic
 - [jhigginbotham64/Starlight.jl](https://github.com/jhigginbotham64/Starlight.jl) - A greedy game engine for greedy programmers!
-- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
+- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for the FLINT number theory C library
 - [oscar-system/Oscar.jl](https://github.com/oscar-system/Oscar.jl) - A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.
 - [sumiya11/Groebner.jl](https://github.com/sumiya11/Groebner.jl) - Groebner bases in (almost) pure Julia
 - [JuliaNLSolvers/Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Optimization functions for Julia
@@ -2239,6 +2239,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 
 ## openai 
@@ -2251,6 +2252,7 @@
 
 ## opencv 
 
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -3036,6 +3038,7 @@
 
 ## python 
 
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Florian-Barthel/splatviz](https://github.com/Florian-Barthel/splatviz) - Full python interactive 3D Gaussian Splatting viewer for real-time editing and analyzing.
@@ -3132,6 +3135,7 @@
 
 ## react 
 
+- [gardencmp/jazz](https://github.com/gardencmp/jazz) - A new way to build apps with distributed state.
 - [uiwjs/react-monacoeditor](https://github.com/uiwjs/react-monacoeditor) - Monaco Editor component for React.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
