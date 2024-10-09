@@ -230,6 +230,7 @@
 - [tekknolagi/full-beans](https://github.com/tekknolagi/full-beans) - 
 - [DLR-RM/3DObjectTracking](https://github.com/DLR-RM/3DObjectTracking) - Algorithms and Publications on 3D Object Tracking
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [linkdd/larena](https://github.com/linkdd/larena) - Yet another simple header only arena allocator for C11
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -422,7 +423,6 @@
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
 - [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
@@ -1014,7 +1014,7 @@
 - [JuliaIntervals/IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Library for validated numerics using interval arithmetic
 - [jhigginbotham64/Starlight.jl](https://github.com/jhigginbotham64/Starlight.jl) - A greedy game engine for greedy programmers!
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
-- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for various mathematical libraries (including flint2)
+- [Nemocas/Nemo.jl](https://github.com/Nemocas/Nemo.jl) - Julia bindings for the FLINT number theory C library
 - [oscar-system/Oscar.jl](https://github.com/oscar-system/Oscar.jl) - A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.
 - [sumiya11/Groebner.jl](https://github.com/sumiya11/Groebner.jl) - Groebner bases in (almost) pure Julia
 - [JuliaNLSolvers/Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Optimization functions for Julia
@@ -1203,6 +1203,7 @@
 
 ## Python 
 
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
 - [EtiennePerot/safe-code-execution](https://github.com/EtiennePerot/safe-code-execution) - Code execution utilities for Open WebUI & Ollama
@@ -1626,6 +1627,7 @@
 
 ## TypeScript 
 
+- [gardencmp/jazz](https://github.com/gardencmp/jazz) - A new way to build apps with distributed state.
 - [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
