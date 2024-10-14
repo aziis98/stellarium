@@ -1842,6 +1842,7 @@
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -2281,7 +2282,7 @@
 
 ## others 
 
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 3.25B tokens
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 2.83B tokens
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - Node base VFX editor for pixel art.
@@ -3437,7 +3438,7 @@
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
-- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Fullstack web framework with a focus on simplicity
+- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Single-file web framework
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -3453,7 +3454,7 @@
 
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
-- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Fullstack web framework with a focus on simplicity
+- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Single-file web framework
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -3600,7 +3601,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Fullstack web framework with a focus on simplicity
+- [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Single-file web framework
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
