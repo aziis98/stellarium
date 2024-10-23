@@ -58,6 +58,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
 - [Raku](#raku)
@@ -1211,6 +1212,10 @@
 
 - [dk/Prima](https://github.com/dk/Prima) - 
 - [jhnc/findimagedupes](https://github.com/jhnc/findimagedupes) - Finds visually similar or duplicate images
+
+## PowerShell 
+
+- [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 
 ## Python 
 
