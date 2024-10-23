@@ -2293,6 +2293,7 @@
 
 ## others 
 
+- [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
 - [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot) - Yet another open source Spotify client, written in Go.
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
