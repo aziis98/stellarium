@@ -107,6 +107,7 @@
 
 ## C 
 
+- [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) - Desktop integration portal
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
@@ -429,7 +430,7 @@
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
-- [claceio/clace](https://github.com/claceio/clace) - AppServer for containerized web app development and deployment
+- [claceio/clace](https://github.com/claceio/clace) - Webapp management for internal tools, app server for containerized apps
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
@@ -762,7 +763,7 @@
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [awelm/simpledb](https://github.com/awelm/simpledb) - A simple database built from scratch that has some the basic RDBMS features (SQL query parser, transactions, query optimizer)
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
 - [CaffeineMC/phosphor-fabric](https://github.com/CaffeineMC/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs
 - [aidanharris/PDF-Live-Reload](https://github.com/aidanharris/PDF-Live-Reload) - PDF Viewer using PDF.js that reloads upon file change using browser-sync
@@ -1287,7 +1288,7 @@
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [alejandro-ao/ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-- [FMInference/FlexiGen](https://github.com/FMInference/FlexiGen) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [kuleshov/minillm](https://github.com/kuleshov/minillm) - MiniLLM is a minimal system for running modern LLMs on consumer-grade GPUs
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
@@ -1564,7 +1565,7 @@
 
 - [webyrd/quines](https://github.com/webyrd/quines) - Relational interpreter in miniKanren that can generate quines
 - [mario-goulart/awful](https://github.com/mario-goulart/awful) - awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
-- [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) - A small and portable Scheme implementation with AOT and incremental compilers that fits in 4K.  It supports closures, tail calls, first-class continuations and a REPL.
+- [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) - A portable, compact and extensible Scheme implementation that is fully R4RS compliant. This includes closures, I/O, tail calls, first-class continuations and a Read Eval Print Loop (REPL). The R4RS Sc
 
 ## Shell 
 
