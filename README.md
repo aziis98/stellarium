@@ -795,7 +795,7 @@
 - [muze-nl/jaqt](https://github.com/muze-nl/jaqt) - GraphQL-style Array.select() and Array.where() for javascript
 - [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
 - [jsebrech/tiny-signals](https://github.com/jsebrech/tiny-signals) - The tiniest implementation of signals, ideal for vanilla JavaScript projects.
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
@@ -1223,7 +1223,7 @@
 
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 1.7B tokens
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 8.2 minutes
 - [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
@@ -1463,7 +1463,7 @@
 - [nathell/treeviewer](https://github.com/nathell/treeviewer) - A console viewer for trees – pet project to help me learn Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [mdgaziur/findex](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder written in Rust and uses GTK3
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
@@ -1653,6 +1653,7 @@
 
 ## TypeScript 
 
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
 - [gardencmp/jazz](https://github.com/gardencmp/jazz) - Build your next app with sync.
