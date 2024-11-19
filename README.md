@@ -108,6 +108,7 @@
 
 ## C 
 
+- [joexbayer/c-web-modules](https://github.com/joexbayer/c-web-modules) - Modular and efficient approach to web development in C
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) - Desktop integration portal
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
@@ -424,6 +425,7 @@
 
 ## Go 
 
+- [noneback/go-taskflow](https://github.com/noneback/go-taskflow) - A taskflow-like General-purpose Task-parallel Programming Framework with integrated visualizer and profiler
 - [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot) - Yet another open source Spotify client, written in Go.
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -437,6 +439,7 @@
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
 - [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 - [minefuto/tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
@@ -686,6 +689,7 @@
 
 ## HTML 
 
+- [aziis98/gdg-pisa-linktree](https://github.com/aziis98/gdg-pisa-linktree) - Restyle of the current GDG Pisa Linktree
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -787,7 +791,7 @@
 
 ## JavaScript 
 
-- [typicode/mistcss](https://github.com/typicode/mistcss) - Create React visual components without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
+- [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Nozbe/microfuzz](https://github.com/Nozbe/microfuzz) - A tiny, simple, fast JS fuzzy search library
@@ -813,7 +817,6 @@
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
-- [aziis98/spectral-sequence-editor](https://github.com/aziis98/spectral-sequence-editor) - Small spectral sequence editor web app
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [aziis98/fantavision](https://github.com/aziis98/fantavision) - Progetto pensato per l'EuroVision realizzato con Astro e Firebase
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -1171,7 +1174,6 @@
 - [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [aziis98/stellarium](https://github.com/aziis98/stellarium) - Awesome page generated from by starred repositories (thanks to the starred project)
-- [respace-labs/penx](https://github.com/respace-labs/penx) - The space for web3 creators.
 - [make-github-pseudonymous-again/pixels](https://github.com/make-github-pseudonymous-again/pixels) - :flower_playing_cards: 1x1 black and white images in jpg, png, gif and ppm formats
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
@@ -1224,6 +1226,7 @@
 
 ## Python 
 
+- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) quality in 7.8 8xH100-minutes
@@ -1244,7 +1247,7 @@
 - [donydchen/mvsplat](https://github.com/donydchen/mvsplat) - 🌊 [ECCV'24 Oral] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [zou-group/textgrad](https://github.com/zou-group/textgrad) - TextGrad: Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients.
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [google-deepmind/treescope](https://github.com/google-deepmind/treescope) - An interactive HTML pretty-printer for machine learning research in IPython notebooks.
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
 - [Florian-Barthel/splatviz](https://github.com/Florian-Barthel/splatviz) - Full python interactive 3D Gaussian Splatting viewer for real-time editing and analyzing.
@@ -1390,6 +1393,8 @@
 
 ## Rust 
 
+- [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
 - [connorskees/grass](https://github.com/connorskees/grass) - A Sass compiler written purely in Rust
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -1656,7 +1661,9 @@
 
 ## TypeScript 
 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]
+- [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
+- [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
@@ -1673,8 +1680,7 @@
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [morris/exdom](https://github.com/morris/exdom) - Essential DOM utilities
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
-- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
@@ -1685,6 +1691,7 @@
 - [gdgpescara/hedwig](https://github.com/gdgpescara/hedwig) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Single-file web framework
+- [aziis98/spectral-sequence-editor](https://github.com/aziis98/spectral-sequence-editor) - Small spectral sequence editor web app
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
@@ -1732,6 +1739,7 @@
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
+- [penx-lab/penx](https://github.com/penx-lab/penx) - Build your own web3 individual blog
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - The Lean 4 web editor
