@@ -2306,6 +2306,9 @@
 
 ## others 
 
+- [giuliocapecchi/AulePi](https://github.com/giuliocapecchi/AulePi) - Resource for available classrooms @unipi
+- [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
+- [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [kmill/knotfolio](https://github.com/kmill/knotfolio) - A program for drawing knots and links, with support for importing images
 - [kmill/lean4-raytracer](https://github.com/kmill/lean4-raytracer) - A simple raytracer written in Lean 4
@@ -3076,7 +3079,7 @@
 
 ## project-management 
 
-- [Osiris-Team/1JPM](https://github.com/Osiris-Team/1JPM) - 1 Java Project Manager, is a Maven/Gradle alternative with a twist. Its a single Java file itself, which should be edited by you to configure your project.
+- [Osiris-Team/1JPM](https://github.com/Osiris-Team/1JPM) - Maven/Gradle alternative with a twist: its a single Java file, which should be edited by you to configure your project.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## publishing 
