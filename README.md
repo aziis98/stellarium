@@ -1174,6 +1174,7 @@
 
 ## Others 
 
+- [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
 - [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
@@ -1670,6 +1671,7 @@
 
 ## TypeScript 
 
+- [giuliocapecchi/AulePi](https://github.com/giuliocapecchi/AulePi) - Resource for available classrooms @unipi
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]
