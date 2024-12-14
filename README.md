@@ -108,6 +108,8 @@
 
 ## C 
 
+- [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
+- [miguelmarco/libhomfly](https://github.com/miguelmarco/libhomfly) - Library to compute the homfly polynomial of a link.
 - [keyvank/30cc](https://github.com/keyvank/30cc) - 30 C Compiler
 - [ThrowTheSwitch/Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [politza/pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
@@ -1312,7 +1314,7 @@
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [alejandro-ao/ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
@@ -1434,7 +1436,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ekzhang/crepe](https://github.com/ekzhang/crepe) - Datalog compiler embedded in Rust as a procedural macro
-- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [cosmic-utils/web-apps](https://github.com/cosmic-utils/web-apps) - Web applications at your fingertips.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [DouglasDwyer/type_enum](https://github.com/DouglasDwyer/type_enum) - Create tagged unions consisting of different types.
@@ -1661,7 +1663,7 @@
 ## Tcl 
 
 - [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
-- [cea-hpc/modules](https://github.com/cea-hpc/modules) - Environment Modules: provides dynamic modification of a user's environment
+- [envmodules/modules](https://github.com/envmodules/modules) - Environment Modules: provides dynamic modification of a user's environment
 
 ## TeX 
 
