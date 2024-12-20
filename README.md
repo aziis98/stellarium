@@ -1247,6 +1247,7 @@
 
 ## Python 
 
+- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation".
 - [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language in Python.
 - [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
@@ -1691,6 +1692,8 @@
 
 ## TypeScript 
 
+- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [phosphor-icons/core](https://github.com/phosphor-icons/core) - 
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
