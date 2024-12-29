@@ -1053,6 +1053,7 @@
 
 ## Julia 
 
+- [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl) - Draw commutative diagrams using tikz-cd
 - [JuliaRobotics/AprilTags.jl](https://github.com/JuliaRobotics/AprilTags.jl) - Using Apriltags in Julia
 - [JuliaIntervals/IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) - Library for validated numerics using interval arithmetic
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
@@ -1436,7 +1437,7 @@
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
 - [connorskees/grass](https://github.com/connorskees/grass) - A Sass compiler written purely in Rust
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
@@ -1702,7 +1703,7 @@
 
 ## TypeScript 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url for an interactive diagram visualization of the code
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [akheron/optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
