@@ -439,6 +439,9 @@
 
 ## Go 
 
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) - Supercharged IDE for Data Science
+- [hullarb/ssheasy](https://github.com/hullarb/ssheasy) - ssh, sftp client running in the browser powered by golang and wasm
+- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [glojurelang/glojure](https://github.com/glojurelang/glojure) - Clojure interpreter hosted on Go, with extensible interop support.
 - [noneback/go-taskflow](https://github.com/noneback/go-taskflow) - A pure go General-purpose Task-parallel Programming Framework with integrated visualizer and profiler
@@ -450,7 +453,7 @@
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
-- [claceio/clace](https://github.com/claceio/clace) - Hypermedia based internal tools for teams. Application server for  containerized apps. Easily develop and manage secure internal tools.
+- [claceio/clace](https://github.com/claceio/clace) - Hypermedia based internal tools for teams. Application server for  containerized apps.  Runbook automation like Rundeck, custom apps like Retool.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
@@ -809,9 +812,11 @@
 
 ## JavaScript 
 
+- [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero.
+- [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 - [anvaka/ngraph.forcelayout](https://github.com/anvaka/ngraph.forcelayout) - Force directed graph layout
-- [rhyme-lang/rhyme](https://github.com/rhyme-lang/rhyme) - 
+- [rhyme-lang/rhyme](https://github.com/rhyme-lang/rhyme) - Rhyme is an Expressive Data-Centric Query Language
 - [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid) - in case I forget one
 - [kmill/knotfolio](https://github.com/kmill/knotfolio) - A program for drawing knots and links, with support for importing images
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
@@ -1256,6 +1261,7 @@
 
 ## Python 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [inca/blender-differential-growth](https://github.com/inca/blender-differential-growth) - Blender Addon: Differential Growth
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -1265,7 +1271,7 @@
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 5 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3.4 minutes
 - [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
@@ -1418,6 +1424,7 @@
 
 ## Ruby 
 
+- [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast citation reference parsing
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails.
@@ -1429,6 +1436,7 @@
 
 ## Rust 
 
+- [pomsky-lang/pomsky](https://github.com/pomsky-lang/pomsky) - A new, portable, regular expression language
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ellenhp/farebox](https://github.com/ellenhp/farebox) - Multimodal routing in Rust
 - [jasonjmcghee/basic-treesitter-cranelift-jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit) - Simple live calculator in tree-sitter + cranelift jit
@@ -1753,7 +1761,7 @@
 - [aziis98/gdsl](https://github.com/aziis98/gdsl) - A small declarative DSL for CanvasRenderingContext2D
 - [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
-- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build feature-rich data portals using a modern frontend framework
+- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build feature-rich data portals using a modern frontend framework. CKAN compatible.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
