@@ -389,6 +389,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
 ## Dhall 
@@ -530,7 +531,6 @@
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
@@ -895,6 +895,7 @@
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Unipisa/dm-planimetrie](https://github.com/Unipisa/dm-planimetrie) - Progetto planimetrie per il sito del dipartimento di matematica
 - [GenieFramework/Stipple.jl](https://github.com/GenieFramework/Stipple.jl) - The reactive UI library for interactive data applications with pure Julia.
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [WebReflection/uhooks](https://github.com/WebReflection/uhooks) - micro hooks: a minimalistic client/server hooks' implementation
@@ -909,7 +910,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [boutell/tome](https://github.com/boutell/tome) - A command line text editor written in Node.js, focused on JavaScript.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
-- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
 - [Unipisa/dm-manager](https://github.com/Unipisa/dm-manager) - gestione informazioni amministrative di dipartimento
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
@@ -920,7 +921,7 @@
 - [expressjs/multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that shows relevant discussions on Hacker News
+- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - Related discussions for Hacker News (news.ycombinator.com)
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [JohnEarnest/ok](https://github.com/JohnEarnest/ok) - An open-source interpreter for the K5 programming language.
@@ -1296,7 +1297,7 @@
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3.4 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3.14 minutes
 - [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
@@ -1387,7 +1388,6 @@
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor with an API for custom nodes
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
@@ -1462,6 +1462,7 @@
 
 ## Rust 
 
+- [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [kvark/blade](https://github.com/kvark/blade) - Sharp and simple graphics library
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
