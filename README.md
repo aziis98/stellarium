@@ -446,6 +446,7 @@
 
 ## Go 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [html2any/layout](https://github.com/html2any/layout) - flex layout go struct tree with css support
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 - [tfriedel6/canvas](https://github.com/tfriedel6/canvas) - Canvas is a Go drawing library based on OpenGL or using software rendering that is very similar to the HTML5 canvas API
@@ -1287,6 +1288,7 @@
 
 ## Python 
 
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -2012,7 +2014,7 @@
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
-- [b0bleet/zvisor](https://github.com/b0bleet/zvisor) - Zig-based Hypervisor
+- [b0bleet/zvisor](https://github.com/b0bleet/zvisor) - Minimalistic hypervisor built on KVM, coded with Zig.
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
