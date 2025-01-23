@@ -275,7 +275,7 @@
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [tlack/atree](https://github.com/tlack/atree) - Stevan Apter-style trees in C++17
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -461,7 +461,7 @@
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - Fastest and Most Efficient IDE to run Jupyter Notebooks.
 - [hullarb/ssheasy](https://github.com/hullarb/ssheasy) - ssh, sftp client running in the browser powered by golang and wasm
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [glojurelang/glojure](https://github.com/glojurelang/glojure) - Clojure interpreter hosted on Go, with extensible interop support.
 - [noneback/go-taskflow](https://github.com/noneback/go-taskflow) - A pure go General-purpose Task-parallel Programming Framework with integrated visualizer and profiler
 - [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot) - Yet another open source Spotify client, written in Go.
@@ -535,6 +535,7 @@
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [mjpclab/go-http-file-server](https://github.com/mjpclab/go-http-file-server) - Simple command line based HTTP file server to share local file system
@@ -835,6 +836,7 @@
 
 ## JavaScript 
 
+- [petersolopov/yace](https://github.com/petersolopov/yace) - ~1KB code editor for browser with plugins
 - [WebReflection/usignal](https://github.com/WebReflection/usignal) - A blend of @preact/signals-core and solid-js basic reactivity API
 - [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero.
@@ -1467,6 +1469,7 @@
 
 ## Rust 
 
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [rsmpi/rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust
 - [Cydhra/vers](https://github.com/Cydhra/vers) - Succinct data structures using very efficient rank and select
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
@@ -1540,7 +1543,7 @@
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [ndavd/ncube](https://github.com/ndavd/ncube) - Generalized Hypercube Visualizer
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -1720,7 +1723,7 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [cotyhamilton/hacker-newsy](https://github.com/cotyhamilton/hacker-newsy) - pretty hacker news client
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Beautiful Status Page, batteries included
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
 
 ## Swift 
@@ -1759,6 +1762,7 @@
 
 ## TypeScript 
 
+- [andywer/squid](https://github.com/andywer/squid) - 🦑 Provides SQL tagged template strings and schema definition functions.
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
@@ -1856,7 +1860,6 @@
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
 - [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - The Lean 4 web editor
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -1977,6 +1980,7 @@
 
 ## Vue 
 
+- [itamarom/notepadjs](https://github.com/itamarom/notepadjs) - 
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
 - [hanjuTsai/MusicTranscription](https://github.com/hanjuTsai/MusicTranscription) - A free tool that allows user to transcribe multiple music sources into each sheet music.
