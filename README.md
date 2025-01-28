@@ -389,7 +389,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D graphics editor focused on simplicity, speed, elegance, and usability
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
 ## Dhall 
@@ -473,7 +473,7 @@
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
 - [claceio/clace](https://github.com/claceio/clace) - Hypermedia based internal tools for teams. Application server for  containerized apps.  Runbook automation like Rundeck, custom apps like Retool.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
@@ -959,7 +959,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
-- [lakesare/memcode](https://github.com/lakesare/memcode) - Spaced-repetition: with real formatting.
+- [lakesare/memcode](https://github.com/lakesare/memcode) - Spaced-repetition: open-source, free for all
 - [tj/co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
 - [totaljs/Tangular](https://github.com/totaljs/Tangular) - A simple JavaScript template engine like Angular.js for websites or node.js
 - [jshttp/mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
@@ -1290,7 +1290,10 @@
 
 ## Python 
 
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -1456,6 +1459,7 @@
 
 ## Ruby 
 
+- [octopress/octopress](https://github.com/octopress/octopress) - Octopress 3.0 – Jekyll's Ferrari
 - [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Lib
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast citation reference parsing
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
@@ -1674,6 +1678,7 @@
 
 ## Shell 
 
+- [jez/blog](https://github.com/jez/blog) - an Octopress blog by Jake Zimmerman
 - [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
@@ -1723,7 +1728,7 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [cotyhamilton/hacker-newsy](https://github.com/cotyhamilton/hacker-newsy) - pretty hacker news client
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Beautiful Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
 
 ## Swift 
@@ -1782,7 +1787,7 @@
 - [giuliocapecchi/AulePi](https://github.com/giuliocapecchi/AulePi) - Resource for available classrooms @unipi
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes [In Beta]
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No-Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
@@ -1795,7 +1800,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [morris/exdom](https://github.com/morris/exdom) - Essential DOM utilities
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
