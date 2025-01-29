@@ -1038,7 +1038,7 @@
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [yanshiyason/github-stars](https://github.com/yanshiyason/github-stars) - chrome extension to display github stars in repo links
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [thecodercoder/frontend-boilerplate](https://github.com/thecodercoder/frontend-boilerplate) - front-end boilerplate for Sass and Gulp 4
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 - [gwgundersen/anno](https://github.com/gwgundersen/anno) - Anno is a thin user interface on Markdown files for easy and local text editing, organization, and portability.
@@ -1787,7 +1787,7 @@
 - [giuliocapecchi/AulePi](https://github.com/giuliocapecchi/AulePi) - Resource for available classrooms @unipi
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No-Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
