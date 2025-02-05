@@ -97,6 +97,7 @@
 
 ## Astro 
 
+- [gdgpisa/devfest-2025](https://github.com/gdgpisa/devfest-2025) - Nuovo sito in Astro per la DevFest 2025
 - [jwngr/jwn.gr](https://github.com/jwngr/jwn.gr) - Personal website
 - [phc-dm/tutorato](https://github.com/phc-dm/tutorato) - 
 - [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
@@ -1129,6 +1130,7 @@
 
 ## Lean 
 
+- [leanprover/doc-gen4](https://github.com/leanprover/doc-gen4) - Document Generator for Lean 4
 - [kmill/lean4-raytracer](https://github.com/kmill/lean4-raytracer) - A simple raytracer written in Lean 4
 - [aziis98/lean-codespace](https://github.com/aziis98/lean-codespace) - Questa repository contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpaces
 
@@ -1832,7 +1834,7 @@
 - [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build feature-rich data portals using a modern frontend framework. CKAN compatible.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
