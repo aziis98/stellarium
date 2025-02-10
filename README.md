@@ -97,6 +97,7 @@
 
 ## Astro 
 
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [gdgpisa/devfest-2025](https://github.com/gdgpisa/devfest-2025) - Nuovo sito in Astro per la DevFest 2025
 - [jwngr/jwn.gr](https://github.com/jwngr/jwn.gr) - Personal website
 - [phc-dm/tutorato](https://github.com/phc-dm/tutorato) - 
@@ -836,6 +837,9 @@
 
 ## JavaScript 
 
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
+- [AIFanatic/three-nanite](https://github.com/AIFanatic/three-nanite) - An attempt at reproducing unreal nanite in threejs
 - [petersolopov/yace](https://github.com/petersolopov/yace) - ~1KB code editor for browser with plugins
 - [WebReflection/usignal](https://github.com/WebReflection/usignal) - A blend of @preact/signals-core and solid-js basic reactivity API
 - [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
@@ -956,7 +960,6 @@
 - [luwes/js-diff-benchmark](https://github.com/luwes/js-diff-benchmark) - Simple benchmark for testing your DOM diffing algorithm.
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [lakesare/memcode](https://github.com/lakesare/memcode) - Spaced-repetition: open-source, free for all
@@ -1085,6 +1088,7 @@
 
 ## Julia 
 
+- [ztangent/Julog.jl](https://github.com/ztangent/Julog.jl) - A Julia package for Prolog-style logic programming.
 - [MilesCranmer/BorrowChecker.jl](https://github.com/MilesCranmer/BorrowChecker.jl) - A borrow checker for Julia
 - [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl) - Draw commutative diagrams using tikz-cd
 - [JuliaRobotics/AprilTags.jl](https://github.com/JuliaRobotics/AprilTags.jl) - Using Apriltags in Julia
@@ -1172,6 +1176,7 @@
 
 ## MDX 
 
+- [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [getbem/getbem.github.io](https://github.com/getbem/getbem.github.io) - Get BEM to all people in simplest way
@@ -1292,6 +1297,7 @@
 
 ## Python 
 
+- [StudentiUniMi/backend](https://github.com/StudentiUniMi/backend) - Backend code used by StudentiUniMi to operate its website and Telegram groups.
 - [statusfailed/open-hypergraphs](https://github.com/statusfailed/open-hypergraphs) - a datastructure for scalable combinatorial syntax
 - [statusfailed/catgrad](https://github.com/statusfailed/catgrad) - a categorical deep learning compiler
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
@@ -1400,7 +1406,7 @@
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -1480,6 +1486,8 @@
 
 ## Rust 
 
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
+- [Storyyeller/polysubml-demo](https://github.com/Storyyeller/polysubml-demo) - A simple ML-like language with subtyping, polymorphism, higher rank types, and global type inference
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [rsmpi/rsmpi](https://github.com/rsmpi/rsmpi) - MPI bindings for Rust
 - [Cydhra/vers](https://github.com/Cydhra/vers) - Succinct data structures using very efficient rank and select
@@ -1512,7 +1520,7 @@
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -1774,6 +1782,11 @@
 
 ## TypeScript 
 
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Ru
+- [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - Server to host lean games.
+- [milomg/reactively](https://github.com/milomg/reactively) - 
+- [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [aziis98/ro-vis](https://github.com/aziis98/ro-vis) - Visualizzazioni di Algoritmi studiati nel corso di Ricerca Operativa
 - [andywer/squid](https://github.com/andywer/squid) - 🦑 Provides SQL tagged template strings and schema definition functions.
@@ -1913,6 +1926,7 @@
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 - [aziis98/art-phc-landing-page](https://github.com/aziis98/art-phc-landing-page) - This is the second version of the _wire art_ for the landing page of the new PHC website.
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
