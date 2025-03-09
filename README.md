@@ -455,6 +455,7 @@
 
 ## Go 
 
+- [warewulf/warewulf](https://github.com/warewulf/warewulf) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
 - [clovis818/run-all](https://github.com/clovis818/run-all) - run-all is a command-line tool that allows you to execute commands across multiple directories based on a customizable directory pattern.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [html2any/layout](https://github.com/html2any/layout) - flex layout go struct tree with css support
@@ -863,7 +864,6 @@
 - [lennart-finke/knottingham](https://github.com/lennart-finke/knottingham) - A Tool for Drawing Pretty Knots.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Nozbe/microfuzz](https://github.com/Nozbe/microfuzz) - A tiny, simple, fast JS fuzzy search library
 - [szymonkaliski/cartographist](https://github.com/szymonkaliski/cartographist) - experimental web browser optimized for rabbit-holing
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
@@ -1307,6 +1307,8 @@
 
 ## Python 
 
+- [intel/ipex-llm](https://github.com/intel/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete
+- [KellerJordan/Muon](https://github.com/KellerJordan/Muon) - Muon optimizer: +&gt;30% sample efficiency with &lt;3% wallclock overhead
 - [iliao2345/CompressARC](https://github.com/iliao2345/CompressARC) - 
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [dhealy05/frames_of_mind](https://github.com/dhealy05/frames_of_mind) - Animating R1's thoughts.
@@ -1502,6 +1504,7 @@
 
 ## Rust 
 
+- [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
@@ -1531,7 +1534,7 @@
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
 - [connorskees/grass](https://github.com/connorskees/grass) - A Sass compiler written purely in Rust
-- [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
@@ -1840,6 +1843,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [garden-co/jazz](https://github.com/garden-co/jazz) - Build your next app with sync.
 - [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
@@ -1895,7 +1899,7 @@
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
