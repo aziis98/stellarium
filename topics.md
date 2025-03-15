@@ -1673,7 +1673,7 @@
 
 ## java 
 
-- [jbellis/jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
+- [datastax/jvector](https://github.com/datastax/jvector) - JVector: the most advanced embedded vector search engine
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -1987,7 +1987,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
+- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
@@ -2106,7 +2106,7 @@
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
-- [jbellis/jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
+- [datastax/jvector](https://github.com/datastax/jvector) - JVector: the most advanced embedded vector search engine
 - [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Probabilistic Time Series Forecasting
