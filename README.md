@@ -276,7 +276,7 @@
 - [BrigJS/brig](https://github.com/BrigJS/brig) - User Interface Toolkits for Node.js
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
-- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Local AI API Platform
+- [menloresearch/cortex.cpp](https://github.com/menloresearch/cortex.cpp) - Local AI API Platform
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -489,7 +489,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
-- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption
+- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption and run quick file deduplication
 - [aziis98/menu](https://github.com/aziis98/menu) - A small dmenu like tool for the terminal with integrated fuzzy search functionality, easily extensible with shell scripts
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 - [minefuto/tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
@@ -1100,6 +1100,7 @@
 
 ## Julia 
 
+- [JuliaApproximation/ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation
 - [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory
 - [JuliaSmoothOptimizers/Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) - A Julia Basket of Hand-Picked Krylov Methods
 - [ztangent/Julog.jl](https://github.com/ztangent/Julog.jl) - A Julia package for Prolog-style logic programming.
@@ -1120,7 +1121,7 @@
 
 ## Jupyter Notebook 
 
-- [NVlabs/svraster](https://github.com/NVlabs/svraster) - 
+- [NVlabs/svraster](https://github.com/NVlabs/svraster) - [CVPR 2025] Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering
 - [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - Fine-Tuning Embedding for RAG with Synthetic Data
 - [ashishpatel26/LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
@@ -1288,6 +1289,7 @@
 
 ## PHP 
 
+- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [flozz/p0wny-shell](https://github.com/flozz/p0wny-shell) - Single-file PHP shell
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
@@ -1315,6 +1317,7 @@
 
 ## Python 
 
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [facebookincubator/cinderx](https://github.com/facebookincubator/cinderx) - High-performance Python runtime extensions
@@ -1405,7 +1408,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
@@ -1484,6 +1486,7 @@
 
 ## QML 
 
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## Raku 
@@ -1823,6 +1826,8 @@
 
 ## TypeScript 
 
+- [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
