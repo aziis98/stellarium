@@ -35,6 +35,7 @@
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [Idris](#idris)
+- [Jai](#jai)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -148,7 +149,6 @@
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [philj56/tofi](https://github.com/philj56/tofi) - Tiny dynamic menu for Wayland
-- [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Progetto di Calcolo Scientifico, Metodo di Arnoldi per Autovalori distribuito utilizzando PETSc
 - [s-expressions/pose](https://github.com/s-expressions/pose) - Portable S-expressions (POSE) spec and libs
 - [flame/blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -398,7 +398,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Node based 2D graphics editor
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
 ## Dhall 
@@ -455,6 +455,7 @@
 
 ## Go 
 
+- [tdewolff/argp](https://github.com/tdewolff/argp) - GNU command line argument parser
 - [liamg/grace](https://github.com/liamg/grace) - :screwdriver: It's strace, with colours.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [warewulf/warewulf](https://github.com/warewulf/warewulf) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
@@ -501,6 +502,7 @@
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - A html/template-based hypertext preprocessor and rapid application development web server written in Go.
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
+- [steelbrain/ffmpeg-over-ip](https://github.com/steelbrain/ffmpeg-over-ip) - Connect to remote ffmpeg servers
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
@@ -808,6 +810,10 @@
 
 - [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode back end for Idris
 
+## Jai 
+
+- [focus-editor/focus](https://github.com/focus-editor/focus) - A simple and fast text editor
+
 ## Janet 
 
 - [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
@@ -883,7 +889,6 @@
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [coder/picopilot](https://github.com/coder/picopilot) - GitHub Copilot in 70 lines of JavaScript
-- [steelbrain/ffmpeg-over-ip](https://github.com/steelbrain/ffmpeg-over-ip) - Connect to remote ffmpeg servers
 - [iglosiggio/nodejs-webcam-streaming](https://github.com/iglosiggio/nodejs-webcam-streaming) - Streaming a webcam over http with node.js
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [jefago/tiny-markdown-editor](https://github.com/jefago/tiny-markdown-editor) - TinyMDE: A tiny, dependency-free embeddable HTML/JavaScript Markdown editor.
@@ -1240,7 +1245,6 @@
 ## Objective-C 
 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
-- [focus-editor/focus](https://github.com/focus-editor/focus) - A simple and fast text editor
 - [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 
 ## Objective-C++ 
@@ -1255,7 +1259,6 @@
 
 - [bjesus/teatime-database](https://github.com/bjesus/teatime-database) - Public domain library
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
-- [PaulPauls/llama3_interpretability_sae](https://github.com/PaulPauls/llama3_interpretability_sae) - A complete end-to-end pipeline for LLM interpretability with sparse autoencoders (SAEs) using Llama 3.2, written in pure PyTorch and fully reproducible.
 - [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
@@ -1289,6 +1292,7 @@
 
 ## PHP 
 
+- [soloterm/screen](https://github.com/soloterm/screen) - A terminal renderer written in pure PHP.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [flozz/p0wny-shell](https://github.com/flozz/p0wny-shell) - Single-file PHP shell
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
@@ -1349,6 +1353,7 @@
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
 - [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language in Python.
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
+- [PaulPauls/llama3_interpretability_sae](https://github.com/PaulPauls/llama3_interpretability_sae) - A complete end-to-end pipeline for LLM interpretability with sparse autoencoders (SAEs) using Llama 3.2, written in pure PyTorch and fully reproducible.
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
@@ -1519,6 +1524,7 @@
 
 ## Rust 
 
+- [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
@@ -1826,6 +1832,7 @@
 
 ## TypeScript 
 
+- [nmattia/skapa](https://github.com/nmattia/skapa) - Generate 3D printable models for IKEA SKADIS pegboards.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
@@ -2043,6 +2050,7 @@
 
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
+- [aziis98/arnoldi-distribuito](https://github.com/aziis98/arnoldi-distribuito) - Scientific Computing Project - Distributed arnoldi iteration for eigenvalues with PETSc
 
 ## V 
 
