@@ -114,6 +114,7 @@
 
 ## C 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
@@ -245,6 +246,7 @@
 
 ## C++ 
 
+- [Overv/vramfs](https://github.com/Overv/vramfs) - VRAM based file system for Linux
 - [shg8/3DGS.cpp](https://github.com/shg8/3DGS.cpp) - A cross-platform, high performance renderer for Gaussian Splatting using Vulkan Compute. Supports Windows, Linux, macOS, iOS, and visionOS
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
@@ -1530,6 +1532,8 @@
 
 ## Rust 
 
+- [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language
+- [koto-lang/koto-ls](https://github.com/koto-lang/koto-ls) - A language server for Koto
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
@@ -1838,6 +1842,7 @@
 
 ## TypeScript 
 
+- [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - Learn Japanese grammar with TypeScript
 - [nmattia/skapa](https://github.com/nmattia/skapa) - Generate 3D printable models for IKEA SKADIS pegboards.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
@@ -1863,7 +1868,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [akheron/optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
