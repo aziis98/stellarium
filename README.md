@@ -114,6 +114,7 @@
 
 ## C 
 
+- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
@@ -1532,6 +1533,7 @@
 
 ## Rust 
 
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language
 - [koto-lang/koto-ls](https://github.com/koto-lang/koto-ls) - A language server for Koto
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
