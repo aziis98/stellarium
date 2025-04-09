@@ -114,6 +114,8 @@
 
 ## C 
 
+- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
+- [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
@@ -247,6 +249,7 @@
 
 ## C++ 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [3-manifolds/py_hfk](https://github.com/3-manifolds/py_hfk) - 
 - [Overv/vramfs](https://github.com/Overv/vramfs) - VRAM based file system for Linux
 - [shg8/3DGS.cpp](https://github.com/shg8/3DGS.cpp) - A cross-platform, high performance renderer for Gaussian Splatting using Vulkan Compute. Supports Windows, Linux, macOS, iOS, and visionOS
@@ -459,6 +462,7 @@
 
 ## Go 
 
+- [BradPerbs/cors.lol](https://github.com/BradPerbs/cors.lol) - Free-to-use CORS proxy that adds CORS headers to your requests. This service allows you to bypass the Same-Origin Policy and make requests to external APIs without facing CORS issues.
 - [ConduitIO/benchi](https://github.com/ConduitIO/benchi) - Benchmark any tool from the CLI
 - [tdewolff/argp](https://github.com/tdewolff/argp) - GNU command line argument parser
 - [liamg/grace](https://github.com/liamg/grace) - :screwdriver: It's strace, with colours.
@@ -784,7 +788,6 @@
 - [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
 - [phc-dm/phc-server](https://github.com/phc-dm/phc-server) - Servizio per il nuovo sito del PHC
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [crookookoo/p5-boilerplate](https://github.com/crookookoo/p5-boilerplate) - p5.js experiment boilerplate
 
@@ -893,7 +896,7 @@
 - [jsebrech/tiny-signals](https://github.com/jsebrech/tiny-signals) - The tiniest implementation of signals, ideal for vanilla JavaScript projects.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -1335,7 +1338,7 @@
 
 - [j-alex-hanson/speedy-splat](https://github.com/j-alex-hanson/speedy-splat) - 
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - 
-- [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025] VGGT: Visual Geometry Grounded Transformer
+- [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Oral] VGGT: Visual Geometry Grounded Transformer
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
@@ -1365,7 +1368,7 @@
 - [inca/blender-differential-growth](https://github.com/inca/blender-differential-growth) - Blender Addon: Differential Growth
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
-- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
+- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
 - [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language in Python.
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [PaulPauls/llama3_interpretability_sae](https://github.com/PaulPauls/llama3_interpretability_sae) - A complete end-to-end pipeline for LLM interpretability with sparse autoencoders (SAEs) using Llama 3.2, written in pure PyTorch and fully reproducible.
@@ -1729,6 +1732,7 @@
 - [turnage/valora](https://github.com/turnage/valora) - painting by functions
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
@@ -1925,7 +1929,7 @@
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [Bloomca/veles](https://github.com/Bloomca/veles) - UI library with main focus on performance
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
 - [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
 - [aziis98/gdsl](https://github.com/aziis98/gdsl) - A small declarative DSL for CanvasRenderingContext2D
