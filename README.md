@@ -42,6 +42,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Lean](#lean)
 - [Lex](#lex)
 - [LiveScript](#livescript)
@@ -249,6 +250,7 @@
 
 ## C++ 
 
+- [hanickadot/shorty](https://github.com/hanickadot/shorty) - 
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [3-manifolds/py_hfk](https://github.com/3-manifolds/py_hfk) - 
 - [Overv/vramfs](https://github.com/Overv/vramfs) - VRAM based file system for Linux
@@ -1167,6 +1169,10 @@
 - [czyzby/kotlin-times](https://github.com/czyzby/kotlin-times) - :octocat: Kotlin reinvented.
 - [cy6erGn0m/webgl-test](https://github.com/cy6erGn0m/webgl-test) - 
 
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ## Lean 
 
 - [fraware/leanverifier](https://github.com/fraware/leanverifier) - Framework for specifying and proving properties—such as robustness, fairness, and interpretability—of machine learning models using Lean 4.
@@ -1542,6 +1548,7 @@
 
 ## Rust 
 
+- [facet-rs/facet](https://github.com/facet-rs/facet) - Rust const and no_std reflection — the last derive you'll ever need
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language
 - [koto-lang/koto-ls](https://github.com/koto-lang/koto-ls) - A language server for Koto
@@ -1895,7 +1902,7 @@
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [gdgpisa/linktree](https://github.com/gdgpisa/linktree) - Restyle of the current GDG Pisa Linktree
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
