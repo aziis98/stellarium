@@ -497,7 +497,7 @@
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
 - [claceio/clace](https://github.com/claceio/clace) - App deployment simplified. GitOps without the hassles. Application server for deploying internal tools for teams.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption and run quick file deduplication
@@ -1342,6 +1342,7 @@
 
 ## Python 
 
+- [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intri
 - [j-alex-hanson/speedy-splat](https://github.com/j-alex-hanson/speedy-splat) - 
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - 
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Oral] VGGT: Visual Geometry Grounded Transformer
@@ -1357,7 +1358,7 @@
 - [dhealy05/frames_of_mind](https://github.com/dhealy05/frames_of_mind) - Animating R1's thoughts.
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
-- [odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course) - A course for getting started with geometry processing using MATLAB and gptoolbox
+- [odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course) - A course for getting started with geometry processing using Python, Gpytoolbox, and Polyscope
 - [StudentiUniMi/backend](https://github.com/StudentiUniMi/backend) - Backend code used by StudentiUniMi to operate its website and Telegram groups.
 - [statusfailed/open-hypergraphs](https://github.com/statusfailed/open-hypergraphs) - a datastructure for scalable combinatorial syntax
 - [statusfailed/catgrad](https://github.com/statusfailed/catgrad) - a categorical deep learning compiler
@@ -1860,6 +1861,7 @@
 
 ## TypeScript 
 
+- [warden-protocol/wardenprotocol](https://github.com/warden-protocol/wardenprotocol) - Monorepo for the Warden Protocol.
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
