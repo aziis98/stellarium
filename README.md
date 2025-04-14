@@ -1342,6 +1342,7 @@
 
 ## Python 
 
+- [SkyworkAI/Skywork-OR1](https://github.com/SkyworkAI/Skywork-OR1) - 
 - [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intri
 - [j-alex-hanson/speedy-splat](https://github.com/j-alex-hanson/speedy-splat) - 
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - 
