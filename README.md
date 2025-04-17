@@ -867,6 +867,8 @@
 
 ## JavaScript 
 
+- [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+- [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [holepunchto/pear](https://github.com/holepunchto/pear) - combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool
@@ -1313,6 +1315,8 @@
 
 ## PHP 
 
+- [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+- [arajnoha/pureblog](https://github.com/arajnoha/pureblog) - PHP flatfile platform for simple markdown blogging
 - [soloterm/screen](https://github.com/soloterm/screen) - A terminal renderer written in pure PHP.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [flozz/p0wny-shell](https://github.com/flozz/p0wny-shell) - Single-file PHP shell
@@ -1863,6 +1867,7 @@
 
 ## TypeScript 
 
+- [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [warden-protocol/wardenprotocol](https://github.com/warden-protocol/wardenprotocol) - Monorepo for the Warden Protocol.
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
