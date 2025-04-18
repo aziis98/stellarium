@@ -250,6 +250,7 @@
 
 ## C++ 
 
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [hanickadot/shorty](https://github.com/hanickadot/shorty) - 
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [3-manifolds/py_hfk](https://github.com/3-manifolds/py_hfk) - 
@@ -465,6 +466,7 @@
 
 ## Go 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [BradPerbs/cors.lol](https://github.com/BradPerbs/cors.lol) - Free-to-use CORS proxy that adds CORS headers to your requests. This service allows you to bypass the Same-Origin Policy and make requests to external APIs without facing CORS issues.
 - [ConduitIO/benchi](https://github.com/ConduitIO/benchi) - Benchmark any tool from the CLI
 - [tdewolff/argp](https://github.com/tdewolff/argp) - GNU command line argument parser
@@ -1080,7 +1082,7 @@
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 - [gwgundersen/anno](https://github.com/gwgundersen/anno) - Anno is a thin user interface on Markdown files for easy and local text editing, organization, and portability.
 - [kousun12/eternal](https://github.com/kousun12/eternal) - 👾~ music, eternal ~ 👾
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
 - [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 - [lovasoa/html2unicode](https://github.com/lovasoa/html2unicode) - Node module for transforming HTML into unicode
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1347,6 +1349,7 @@
 
 ## Python 
 
+- [MichaelPaddon/epsilon](https://github.com/MichaelPaddon/epsilon) - epsilon is a scanner generator
 - [SkyworkAI/Skywork-OR1](https://github.com/SkyworkAI/Skywork-OR1) - 
 - [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intri
 - [j-alex-hanson/speedy-splat](https://github.com/j-alex-hanson/speedy-splat) - 
