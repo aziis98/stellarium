@@ -115,6 +115,7 @@
 
 ## C 
 
+- [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [3-manifolds/Spherogram](https://github.com/3-manifolds/Spherogram) - Spherogram is a Python module for dealing with the kind of planar diagrams that arise in 3-dimensional topology, such as link and Heegaard diagrams. It a component of the larger SnapPy project.
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
@@ -210,7 +211,6 @@
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [robm/dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
-- [hyperrealm/libconfig](https://github.com/hyperrealm/libconfig) - C/C++ library for processing configuration files
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
 - [martinmroz/lemon](https://github.com/martinmroz/lemon) - Lemon Parser Generator
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -423,7 +423,7 @@
 
 ## Elixir 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [bontaq/textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
 
 ## Elm 
@@ -836,6 +836,7 @@
 
 ## Java 
 
+- [geometer/JavaKh-v2](https://github.com/geometer/JavaKh-v2) - Khovanov Homology calculator from katlas.org
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [Osiris-Team/1JPM](https://github.com/Osiris-Team/1JPM) - Maven/Gradle alternative with a twist: its a single Java file, which should be edited by you to configure your project.
@@ -872,6 +873,7 @@
 
 ## JavaScript 
 
+- [xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) - Online webgl photo editor with effects, filters and cropping
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
@@ -1150,6 +1152,7 @@
 
 ## Jupyter Notebook 
 
+- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [NVlabs/svraster](https://github.com/NVlabs/svraster) - [CVPR 2025] Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering
 - [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - Fine-Tuning Embedding for RAG with Synthetic Data
 - [ashishpatel26/LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
@@ -1355,6 +1358,8 @@
 
 ## Python 
 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -1559,7 +1564,7 @@
 - [octopress/octopress](https://github.com/octopress/octopress) - Octopress 3.0 – Jekyll's Ferrari
 - [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Lib
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast citation reference parsing
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails.
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -1570,6 +1575,7 @@
 
 ## Rust 
 
+- [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -1820,6 +1826,7 @@
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
+- [hyperrealm/libconfig](https://github.com/hyperrealm/libconfig) - C/C++ Library for Processing Structured Configuration Files
 - [nickstenning/docker-slapd](https://github.com/nickstenning/docker-slapd) - A Docker image for slapd, the OpenLDAP standalone LDAP daemon
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell
@@ -1914,7 +1921,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) - 4X Better IDE than Jupyterlab
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for running Jupyter Notebooks
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [akheron/optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
@@ -1971,7 +1978,7 @@
 - [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build feature-rich data portals using a modern frontend framework. CKAN compatible.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
