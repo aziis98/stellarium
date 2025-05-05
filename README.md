@@ -250,6 +250,7 @@
 
 ## C++ 
 
+- [Foreseerr/TScale](https://github.com/Foreseerr/TScale) - 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [hanickadot/shorty](https://github.com/hanickadot/shorty) - 
@@ -408,6 +409,7 @@
 
 ## Dart 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
@@ -1292,6 +1294,7 @@
 
 ## Others 
 
+- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [distribuyed/proxies](https://github.com/distribuyed/proxies) - A comprehensive list of CORS proxies.
 - [bjesus/teatime-database](https://github.com/bjesus/teatime-database) - Public domain library
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
