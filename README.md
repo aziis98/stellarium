@@ -270,6 +270,7 @@
 - [tekknolagi/full-beans](https://github.com/tekknolagi/full-beans) - 
 - [DLR-RM/3DObjectTracking](https://github.com/DLR-RM/3DObjectTracking) - Algorithms and Publications on 3D Object Tracking
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [linkdd/larena](https://github.com/linkdd/larena) - Yet another simple header only arena allocator for C11
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -878,6 +879,7 @@
 
 ## JavaScript 
 
+- [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [VictorTaelin/WebMonkeys](https://github.com/VictorTaelin/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -917,7 +919,6 @@
 - [jsebrech/tiny-signals](https://github.com/jsebrech/tiny-signals) - The tiniest implementation of signals, ideal for vanilla JavaScript projects.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -1020,7 +1021,7 @@
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [michael-klein/funcy.js](https://github.com/michael-klein/funcy.js) - funcy.js - a functional web components wrapper
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
-- [nextapps-de/mikado](https://github.com/nextapps-de/mikado) - Mikado is the webs fastest template library for building user interfaces.
+- [nextapps-de/mikado](https://github.com/nextapps-de/mikado) - The fastest template library/engine for building web-based user interfaces and apps.
 - [puleos/object-hash](https://github.com/puleos/object-hash) - Generate hashes from javascript objects in node and the browser.
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
@@ -1910,6 +1911,7 @@
 
 ## TypeScript 
 
+- [munshkr/flok](https://github.com/munshkr/flok) - Web-based P2P collaborative editor for live coding sounds and images
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
