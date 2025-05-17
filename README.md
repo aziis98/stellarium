@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [COBOL](#cobol)
 - [CSS](#css)
+- [Chapel](#chapel)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
@@ -251,6 +252,7 @@
 
 ## C++ 
 
+- [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [jonpalmisc/Maui](https://github.com/jonpalmisc/Maui) - Open source desktop app for the free Wolfram Engine
 - [Foreseerr/TScale](https://github.com/Foreseerr/TScale) - 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -371,6 +373,10 @@
 - [jamiewilson/predawn](https://github.com/jamiewilson/predawn) - Predawn is a dark interface and syntax theme for Sublime Text and Atom.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [myplanet/angular-color-picker](https://github.com/myplanet/angular-color-picker) - Lightweight color picker for Angular
+
+## Chapel 
+
+- [chapel-lang/chapel](https://github.com/chapel-lang/chapel) - a Productive Parallel Programming Language
 
 ## Clojure 
 
