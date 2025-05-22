@@ -479,7 +479,6 @@
 - [ieeemma/atto](https://github.com/ieeemma/atto) - Robust and extensible parser combinators for Gleam
 - [hayleigh-dot-dev/nibble](https://github.com/hayleigh-dot-dev/nibble) - A string parsing library heavily inspired by elm/parser.
 - [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
-- [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
 
 ## Go 
 
@@ -957,6 +956,7 @@
 - [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [soorajshankar/logScreen](https://github.com/soorajshankar/logScreen) - Piping logs, visualising on a web app – just suffix "| npx logscreen"
+- [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [webqit/quantum-js](https://github.com/webqit/quantum-js) - A runtime extension to JavaScript that enables us do Imperative Reactive Programming (IRP) in the very language!
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
@@ -993,7 +993,7 @@
 - [npm/marky-markdown](https://github.com/npm/marky-markdown) - npm's markdown parser
 - [expressjs/multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
-- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - Related discussions for Hacker News (news.ycombinator.com)
+- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that adds a "Related Submissions" section to Hacker News
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [JohnEarnest/ok](https://github.com/JohnEarnest/ok) - An open-source interpreter for the K5 programming language.
