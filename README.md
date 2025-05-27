@@ -1181,6 +1181,7 @@
 
 ## Jupyter Notebook 
 
+- [agnesedaniele/GridPythonModule](https://github.com/agnesedaniele/GridPythonModule) - A Python module to manipulate and simplify grid diagrams
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin
 - [DerekChia/colab-vscode](https://github.com/DerekChia/colab-vscode) - ✨ 1-Click Free GPU on VS Code with Google Colab
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
@@ -1396,6 +1397,8 @@
 
 ## Python 
 
+- [ross39/new_bloom_filter_repo](https://github.com/ross39/new_bloom_filter_repo) - 
+- [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - 
 - [aziis98/kauffman-polynomial](https://github.com/aziis98/kauffman-polynomial) - Course Project: Computational Laboratory - Implementation of the knot theory Kauffman polynomial regular isotopy invariant in Python
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
@@ -1700,6 +1703,7 @@
 - [raskr/rust-autograd](https://github.com/raskr/rust-autograd) - Tensors and differentiable operations (like TensorFlow) in Rust
 - [0x2a-42/lelwel](https://github.com/0x2a-42/lelwel) - Resilient LL(1) parser generator for Rust
 - [LeopoldArkham/humansize](https://github.com/LeopoldArkham/humansize) - Humansize - A flexible crate for humanizing file sizes
+- [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [aziis98/asd-2024](https://github.com/aziis98/asd-2024) - Course Project: Algorithms and Data Structures - pangenome graphs, gfa parsing, analysis and visualization
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
@@ -2031,7 +2035,6 @@
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [Bloomca/veles](https://github.com/Bloomca/veles) - UI library with main focus on performance
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
 - [chetanbhat/quantum-wordle](https://github.com/chetanbhat/quantum-wordle) - Quantum Wordle
 - [aziis98/gdsl](https://github.com/aziis98/gdsl) - A small declarative DSL for CanvasRenderingContext2D
 - [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
@@ -2125,7 +2128,7 @@
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
 - [wycats/starbeam-historical](https://github.com/wycats/starbeam-historical) - 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
