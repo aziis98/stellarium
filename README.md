@@ -1398,8 +1398,10 @@
 
 ## Python 
 
+- [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) - Distribution site for Noto fonts
+- [YuanshengZhao/Garamond-Math](https://github.com/YuanshengZhao/Garamond-Math) - An OTF math font matching the EB Garamond.
 - [ross39/new_bloom_filter_repo](https://github.com/ross39/new_bloom_filter_repo) - 
-- [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - 
+- [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [aziis98/kauffman-polynomial](https://github.com/aziis98/kauffman-polynomial) - Course Project: Computational Laboratory - Implementation of the knot theory Kauffman polynomial regular isotopy invariant in Python
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
@@ -1630,6 +1632,7 @@
 
 ## Rust 
 
+- [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
 - [jafioti/luminal](https://github.com/jafioti/luminal) - Deep learning at the speed of light.
@@ -1951,6 +1954,7 @@
 
 ## TypeScript 
 
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [munshkr/flok](https://github.com/munshkr/flok) - Web-based P2P collaborative editor for live coding sounds and images
 - [voideditor/void](https://github.com/voideditor/void) - 
