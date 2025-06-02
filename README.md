@@ -147,6 +147,7 @@
 - [ebassi/emeus](https://github.com/ebassi/emeus) - Constraint-based layout manager for GTK+
 - [ebassi/graphene](https://github.com/ebassi/graphene) - A thin layer of graphic data types
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [false-schemers/skint](https://github.com/false-schemers/skint) - Cheap and fast R7RS Scheme interpreter
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
@@ -487,6 +488,10 @@
 
 ## Go 
 
+- [dslipak/pdf](https://github.com/dslipak/pdf) - PDF reader
+- [ledongthuc/pdf](https://github.com/ledongthuc/pdf) - PDF reader
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway
 - [ktunprasert/github-as-s3](https://github.com/ktunprasert/github-as-s3) - Github as S3
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
@@ -965,7 +970,7 @@
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [soorajshankar/logScreen](https://github.com/soorajshankar/logScreen) - Piping logs, visualising on a web app – just suffix "| npx logscreen"
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-- [webqit/quantum-js](https://github.com/webqit/quantum-js) - A runtime extension to JavaScript that enables us do Imperative Reactive Programming (IRP) in the very language!
+- [webqit/quantum-js](https://github.com/webqit/quantum-js) - A runtime extension to JavaScript that unlocks Imperative Reactive Programming (IRP) in JavaScript!
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [Unipisa/dm-calendar](https://github.com/Unipisa/dm-calendar) - Widget calendario per il sito del dipartimento di matematica
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
@@ -1182,7 +1187,7 @@
 
 ## Jupyter Notebook 
 
-- [agnesedaniele/GridPythonModule](https://github.com/agnesedaniele/GridPythonModule) - A Python module to manipulate and simplify grid diagrams
+- [dceloriamaths/GridPythonModule](https://github.com/dceloriamaths/GridPythonModule) - A Python module to manipulate and simplify grid diagrams
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin
 - [DerekChia/colab-vscode](https://github.com/DerekChia/colab-vscode) - ✨ 1-Click Free GPU on VS Code with Google Colab
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
@@ -1239,6 +1244,7 @@
 
 ## Lua 
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1308,7 +1314,7 @@
 
 ## OCaml 
 
-- [Alex23087/Perkelang](https://github.com/Alex23087/Perkelang) - 
+- [Alex23087/Perk](https://github.com/Alex23087/Perk) - 
 - [mazeppa-dev/mazeppa](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 
@@ -1327,6 +1333,7 @@
 
 ## Others 
 
+- [trianglesplatting/triangle-splatting](https://github.com/trianglesplatting/triangle-splatting) - 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [distribuyed/proxies](https://github.com/distribuyed/proxies) - A comprehensive list of CORS proxies.
@@ -1398,6 +1405,7 @@
 
 ## Python 
 
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) - Distribution site for Noto fonts
 - [YuanshengZhao/Garamond-Math](https://github.com/YuanshengZhao/Garamond-Math) - An OTF math font matching the EB Garamond.
 - [ross39/new_bloom_filter_repo](https://github.com/ross39/new_bloom_filter_repo) - 
@@ -1435,7 +1443,7 @@
 - [facebookincubator/cinderx](https://github.com/facebookincubator/cinderx) - High-performance Python runtime extensions
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
 - [intel/ipex-llm](https://github.com/intel/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete
-- [KellerJordan/Muon](https://github.com/KellerJordan/Muon) - Muon optimizer: +&gt;30% sample efficiency with &lt;3% wallclock overhead
+- [KellerJordan/Muon](https://github.com/KellerJordan/Muon) - Muon: An optimizer for hidden layers in neural networks
 - [iliao2345/CompressARC](https://github.com/iliao2345/CompressARC) - 
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [dhealy05/frames_of_mind](https://github.com/dhealy05/frames_of_mind) - Animating R1's thoughts.
@@ -1582,7 +1590,7 @@
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [phfaist/pylatexenc](https://github.com/phfaist/pylatexenc) - Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion
 - [zensoup/ulauncher-unicode](https://github.com/zensoup/ulauncher-unicode) - A Ulauncher extension for searching unicode characters and copying them to the clipboard.
-- [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
+- [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
 - [pywkm/ulauncher-spotify](https://github.com/pywkm/ulauncher-spotify) - Ulauncher extension for controlling Spotify
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [aceto/aceto](https://github.com/aceto/aceto) - A programming language based on a 2D Hilbert curve grid
@@ -1632,6 +1640,9 @@
 
 ## Rust 
 
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
@@ -1920,6 +1931,7 @@
 
 ## Swift 
 
+- [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) - A SwiftUI based macOS GUI for rsync.
 - [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
@@ -2019,7 +2031,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [morris/exdom](https://github.com/morris/exdom) - Essential DOM utilities
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -2231,7 +2243,6 @@
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [BitlyTwiser/zdotenv](https://github.com/BitlyTwiser/zdotenv) - Zdotenv - A port of Godotenv for Zig
 - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A modern fully featured C compiler.
 - [sphaerophoria/video-editor](https://github.com/sphaerophoria/video-editor) - 
 - [RGBCube/crash](https://github.com/RGBCube/crash) - User-configurable login shell configured by the SHELLS environment variable.
