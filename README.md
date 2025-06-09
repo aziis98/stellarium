@@ -100,6 +100,7 @@
 
 ## Astro 
 
+- [iann-mathaiya/nikola-tesla](https://github.com/iann-mathaiya/nikola-tesla) - 
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [gdgpisa/devfest-2025](https://github.com/gdgpisa/devfest-2025) - Nuovo sito in Astro per la DevFest 2025
 - [jwngr/jwn.gr](https://github.com/jwngr/jwn.gr) - Personal website
@@ -116,6 +117,7 @@
 
 ## C 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [aziis98/knotscap](https://github.com/aziis98/knotscap) - Personal fork of KnotScape (a '90 knot theory software) with some compilation fixes
 - [gen2brain/go-fitz](https://github.com/gen2brain/go-fitz) - Golang wrapper for the MuPDF Fitz library
 - [mell-o-tron/MellOs](https://github.com/mell-o-tron/MellOs) - Minimal, collaboratively written kernel
@@ -260,6 +262,7 @@
 
 ## C++ 
 
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [skift-org/vaev](https://github.com/skift-org/vaev) - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
@@ -506,7 +509,7 @@
 - [clovis818/run-all](https://github.com/clovis818/run-all) - run-all is a command-line tool that allows you to execute commands across multiple directories based on a customizable directory pattern.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [html2any/layout](https://github.com/html2any/layout) - flex layout go struct tree with css support
-- [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
+- [tdewolff/canvas](https://github.com/tdewolff/canvas) - Vector graphics in Go
 - [tfriedel6/canvas](https://github.com/tfriedel6/canvas) - Canvas is a Go drawing library based on OpenGL or using software rendering that is very similar to the HTML5 canvas API
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
@@ -903,6 +906,9 @@
 
 ## JavaScript 
 
+- [zellwk/zl-fetch](https://github.com/zellwk/zl-fetch) - A library that makes the Fetch API a breeze
+- [LebCit/aether-cms](https://github.com/LebCit/aether-cms) - A modern, elegant content management system designed for developers and content creators who value simplicity and power.
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) - Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [spybug/NotifyFilter-GnomeExtension](https://github.com/spybug/NotifyFilter-GnomeExtension) - Gnome extenstion to allow users to filter out notifications based on their text content.
@@ -1134,7 +1140,7 @@
 - [anvaka/winvelviz](https://github.com/anvaka/winvelviz) - Wind visualization over time
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 - [ianks/simplest-typescript-webpack-boilerplate](https://github.com/ianks/simplest-typescript-webpack-boilerplate) - 
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [nbubna/HTML](https://github.com/nbubna/HTML) - A simple, extensible way to work directly with the DOM.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
@@ -1169,6 +1175,7 @@
 
 ## Julia 
 
+- [mtsch/Ripserer.jl](https://github.com/mtsch/Ripserer.jl) - Flexible and efficient persistent homology computation.
 - [JuliaApproximation/ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation
 - [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory
 - [JuliaSmoothOptimizers/Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) - A Julia Basket of Hand-Picked Krylov Methods
@@ -1206,6 +1213,7 @@
 
 ## Kotlin 
 
+- [cmu-pasta/fray](https://github.com/cmu-pasta/fray) - A controlled concurrency testing framework for the JVM
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
@@ -1338,6 +1346,7 @@
 
 ## Others 
 
+- [HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [distribuyed/proxies](https://github.com/distribuyed/proxies) - A comprehensive list of CORS proxies.
@@ -1400,6 +1409,7 @@
 
 ## Perl 
 
+- [bearstech/phptop](https://github.com/bearstech/phptop) - PHP basic ressource profiler (CPU/memory), safe and useful for production sites
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [jhnc/findimagedupes](https://github.com/jhnc/findimagedupes) - Finds visually similar or duplicate images
 
@@ -1409,6 +1419,8 @@
 
 ## Python 
 
+- [lean-dojo/ReProver](https://github.com/lean-dojo/ReProver) - Retrieval-Augmented Theorem Provers for Lean
+- [UMassIonTrappers/PyOpticL](https://github.com/UMassIonTrappers/PyOpticL) - PyOpticL: a code-to-CAD optical layout tool for modular optics systems engineering
 - [ezyang/scubaduck](https://github.com/ezyang/scubaduck) - 
 - [sdiehl/usolver](https://github.com/sdiehl/usolver) - A best-effort universal numerical, logical and symbolic solver interface for MCP
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -1416,7 +1428,7 @@
 - [trianglesplatting/triangle-splatting](https://github.com/trianglesplatting/triangle-splatting) - 
 - [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) - Distribution site for Noto fonts
 - [YuanshengZhao/Garamond-Math](https://github.com/YuanshengZhao/Garamond-Math) - An OTF math font matching the EB Garamond.
-- [ross39/new_bloom_filter_repo](https://github.com/ross39/new_bloom_filter_repo) - 
+- [ross39/new_bloom_filter_repo](https://github.com/ross39/new_bloom_filter_repo) - This repo contains a new way to use bloom filters to do lossless video compression
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [aziis98/kauffman-polynomial](https://github.com/aziis98/kauffman-polynomial) - Course Project: Computational Laboratory - Implementation of the knot theory Kauffman polynomial regular isotopy invariant in Python
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
@@ -1431,7 +1443,7 @@
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of LLM inference serving on Apple Silicon for systems engineers.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -1976,6 +1988,12 @@
 
 ## TypeScript 
 
+- [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
+- [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
+- [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
+- [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
+- [Bekacru/better-fetch](https://github.com/Bekacru/better-fetch) - Advanced fetch wrapper for typescript
+- [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [munshkr/flok](https://github.com/munshkr/flok) - Web-based P2P collaborative editor for live coding sounds and images
@@ -2249,6 +2267,7 @@
 
 ## Zig 
 
+- [chrislloyd/git-remote-sqlite](https://github.com/chrislloyd/git-remote-sqlite) - Single-file Git repos that can replicate with Litestream
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [BitlyTwiser/zdotenv](https://github.com/BitlyTwiser/zdotenv) - Zdotenv - A port of Godotenv for Zig
