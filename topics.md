@@ -311,6 +311,7 @@
 
 ## algorithm 
 
+- [beling/bsuccinct-rs](https://github.com/beling/bsuccinct-rs) - Rust libraries and programs focused on succinct data structures
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [mourner/kdbush](https://github.com/mourner/kdbush) - A fast static index for 2D points
 - [mourner/flatbush](https://github.com/mourner/flatbush) - A very fast static spatial index for 2D points and rectangles in JavaScript 🌱
@@ -395,7 +396,7 @@
 - [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Probabilistic Time Series Forecasting
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
@@ -867,7 +868,7 @@
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 
 ## data-structures 
 
@@ -883,7 +884,7 @@
 ## data-visualization 
 
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
@@ -1001,7 +1002,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
@@ -1334,6 +1335,7 @@
 
 ## gamedev 
 
+- [Ameobea/sketches-3d](https://github.com/Ameobea/sketches-3d) - Experiments and demos of 3D game-like things.  Mostly using Blender + Three.JS with custom shaders and interactive bits.
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -2245,6 +2247,7 @@
 
 ## linux 
 
+- [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
 - [stackotter/swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
@@ -2415,7 +2418,7 @@
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Probabilistic Time Series Forecasting
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
@@ -2432,6 +2435,7 @@
 
 ## macos 
 
+- [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [stackotter/swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
@@ -3918,7 +3922,7 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on Windows, Linux and MacOS.
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
@@ -4142,6 +4146,7 @@
 
 ## rust 
 
+- [beling/bsuccinct-rs](https://github.com/beling/bsuccinct-rs) - Rust libraries and programs focused on succinct data structures
 - [camino-rs/camino](https://github.com/camino-rs/camino) - Like Rust's std::path::Path, but UTF-8.
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [asqarslanov/in-typ-bot](https://github.com/asqarslanov/in-typ-bot) - Render Typst markup in Telegram chats.
@@ -4403,7 +4408,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [justplainstuff/plainstack](https://github.com/justplainstuff/plainstack) - Single-file web framework
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
@@ -4466,6 +4471,7 @@
 
 ## svelte 
 
+- [Ameobea/sketches-3d](https://github.com/Ameobea/sketches-3d) - Experiments and demos of 3D game-like things.  Mostly using Blender + Three.JS with custom shaders and interactive bits.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
@@ -4847,6 +4853,7 @@
 
 ## windows 
 
+- [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 - [stackotter/swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
