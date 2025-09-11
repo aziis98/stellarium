@@ -160,7 +160,6 @@
 - [ebassi/emeus](https://github.com/ebassi/emeus) - Constraint-based layout manager for GTK+
 - [ebassi/graphene](https://github.com/ebassi/graphene) - A thin layer of graphic data types
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
-- [false-schemers/skint](https://github.com/false-schemers/skint) - Cheap and fast R7RS Scheme interpreter
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [zherczeg/sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
@@ -274,7 +273,7 @@
 
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [geo-data/cesium-terrain-builder](https://github.com/geo-data/cesium-terrain-builder) - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
 - [adobe/lagrange](https://github.com/adobe/lagrange) - A Robust Geometry Processing Library
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
@@ -514,8 +513,10 @@
 
 ## Go 
 
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [google/mangle](https://github.com/google/mangle) - 
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -869,6 +870,7 @@
 
 ## Haskell 
 
+- [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
 - [rzk-lang/rzk](https://github.com/rzk-lang/rzk) - An experimental proof assistant based on a type theory for synthetic ∞-categories.
 - [414owen/phage](https://github.com/414owen/phage) - The Phage Programming Language
 - [google-research/dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
@@ -960,7 +962,7 @@
 - [zellwk/zl-fetch](https://github.com/zellwk/zl-fetch) - A library that makes the Fetch API a breeze
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [LebCit/aether-cms](https://github.com/LebCit/aether-cms) - A modern, elegant content management system designed for developers and content creators who value simplicity and power.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) - Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [spybug/NotifyFilter-GnomeExtension](https://github.com/spybug/NotifyFilter-GnomeExtension) - Gnome extenstion to allow users to filter out notifications based on their text content.
@@ -1396,7 +1398,6 @@
 
 ## Objective-C 
 
-- [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 
@@ -1484,6 +1485,7 @@
 ## Python 
 
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.
 - [ngafar/llama-scan](https://github.com/ngafar/llama-scan) - Transcribe PDFs with local LLMs
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
@@ -1818,7 +1820,7 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ellenhp/solari](https://github.com/ellenhp/solari) - Fast multimodal routing in Rust designed for memory-constrained machines
 - [jasonjmcghee/basic-treesitter-cranelift-jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit) - Simple live calculator in tree-sitter + cranelift jit
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [connorskees/grass](https://github.com/connorskees/grass) - A Sass compiler written purely in Rust
@@ -2003,6 +2005,7 @@
 
 - [cosmos72/schemesh](https://github.com/cosmos72/schemesh) - A Unix shell and Lisp REPL, fused together
 - [webyrd/quines](https://github.com/webyrd/quines) - Relational interpreter in miniKanren that can generate quines
+- [false-schemers/skint](https://github.com/false-schemers/skint) - Cheap and fast R7RS Scheme interpreter
 - [mario-goulart/awful](https://github.com/mario-goulart/awful) - awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
 - [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) - A portable, compact and extensible Scheme implementation that is fully R4RS compliant. This includes closures, I/O, tail calls, first-class continuations and a Read Eval Print Loop (REPL). The R4RS Sc
 
@@ -2047,6 +2050,7 @@
 
 ## Smalltalk 
 
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 - [powerlang/powerlang](https://github.com/powerlang/powerlang) - The Powerlang Bootstrapper
 - [aucerna/bee-dmr](https://github.com/aucerna/bee-dmr) - 
 - [Zag-Research/Zag-Smalltalk](https://github.com/Zag-Research/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
@@ -2104,10 +2108,10 @@
 
 ## TypeScript 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [benrbray/prosemirror-math](https://github.com/benrbray/prosemirror-math) - Schema and plugins for "first-class" math support in ProseMirror!
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
-- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
@@ -2179,7 +2183,7 @@
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [gdgpisa/linktree](https://github.com/gdgpisa/linktree) - Restyle of the current GDG Pisa Linktree
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet. ⚡
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
