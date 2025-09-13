@@ -1412,6 +1412,7 @@
 
 ## Others 
 
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the 
 - [anewtypeofinterference/Optician-Sans](https://github.com/anewtypeofinterference/Optician-Sans) - Typeface based on the historical eye charts and optotypes used by opticians world wide.
 - [HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
