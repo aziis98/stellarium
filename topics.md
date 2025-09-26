@@ -2023,7 +2023,7 @@
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [josephernest/Swap.js](https://github.com/josephernest/Swap.js) - Swap.js is a "HTML-over-the-wire" AJAX-navigation micro-library
 - [saharan/OimoPhysics](https://github.com/saharan/OimoPhysics) - A cross-platform 3D physics engine
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript.
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [daaku/dak](https://github.com/daaku/dak) - Dak is a Lisp like language that transpiles to JavaScript.
