@@ -122,6 +122,7 @@
 
 ## C 
 
+- [cbouilla/spasm](https://github.com/cbouilla/spasm) - a Sparse Direct Solver modulo p
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
@@ -1487,6 +1488,7 @@
 
 ## Python 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.
@@ -2060,7 +2062,6 @@
 - [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 - [powerlang/powerlang](https://github.com/powerlang/powerlang) - The Powerlang Bootstrapper
 - [aucerna/bee-dmr](https://github.com/aucerna/bee-dmr) - 
-- [Zag-Research/Zag-Smalltalk](https://github.com/Zag-Research/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
 
 ## Starlark 
 
@@ -2444,6 +2445,7 @@
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
 - [b0bleet/zvisor](https://github.com/b0bleet/zvisor) - Minimalistic hypervisor built on KVM, coded with Zig.
+- [Zag-Research/Zag-Smalltalk](https://github.com/Zag-Research/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
