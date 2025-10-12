@@ -1646,7 +1646,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 - [rikkichy/ollama-telegram](https://github.com/rikkichy/ollama-telegram) - 🦙 Ollama Telegram bot, with advanced configuration
 - [mattneary/attention](https://github.com/mattneary/attention) - visualizing attention for LLM users
