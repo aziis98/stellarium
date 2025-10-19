@@ -278,8 +278,9 @@
 
 ## ai 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.
@@ -431,7 +432,7 @@
 
 ## automation 
 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -520,6 +521,7 @@
 
 ## bootstrap 
 
+- [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 
 ## c 
@@ -1862,6 +1864,7 @@
 
 ## html 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
@@ -2233,6 +2236,7 @@
 
 ## language 
 
+- [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [Beariish/bolt](https://github.com/Beariish/bolt) - High-performance, real-time optimized, and statically typed embedded language implemented in C.
 - [chapel-lang/chapel](https://github.com/chapel-lang/chapel) - a Productive Parallel Programming Language
@@ -2274,6 +2278,7 @@
 
 ## latex 
 
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
@@ -2559,6 +2564,8 @@
 
 ## markdown 
 
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [LebCit/aether-cms](https://github.com/LebCit/aether-cms) - A modern, elegant content management system designed for developers and content creators who value simplicity and power.
@@ -2934,6 +2941,7 @@
 
 ## others 
 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [spotify2tidal/spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
@@ -4037,7 +4045,7 @@
 ## python 
 
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
 - [aziis98/kauffman-polynomial](https://github.com/aziis98/kauffman-polynomial) - Course Project: Computational Laboratory - Implementation of the knot theory Kauffman polynomial regular isotopy invariant in Python
 - [aziis98/opencv-maze-solver](https://github.com/aziis98/opencv-maze-solver) - Summer project before vaction, an OpenCV-powered whiteboard maze solver (A* by NetworkX) with start/end points decided by April Tags
@@ -4306,6 +4314,7 @@
 
 ## rust 
 
+- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
