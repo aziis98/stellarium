@@ -198,7 +198,6 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [orangeduck/mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
-- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [rxi/kit](https://github.com/rxi/kit) - A tiny library for making small games with big pixels
 - [Sectoid/libpam-sqlite](https://github.com/Sectoid/libpam-sqlite) - Debian git-buildpackage compatible report for libpam-sqlite package
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
@@ -1498,6 +1497,7 @@
 
 - [bearstech/phptop](https://github.com/bearstech/phptop) - PHP basic ressource profiler (CPU/memory), safe and useful for production sites
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [jhnc/findimagedupes](https://github.com/jhnc/findimagedupes) - Finds visually similar or duplicate images
 
 ## PowerShell 
@@ -1506,6 +1506,7 @@
 
 ## Python 
 
+- [swiss-ai/pretrain-data](https://github.com/swiss-ai/pretrain-data) - Pretraining data reconstruction scripts for Apertus
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -1782,6 +1783,9 @@
 
 ## Rust 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+- [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
+- [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
