@@ -144,6 +144,7 @@
 - [martinfama/fui](https://github.com/martinfama/fui) - framebuffer user interface
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [3-manifolds/Spherogram](https://github.com/3-manifolds/Spherogram) - Spherogram is a Python module for dealing with the kind of planar diagrams that arise in 3-dimensional topology, such as link and Heegaard diagrams. It a component of the larger SnapPy project.
+- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
@@ -739,7 +740,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [smallnest/ringbuffer](https://github.com/smallnest/ringbuffer) - a thread-safe circular buffer (ring buffer) in Go, implemented io.ReaderWriter interface
 - [aziis98/go-vite-kit](https://github.com/aziis98/go-vite-kit) - Minimal boilerplate with a golang server using Fiber and ViteJS for static pages
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -884,6 +885,7 @@
 
 ## Haskell 
 
+- [agentm/project-m36](https://github.com/agentm/project-m36) - Project: M36 Relational Algebra Engine
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
 - [rzk-lang/rzk](https://github.com/rzk-lang/rzk) - An experimental proof assistant based on a type theory for synthetic ∞-categories.
 - [414owen/phage](https://github.com/414owen/phage) - The Phage Programming Language
@@ -959,7 +961,7 @@
 
 ## JavaScript 
 
-- [deluf/unipi-plus-plus](https://github.com/deluf/unipi-plus-plus) - Chrome/Firefox extension that enhances the University of Pisa students portal by adding detailed statistics of the completed exams
+- [deluf/unipi-plus-plus](https://github.com/deluf/unipi-plus-plus) - Browser extension that adds detailed statistics to the University of Pisa's student transcript page
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [deinstapel/cpupower](https://github.com/deinstapel/cpupower) - Manage the frequency scaling driver of your CPU (Intel Core and AMD Ryzen processors supported)
 - [panphora/hyperclay-local](https://github.com/panphora/hyperclay-local) - 
@@ -993,7 +995,6 @@
 - [xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) - Online webgl photo editor with effects, filters and cropping
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [holepunchto/pear](https://github.com/holepunchto/pear) - combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool
@@ -1278,6 +1279,7 @@
 - [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) - Fine-Tuning Embedding for RAG with Synthetic Data
 - [ashishpatel26/LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
+- [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Probabilistic Time Series Forecasting
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [redhog/InfiniteGlass](https://github.com/redhog/InfiniteGlass) - Window manager with infinite desktop, infinite zoom and infinite window resolution
@@ -1506,6 +1508,9 @@
 
 ## Python 
 
+- [character-ai/Ovi](https://github.com/character-ai/Ovi) - 
+- [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py) - 🎨 Type-safe and powerful Python library to generate SVG files
+- [Ucas-HaoranWei/Slow-Perception](https://github.com/Ucas-HaoranWei/Slow-Perception) - Official code implementation of Slow Perception:Let's Perceive Geometric Figures Step-by-step
 - [swiss-ai/pretrain-data](https://github.com/swiss-ai/pretrain-data) - Pretraining data reconstruction scripts for Apertus
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
@@ -1639,7 +1644,6 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
-- [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Probabilistic Time Series Forecasting
 - [pygae/clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
 - [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
@@ -1783,6 +1787,7 @@
 
 ## Rust 
 
+- [nacho/servo-gtk](https://github.com/nacho/servo-gtk) - GTK integration for Servo
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
@@ -1963,7 +1968,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
@@ -2158,6 +2163,7 @@
 
 ## TypeScript 
 
+- [qwinsi/tex2typst](https://github.com/qwinsi/tex2typst) - JavaScript library for conversion between TeX/LaTeX and Typst math code.
 - [built-by-as/FleetCode](https://github.com/built-by-as/FleetCode) - Light-weight control pane to run CLI coding agents(Claude Code, Codex) in parallel
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher) - Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
