@@ -2204,6 +2204,7 @@
 
 ## TypeScript 
 
+- [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 - [aleclarson/vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [aziis98/preact-css-extract](https://github.com/aziis98/preact-css-extract) - Small emotion css clone for preact with support for easily using clsx
