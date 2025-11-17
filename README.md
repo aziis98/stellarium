@@ -126,7 +126,6 @@
 
 ## C 
 
-- [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [tjol/ckdl](https://github.com/tjol/ckdl) - KDL parsing library in C, Python, C++
@@ -283,6 +282,7 @@
 
 ## C++ 
 
+- [HazyResearch/HipKittens](https://github.com/HazyResearch/HipKittens) - Fast and Furious AMD Kernels
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
@@ -858,7 +858,7 @@
 - [WLJSTeam/wolfram-js-frontend](https://github.com/WLJSTeam/wolfram-js-frontend) - Freeware notebook interface for Wolfram Language written in Javascript
 - [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [ldct/isicp](https://github.com/ldct/isicp) - Interactive Structure and Interpretation of Computer Programs
@@ -975,6 +975,7 @@
 ## JavaScript 
 
 - [jeremyaboyd/jerm-cad](https://github.com/jeremyaboyd/jerm-cad) - A YAML-powered, vibe-coded, browser-based CAD software
+- [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [peggyjs/peggy](https://github.com/peggyjs/peggy) - Peggy: Parser generator for JavaScript
 - [samrolken/nokode](https://github.com/samrolken/nokode) - 
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -1531,9 +1532,11 @@
 
 ## Python 
 
+- [Simobr312/lpl_project](https://github.com/Simobr312/lpl_project) - 
+- [nathan-barry/tiny-diffusion](https://github.com/nathan-barry/tiny-diffusion) - A character-level language diffusion model trained on Tiny Shakespeare
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) - 🧬 The Huxley-Gödel Machine
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [character-ai/Ovi](https://github.com/character-ai/Ovi) - 
@@ -1689,7 +1692,7 @@
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
+- [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
@@ -1816,6 +1819,10 @@
 
 ## Rust 
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
+- [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [lukefleed/two-pass-lanczos](https://github.com/lukefleed/two-pass-lanczos) - A Cache Efficient, Low Memory, Lanczos Algorithm written in Rust
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
@@ -2252,7 +2259,7 @@
 - [warden-protocol/wardenprotocol](https://github.com/warden-protocol/wardenprotocol) - Monorepo for the Warden Protocol.
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [nmattia/skapa](https://github.com/nmattia/skapa) - Generate 3D printable models for IKEA SKADIS pegboards.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
@@ -2294,7 +2301,7 @@
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
