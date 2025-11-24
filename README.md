@@ -976,6 +976,7 @@
 
 ## JavaScript 
 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [stevinz/three-wboit](https://github.com/stevinz/three-wboit) - Weighted, blended order independent transparency pass for use with three.js.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [jeremyaboyd/jerm-cad](https://github.com/jeremyaboyd/jerm-cad) - A YAML-powered, vibe-coded, browser-based CAD software
@@ -1830,6 +1831,7 @@
 
 ## Rust 
 
+- [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) - 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
@@ -2447,6 +2449,7 @@
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
 - [wycats/starbeam-historical](https://github.com/wycats/starbeam-historical) - 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [aziis98/datasheet](https://github.com/aziis98/datasheet) - Data exploration tool with custom scripting language for data manipulation
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
