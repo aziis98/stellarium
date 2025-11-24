@@ -3000,6 +3000,8 @@
 
 ## others 
 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
+- [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) - 
 - [stevinz/three-wboit](https://github.com/stevinz/three-wboit) - Weighted, blended order independent transparency pass for use with three.js.
 - [microsoft/onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
 - [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
@@ -3689,6 +3691,7 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [wycats/starbeam-historical](https://github.com/wycats/starbeam-historical) - 
+- [aziis98/datasheet](https://github.com/aziis98/datasheet) - Data exploration tool with custom scripting language for data manipulation
 - [lezer-parser/lezer](https://github.com/lezer-parser/lezer) - Dev utils and issues for the Lezer core packages
 - [scijs/zeros](https://github.com/scijs/zeros) - Initialize an ndarray with zeros
 - [scijs/ndarray-fill](https://github.com/scijs/ndarray-fill) - Fills an ndarray with a function
