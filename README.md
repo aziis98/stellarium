@@ -1065,7 +1065,6 @@
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [aziis98/fantavision](https://github.com/aziis98/fantavision) - Progetto pensato per l'EuroVision realizzato con Astro e Firebase
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
@@ -1441,7 +1440,6 @@
 
 ## OCaml 
 
-- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
 - [hirrolot/mazeppa](https://github.com/hirrolot/mazeppa) - A modern supercompiler for call-by-value functional languages
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
@@ -1805,6 +1803,7 @@
 
 ## Reason 
 
+- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
@@ -1832,6 +1831,7 @@
 
 ## Rust 
 
+- [sdiehl/butler-portugal](https://github.com/sdiehl/butler-portugal) - Implementation of Butler-Portugal algorithm for tensor canonicalization in Rust
 - [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) - 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -2177,6 +2177,7 @@
 
 - [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [cotyhamilton/hacker-newsy](https://github.com/cotyhamilton/hacker-newsy) - pretty hacker news client
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
