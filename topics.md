@@ -416,7 +416,7 @@
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Portable backend to ship fast.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website to data pipelines, APIs & spreadsheets in minutes!
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [bolt/core](https://github.com/bolt/core) - 🧿 Bolt core
@@ -463,7 +463,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website to data pipelines, APIs & spreadsheets in minutes!
 - [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1122,8 +1122,8 @@
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 
@@ -1873,7 +1873,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website to data pipelines, APIs & spreadsheets in minutes!
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -2060,7 +2060,7 @@
 - [alexge50/gie](https://github.com/alexge50/gie) - GIE (Generative Image Editor, /jəī/) is a node based image editor.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [davidbyttow/govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go
 
@@ -2909,7 +2909,7 @@
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website to data pipelines, APIs & spreadsheets in minutes!
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -3093,6 +3093,7 @@
 
 ## others 
 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [DotFox/edn.c](https://github.com/DotFox/edn.c) - A fast, zero-copy EDN (Extensible Data Notation) reader written in C11 with SIMD acceleration.
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
@@ -4450,7 +4451,7 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
@@ -4724,7 +4725,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website to data pipelines, APIs & spreadsheets in minutes!
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [openrundev/openrun](https://github.com/openrundev/openrun) - Open source alternative to Google Cloud Run and AWS App Runner. Easily deploy web apps declaratively.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -4808,7 +4809,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
 ## software 
 
