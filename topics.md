@@ -345,7 +345,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, sandboxed, and open-source online code execution system for humans and AI.
 
 ## ajax 
 
@@ -1465,6 +1465,7 @@
 
 ## game-engine 
 
+- [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
@@ -1546,6 +1547,7 @@
 
 ## go 
 
+- [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -1670,6 +1672,7 @@
 
 ## golang 
 
+- [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -3122,7 +3125,7 @@
 - [JuliaIO/DiskArrays.jl](https://github.com/JuliaIO/DiskArrays.jl) - 
 - [aleclarson/vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
-- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open-source platform for file management, sharing and collaboration. Simple and sovereign.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [jeremyaboyd/jerm-cad](https://github.com/jeremyaboyd/jerm-cad) - A YAML-powered, vibe-coded, browser-based CAD software
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) - 🧬 The Huxley-Gödel Machine
@@ -4700,6 +4703,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
