@@ -163,6 +163,7 @@
 - [joexbayer/c-web-modules](https://github.com/joexbayer/c-web-modules) - A modular web framework for C, inspired by kernel modules. Dynamically upload and compile C code at runtime to build REST APIs, WebSocket services, and more. Includes support for JSON (Jansson), SQLit
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) - Desktop integration portal
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
+- [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
@@ -355,7 +356,6 @@
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean 3 Theorem Prover (community fork)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -1108,6 +1108,7 @@
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
+- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [Unipisa/dm-manager](https://github.com/Unipisa/dm-manager) - gestione informazioni amministrative di dipartimento
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
@@ -2218,7 +2219,6 @@
 
 ## Tcl 
 
-- [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
 - [envmodules/modules](https://github.com/envmodules/modules) - Environment Modules: provides dynamic modification of a user's environment
 
 ## TeX 
@@ -2244,6 +2244,7 @@
 
 ## TypeScript 
 
+- [dimitropoulos/typeslayer](https://github.com/dimitropoulos/typeslayer) - slay the types slowing you down
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [nuxt-content/studio](https://github.com/nuxt-content/studio) - Edit your Markdown website, in production.
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
@@ -2337,7 +2338,7 @@
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
