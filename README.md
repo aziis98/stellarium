@@ -540,6 +540,7 @@
 
 ## Go 
 
+- [plainas/qjp](https://github.com/plainas/qjp) - Quick interactive TUI json picker/menu
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [go-webgpu/webgpu](https://github.com/go-webgpu/webgpu) - Zero-CGO WebGPU bindings for Go — GPU-accelerated graphics and compute in pure Go
 - [gogpu/wgpu](https://github.com/gogpu/wgpu) - Pure Go WebGPU Implementation
@@ -1478,7 +1479,6 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [distribuyed/proxies](https://github.com/distribuyed/proxies) - A comprehensive list of CORS proxies.
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [bjesus/teatime-database](https://github.com/bjesus/teatime-database) - Public domain library
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
 - [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
@@ -1656,6 +1656,7 @@
 - [statusfailed/catgrad](https://github.com/statusfailed/catgrad) - a categorical deep learning compiler
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
