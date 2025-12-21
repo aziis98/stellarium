@@ -3145,6 +3145,9 @@
 
 ## others 
 
+- [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples) - 
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
+- [granule-project/granule](https://github.com/granule-project/granule) - A statically-typed linear functional language with graded modal types for fine-grained program reasoning
 - [plainas/qjp](https://github.com/plainas/qjp) - Quick interactive TUI json picker/menu
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
 - [andrewmd5/dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment; draft anything, write now.
