@@ -125,6 +125,7 @@
 
 ## C 
 
+- [sueszli/autograd.c](https://github.com/sueszli/autograd.c) - tiny torch, but close to metal
 - [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples) - 
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
 - [andrewmd5/dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment; draft anything, write now.
@@ -1851,6 +1852,7 @@
 
 ## Rust 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
@@ -2154,6 +2156,7 @@
 
 ## Shell 
 
+- [FOBshippingpoint/shittp](https://github.com/FOBshippingpoint/shittp) - Bring your dotfiles to remote machine via SSH
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
@@ -2256,6 +2259,7 @@
 
 ## TypeScript 
 
+- [google/A2UI](https://github.com/google/A2UI) - 
 - [dimitropoulos/typeslayer](https://github.com/dimitropoulos/typeslayer) - slay the types slowing you down
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [nuxt-content/studio](https://github.com/nuxt-content/studio) - Edit your Markdown website, in production.
