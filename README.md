@@ -125,6 +125,7 @@
 
 ## C 
 
+- [bartp5/libtexprintf](https://github.com/bartp5/libtexprintf) - Library providing printf-style formatted output routines with tex-like syntax support.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
@@ -277,6 +278,7 @@
 
 ## C# # 
 
+- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [archistico/ShadeOfColor2](https://github.com/archistico/ShadeOfColor2) - A simple cross-platform tool to hide files inside PNG images
 - [aniketrajnish/Raymarching-Engine-Unity](https://github.com/aniketrajnish/Raymarching-Engine-Unity) - A raymarching engine for Unity
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
@@ -547,6 +549,8 @@
 
 ## Go 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [FurqanSoftware/papyrus](https://github.com/FurqanSoftware/papyrus) - A real-time collaborative Markdown editor and document repository with simple organization and project-based management
 - [plainas/qjp](https://github.com/plainas/qjp) - Quick interactive TUI json picker/menu
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [go-webgpu/webgpu](https://github.com/go-webgpu/webgpu) - Zero-CGO WebGPU bindings for Go — GPU-accelerated graphics and compute in pure Go
@@ -998,6 +1002,8 @@
 
 ## JavaScript 
 
+- [remarkjs/remark-directive](https://github.com/remarkjs/remark-directive) - remark plugin to support directives
+- [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
 - [bearcove/arborium](https://github.com/bearcove/arborium) - An opinionated tree-sitter + tree-sitter-highlight + grammars bundle
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [stevinz/three-wboit](https://github.com/stevinz/three-wboit) - Weighted, blended order independent transparency pass for use with three.js.
@@ -1372,6 +1378,7 @@
 
 ## Lean 
 
+- [James-Hanson/junk-theorems-in-lean](https://github.com/James-Hanson/junk-theorems-in-lean) - A small collection of formally verified junk theorems provable in Lean4 + Mathlib.
 - [shua/leanknot](https://github.com/shua/leanknot) - Some formalizations of knot theory ideas in lean
 - [chasenorman/Canonical](https://github.com/chasenorman/Canonical) - Canonical is a performant sound and complete type inhabitation solver for dependent type theory.
 - [fraware/leanverifier](https://github.com/fraware/leanverifier) - Framework for specifying and proving properties—such as robustness, fairness, and interpretability—of machine learning models using Lean 4.
@@ -1563,7 +1570,7 @@
 
 ## Python 
 
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [UbiquantAI/URM](https://github.com/UbiquantAI/URM) - Universal Reasoning Model
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
@@ -1748,7 +1755,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
@@ -2274,6 +2280,8 @@
 
 ## TypeScript 
 
+- [marimo-team/codemirror-languageserver](https://github.com/marimo-team/codemirror-languageserver) - Language Server integration for CodeMirror 6
+- [codemirror/lsp-client](https://github.com/codemirror/lsp-client) - Language server protocol client for CodeMirror
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
@@ -2335,7 +2343,7 @@
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Portable backend to ship fast.
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [mohsen1/llm-debugger-vscode-extension](https://github.com/mohsen1/llm-debugger-vscode-extension) - VSCode extension that demonstrates the use of large language models (LLMs) for active debugging of programs
@@ -2555,6 +2563,7 @@
 
 ## Typst 
 
+- [Fran314/dmunipi-slide-typst](https://github.com/Fran314/dmunipi-slide-typst) - 
 - [LaurenzV/master-thesis](https://github.com/LaurenzV/master-thesis) - My master's thesis about the topic "High-performance 2D graphics rendering on the CPU using sparse strips"
 - [OrangeX4/typst-theorion](https://github.com/OrangeX4/typst-theorion) - Out-of-the-box, customizable and multilingual theorem environment package for Typst.
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
