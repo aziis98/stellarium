@@ -152,6 +152,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -2826,6 +2827,21 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 
+## mcp 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [sdiehl/usolver](https://github.com/sdiehl/usolver) - A model context protocol server for solving combinatorial optimization problems with logical and numerical constraints.
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ## microservices 
 
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -3198,7 +3214,6 @@
 - [ash80/diffusion-gpt](https://github.com/ash80/diffusion-gpt) - From baby GPT to diffusion GPT: An annotated implementation of a character-level discrete diffusion model (adapted from Karpathy’s baby GPT).
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [sueszli/autograd.c](https://github.com/sueszli/autograd.c) - tiny torch, but close to metal
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [FOBshippingpoint/shittp](https://github.com/FOBshippingpoint/shittp) - Bring your dotfiles to remote machine via SSH
 - [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples) - 
@@ -3369,7 +3384,6 @@
 - [chrislloyd/git-remote-sqlite](https://github.com/chrislloyd/git-remote-sqlite) - Single-file Git repos that can replicate with Litestream
 - [bearstech/phptop](https://github.com/bearstech/phptop) - PHP basic ressource profiler (CPU/memory), safe and useful for production sites
 - [ezyang/scubaduck](https://github.com/ezyang/scubaduck) - 
-- [sdiehl/usolver](https://github.com/sdiehl/usolver) - A model context protocol server for solving combinatorial optimization problems with logical and numerical constraints.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [cheggaaa/go-poppler](https://github.com/cheggaaa/go-poppler) - Go wrapper for a Poppler PDF rendering library
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
