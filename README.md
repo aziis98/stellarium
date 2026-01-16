@@ -1576,6 +1576,7 @@
 
 ## Python 
 
+- [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [1rgs/nanocode](https://github.com/1rgs/nanocode) - Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
