@@ -851,7 +851,7 @@
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -1714,7 +1714,7 @@
 - [aziis98/gotemplater](https://github.com/aziis98/gotemplater) - A super small CLI utility to render Go Templates to files by passing JSON or YAML data and content as standard input.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
@@ -1851,7 +1851,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [aziis98/gotemplater](https://github.com/aziis98/gotemplater) - A super small CLI utility to render Go Templates to files by passing JSON or YAML data and content as standard input.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
@@ -2003,7 +2003,7 @@
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [ianmackenzie/elm-geometry](https://github.com/ianmackenzie/elm-geometry) - 2D/3D geometry package for Elm
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -2682,7 +2682,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## lua 
 
@@ -3032,7 +3032,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## node 
 
@@ -3220,6 +3220,9 @@
 
 ## others 
 
+- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+- [thommaskevin/TinyML](https://github.com/thommaskevin/TinyML) - 
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 - [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
 - [antirez/flux2.c](https://github.com/antirez/flux2.c) - Flux 2 image generation model pure C inference
 - [amargaritov/starlit](https://github.com/amargaritov/starlit) - Hutter Prize Submission 2021a: STARLIT + cmix
@@ -3235,7 +3238,7 @@
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open-Source Library for LLM Routing
 - [piskvorky/gensim-data](https://github.com/piskvorky/gensim-data) - Data repository for pretrained NLP models and NLP corpora.
-- [xnacly/purple-garden](https://github.com/xnacly/purple-garden) - purple garden is a lean scripting language designed for performance, with a focus on aggressive compile-time optimisations, JIT compilation, fine-grained memory control, and optional garbage collectio
+- [xnacly/purple-garden](https://github.com/xnacly/purple-garden) - purple garden is a lean scripting language designed for performance, with aggressive optimisations, JIT compilation, fine-grained memory control, and optional garbage collection.
 - [gristlabs/grainjs](https://github.com/gristlabs/grainjs) - Javascript library from Grist Labs
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 - [James-Hanson/junk-theorems-in-lean](https://github.com/James-Hanson/junk-theorems-in-lean) - A small collection of formally verified junk theorems provable in Lean4 + Mathlib.
@@ -3589,7 +3592,7 @@
 - [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
 - [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot) - Yet another open source Spotify client, written in Go.
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 2 minutes
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - Node base VFX editor for pixel art.
@@ -3962,7 +3965,7 @@
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [scijs/ndarray-ops](https://github.com/scijs/ndarray-ops) - ndarray operations
 - [purton-tech/barricade](https://github.com/purton-tech/barricade) - Quickly add user registration and logon to any application
-- [uprun/LispTalk](https://github.com/uprun/LispTalk) - LispTalk (previously Lisperanto) is a spatial canvas for programming.
+- [uprun/Lyspen](https://github.com/uprun/Lyspen) - Lyspen (previously Lisperanto) is an AST structured editor.
 - [analang/ana](https://github.com/analang/ana) - 
 - [aziis98/dashboard](https://github.com/aziis98/dashboard) - A localStorage based personal dashboard (with widgets!)
 - [litao91/goldmark-mathjax](https://github.com/litao91/goldmark-mathjax) - A mathjax extension for goldmark
@@ -4315,7 +4318,7 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
@@ -4706,7 +4709,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## reverse-engineering 
 
@@ -5069,7 +5072,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 
@@ -5220,7 +5223,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [janoamaral/Xresources-themes](https://github.com/janoamaral/Xresources-themes) - A big (huge) collection of rxvt / xterm terminal themes
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
