@@ -18,6 +18,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -464,6 +465,10 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 
+## arduino 
+
+- [ZennDev1337/Rust-for-Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy) - 
+
 ## artificial-intelligence 
 
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -697,6 +702,7 @@
 
 ## cli 
 
+- [jmuncor/sherlock](https://github.com/jmuncor/sherlock) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
@@ -1175,6 +1181,7 @@
 
 ## developer-tools 
 
+- [jmuncor/sherlock](https://github.com/jmuncor/sherlock) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [LebCit/aether-cms](https://github.com/LebCit/aether-cms) - A modern, elegant content management system designed for developers and content creators who value simplicity and power.
@@ -1192,7 +1199,6 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
-- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1228,7 +1234,6 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
-- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [r2d4/virgo](https://github.com/r2d4/virgo) - Graph-based Declarative Configuration Language
@@ -1496,6 +1501,7 @@
 
 ## game 
 
+- [ZennDev1337/Rust-for-Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy) - 
 - [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 - [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
@@ -1532,6 +1538,7 @@
 
 ## gamedev 
 
+- [ZennDev1337/Rust-for-Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy) - 
 - [go-webgpu/webgpu](https://github.com/go-webgpu/webgpu) - Zero-CGO WebGPU bindings for Go — GPU-accelerated graphics and compute in pure Go
 - [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
 - [Ameobea/sketches-3d](https://github.com/Ameobea/sketches-3d) - Experiments and demos of 3D game-like things.  Also the home of Geotoy/Geoscript.  Mostly using Blender + Three.JS with custom shaders and interactive bits.
@@ -1565,6 +1572,7 @@
 
 ## generative-ai 
 
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -1675,7 +1683,7 @@
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [adhocteam/pushup](https://github.com/adhocteam/pushup) - Pushup is for making modern, page-oriented web apps in Go
-- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
+- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - A fast and flexible expression language
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -1815,7 +1823,7 @@
 - [aegistudio/enigma](https://github.com/aegistudio/enigma) - 🔢🔒Enigma: a simple cross-platform encrypted filesystem
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
+- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - A fast and flexible expression language
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -2630,6 +2638,8 @@
 
 ## llm 
 
+- [jmuncor/sherlock](https://github.com/jmuncor/sherlock) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -3147,6 +3157,7 @@
 
 ## open-source 
 
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -3549,7 +3560,7 @@
 - [theialab/radfoam](https://github.com/theialab/radfoam) - Original implementation of "Radiant Foam: Real-Time Differentiable Ray Tracing"
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [leanprover/doc-gen4](https://github.com/leanprover/doc-gen4) - Document Generator for Lean 4
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450
 - [octopress/octopress](https://github.com/octopress/octopress) - Octopress 3.0 – Jekyll's Ferrari
 - [itamarom/notepadjs](https://github.com/itamarom/notepadjs) - This is a simple app that imitates Windows Notepad. Installable as a PWA.
@@ -4465,6 +4476,7 @@
 
 ## python 
 
+- [jmuncor/sherlock](https://github.com/jmuncor/sherlock) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
@@ -4771,6 +4783,8 @@
 
 ## rust 
 
+- [ZennDev1337/Rust-for-Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy) - 
+- [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [cesarferreira/rip](https://github.com/cesarferreira/rip) - Fuzzy find and kill processes from your terminal
@@ -5288,6 +5302,7 @@
 
 ## tui 
 
+- [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
