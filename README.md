@@ -173,6 +173,7 @@
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [bdwgc/bdwgc](https://github.com/bdwgc/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [miguelmarco/libhomfly](https://github.com/miguelmarco/libhomfly) - Library to compute the homfly polynomial of a link.
 - [keyvank/30cc](https://github.com/keyvank/30cc) - 30 C Compiler
@@ -625,7 +626,6 @@
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [hullarb/ssheasy](https://github.com/hullarb/ssheasy) - ssh, sftp client running in the browser powered by golang and wasm
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [glojurelang/glojure](https://github.com/glojurelang/glojure) - Clojure interpreter hosted on Go, with extensible interop support.
 - [noneback/go-taskflow](https://github.com/noneback/go-taskflow) - A pure go General-purpose Task-parallel Programming Framework with integrated visualizer and profiler
 - [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot) - Yet another open source Spotify client, written in Go.
@@ -745,7 +745,7 @@
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [zyedidia/knit](https://github.com/zyedidia/knit) - A simple and flexible build tool using Lua, similar to make/mk.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An JWT based API for managing users and issuing JWT tokens.
 - [alecthomas/types](https://github.com/alecthomas/types) - Useful generic types for Go
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -776,7 +776,7 @@
 - [kr/text](https://github.com/kr/text) - Miscellaneous functions for formatting text
 - [adhocteam/pushup](https://github.com/adhocteam/pushup) - Pushup is for making modern, page-oriented web apps in Go
 - [iancoleman/strcase](https://github.com/iancoleman/strcase) - A golang package for converting to snake_case or CamelCase
-- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - A fast and flexible expression language
+- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Risor is a fast, embeddable scripting language for Go applications.  Add dynamic expressions, filters, and user-defined logic to your Go programs without embedding a heavy runtime like V8 or Python. E
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [nelhage/gojit](https://github.com/nelhage/gojit) - JIT code-generation in Go!
@@ -1025,7 +1025,6 @@
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [damianstasik/vue-svg-loader](https://github.com/damianstasik/vue-svg-loader) - 🔨 webpack loader that lets you use SVG files as Vue components
 - [remarkjs/remark-directive](https://github.com/remarkjs/remark-directive) - remark plugin to support directives
-- [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
 - [bearcove/arborium](https://github.com/bearcove/arborium) - An opinionated tree-sitter + tree-sitter-highlight + grammars bundle
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [stevinz/three-wboit](https://github.com/stevinz/three-wboit) - Weighted, blended order independent transparency pass for use with three.js.
@@ -1057,7 +1056,7 @@
 - [zellwk/zl-fetch](https://github.com/zellwk/zl-fetch) - A library that makes the Fetch API a breeze
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [LebCit/aether-cms](https://github.com/LebCit/aether-cms) - A modern, elegant content management system designed for developers and content creators who value simplicity and power.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) - Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [spybug/NotifyFilter-GnomeExtension](https://github.com/spybug/NotifyFilter-GnomeExtension) - Gnome extenstion to allow users to filter out notifications based on their text content.
@@ -2360,6 +2359,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [marimo-team/codemirror-languageserver](https://github.com/marimo-team/codemirror-languageserver) - Language Server integration for CodeMirror 6
 - [codemirror/lsp-client](https://github.com/codemirror/lsp-client) - Language server protocol client for CodeMirror
+- [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
