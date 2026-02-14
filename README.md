@@ -134,7 +134,7 @@
 - [heltilda/cicada](https://github.com/heltilda/cicada) - Cicada scripting language
 - [Aetf/libtsm](https://github.com/Aetf/libtsm) - Terminal-emulator State Machine
 - [pete4abw/libtrash](https://github.com/pete4abw/libtrash) - Fork of Manuel Arriaga's libtrash
-- [antirez/flux2.c](https://github.com/antirez/flux2.c) - Flux 2 image generation model pure C inference
+- [antirez/iris.c](https://github.com/antirez/iris.c) - Flux 2 image generation model pure C inference
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [bartp5/libtexprintf](https://github.com/bartp5/libtexprintf) - Library providing printf-style formatted output routines with tex-like syntax support.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
@@ -1928,6 +1928,8 @@
 
 ## Rust 
 
+- [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
+- [fltk-rs/flemish](https://github.com/fltk-rs/flemish) - An elmish architecture for fltk-rs
 - [TrevorS/voxtral-mini-realtime-rs](https://github.com/TrevorS/voxtral-mini-realtime-rs) - Streaming speech recognition running natively and in the browser. A pure Rust implementation of Mistral's Voxtral Mini 4B Realtime model using the Burn ML framework.
 - [alecthomas/proctor](https://github.com/alecthomas/proctor) - A Procfile-compatible process manager with hot reload, readiness probes, dependencies, and more
 - [ZennDev1337/Rust-for-Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy) - 
