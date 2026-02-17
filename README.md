@@ -328,7 +328,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [geo-data/cesium-terrain-builder](https://github.com/geo-data/cesium-terrain-builder) - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI inference engine for mobile devices & wearables
 - [adobe/lagrange](https://github.com/adobe/lagrange) - A Robust Geometry Processing Library
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
@@ -1605,6 +1605,7 @@
 
 ## Python 
 
+- [UniBwTAS/ccma](https://github.com/UniBwTAS/ccma) - Curvature Corrected Moving Average: An accurate and model-free path smoothing algorithm.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [closedform/deriver](https://github.com/closedform/deriver) - A powerful symbolic mathematics library for Python.
 - [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world) - Advancing Open-source World Models
@@ -1922,7 +1923,7 @@
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast citation reference parsing
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
-- [rage-rb/rage](https://github.com/rage-rb/rage) - A Ruby framework designed to make the Ruby ecosystem competitive for modern backends
+- [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [m-ender/hexagony](https://github.com/m-ender/hexagony) - A two-dimensional, hexagonal programming language.
@@ -1931,6 +1932,7 @@
 
 ## Rust 
 
+- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [fltk-rs/flemish](https://github.com/fltk-rs/flemish) - An elmish architecture for fltk-rs
 - [TrevorS/voxtral-mini-realtime-rs](https://github.com/TrevorS/voxtral-mini-realtime-rs) - Streaming speech recognition running natively and in the browser. A pure Rust implementation of Mistral's Voxtral Mini 4B Realtime model using the Burn ML framework.
@@ -2373,7 +2375,7 @@
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [dimitropoulos/typeslayer](https://github.com/dimitropoulos/typeslayer) - you can't hide from TypeSlayer
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio) - Edit your Markdown website, in production.
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
@@ -2451,7 +2453,7 @@
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [matthewp/haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
-- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
+- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
@@ -2481,7 +2483,7 @@
 - [uiwjs/react-monacoeditor](https://github.com/uiwjs/react-monacoeditor) - Monaco Editor component for React.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [morris/exdom](https://github.com/morris/exdom) - Essential DOM utilities
@@ -2702,7 +2704,7 @@
 
 ## Wolfram Language 
 
-- [WLJSTeam/wolfram-js-frontend](https://github.com/WLJSTeam/wolfram-js-frontend) - Freeware notebook interface for Wolfram Language written in Javascript
+- [WLJSTeam/wolfram-js-frontend](https://github.com/WLJSTeam/wolfram-js-frontend) - Open-source notebook interface for Wolfram Engine
 
 ## Wren 
 
