@@ -311,7 +311,7 @@
 
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
-- [io-eric/coi](https://github.com/io-eric/coi) - Coi: A type-safe, component-based language for building high-performance web apps with WASM and fine-grained reactivity.
+- [coi/coi](https://github.com/coi/coi) - Coi: A type-safe, component-based language for building high-performance web apps with WASM and fine-grained reactivity.
 - [amargaritov/starlit](https://github.com/amargaritov/starlit) - Hutter Prize Submission 2021a: STARLIT + cmix
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
@@ -570,6 +570,7 @@
 
 ## Go 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [kooshi/llama-swappo](https://github.com/kooshi/llama-swappo) - llama-swap + a minimal ollama compatible api
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
@@ -1265,6 +1266,7 @@
 - [mljs/matrix](https://github.com/mljs/matrix) - Matrix manipulation and computation library
 - [jcoglan/sylvester](https://github.com/jcoglan/sylvester) - Vector, matrix and geometry math JavaScript
 - [hiddentao/linear-algebra](https://github.com/hiddentao/linear-algebra) - Efficient, high-performance linear algebra for node.js and browsers
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [gosukiwi/Pasukon](https://github.com/gosukiwi/Pasukon) - JavaScript practical parser generator library using combinators
 - [gtanner/qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - QRCodes in your terminal, cause thats hot.
@@ -1348,7 +1350,6 @@
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
 - [JuliaParallel/PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) - Julia wrappers for the PETSc library
 - [QuantumBFS/YaoLang.jl](https://github.com/QuantumBFS/YaoLang.jl) - YaoLang: The next DSL for Yao and quantum programs.
-- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
 ## Jupyter Notebook 
 
@@ -1607,6 +1608,7 @@
 
 ## Python 
 
+- [michaelsdr/ical](https://github.com/michaelsdr/ical) - Autoregressive In Context Learning
 - [UniBwTAS/ccma](https://github.com/UniBwTAS/ccma) - Curvature Corrected Moving Average: An accurate and model-free path smoothing algorithm.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [closedform/deriver](https://github.com/closedform/deriver) - A powerful symbolic mathematics library for Python.
