@@ -1350,6 +1350,7 @@
 
 ## electron 
 
+- [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - elecxzy project
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
@@ -1373,6 +1374,7 @@
 
 ## emacs 
 
+- [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - elecxzy project
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
@@ -2618,6 +2620,7 @@
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
@@ -2829,6 +2832,7 @@
 - [tekknolagi/full-beans](https://github.com/tekknolagi/full-beans) - 
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -3287,7 +3291,7 @@
 
 ## others 
 
-- [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more.
+- [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
 - [michaelsdr/ical](https://github.com/michaelsdr/ical) - Autoregressive In Context Learning
 - [raphlinus/spline-research](https://github.com/raphlinus/spline-research) - A repository for research code, papers, interactive visualizers, etc., for spline research
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
@@ -3315,7 +3319,7 @@
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
-- [plumkewe/dove-unipi](https://github.com/plumkewe/dove-unipi) - Un'applicazione web per orientarsi facilmente tra gli edifici, i piani e le aule del Polo Fibonacci dell'Università di Pisa. Esplora le mappe interattive e trova le informazioni di cui hai bisogno.
+- [plumkewe/dove-unipi](https://github.com/plumkewe/dove-unipi) - Un'applicazione web per orientarsi facilmente tra gli edifici, i piani e le aule dei Poli dell'Università di Pisa. Esplora le mappe interattive e trova le informazioni di cui hai bisogno.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [OverflowCat/astro-typst](https://github.com/OverflowCat/astro-typst) - All-in-one Typst integration for Astro
@@ -4715,6 +4719,7 @@
 
 ## react 
 
+- [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - elecxzy project
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -5418,6 +5423,7 @@
 
 ## typescript 
 
+- [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - elecxzy project
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
