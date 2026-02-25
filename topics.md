@@ -310,6 +310,7 @@
 
 ## ai 
 
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [divyaprakash0426/autoshorts](https://github.com/divyaprakash0426/autoshorts) - Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
@@ -712,6 +713,7 @@
 
 ## cli 
 
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -881,7 +883,7 @@
 
 ## compiler 
 
-- [coi/coi](https://github.com/coi/coi) - Coi: A type-safe, component-based language for building high-performance web apps with WASM and fine-grained reactivity.
+- [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
@@ -1276,6 +1278,7 @@
 
 ## docker 
 
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
@@ -1508,7 +1511,7 @@
 
 ## frontend 
 
-- [coi/coi](https://github.com/coi/coi) - Coi: A type-safe, component-based language for building high-performance web apps with WASM and fine-grained reactivity.
+- [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [LebCit/aether-cms](https://github.com/LebCit/aether-cms) - A modern, elegant content management system designed for developers and content creators who value simplicity and power.
 - [unisonweb/ucm-desktop](https://github.com/unisonweb/ucm-desktop) - A desktop app companion to the UCM CLI
@@ -2491,6 +2494,7 @@
 
 ## language 
 
+- [racket/rhombus](https://github.com/racket/rhombus) - Rhombus programming language
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
@@ -2674,6 +2678,7 @@
 
 ## llm 
 
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
@@ -3223,6 +3228,7 @@
 
 ## openai 
 
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [divyaprakash0426/autoshorts](https://github.com/divyaprakash0426/autoshorts) - Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers.
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
@@ -3291,6 +3297,8 @@
 
 ## others 
 
+- [miifrommera/boxxy](https://github.com/miifrommera/boxxy) - A Terminal for GNOME
+- [CleverCloud/mdr](https://github.com/CleverCloud/mdr) - a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded
 - [clojurewasm/zwasm](https://github.com/clojurewasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [abdimoallim/jit](https://github.com/abdimoallim/jit) - A header-only, cross-platform JIT compiler library in C. Targets x86-32, x86-64, ARM32 and ARM64
@@ -3602,7 +3610,7 @@
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
-- [mnfst/manifest](https://github.com/mnfst/manifest) - OpenClaw Real-time Cost Observability
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Cut OpenClaw Costs up to 90% Keeping Your Data Safe.
 - [facebookincubator/cinderx](https://github.com/facebookincubator/cinderx) - High-performance Python runtime extensions
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
@@ -4467,7 +4475,7 @@
 
 ## programming-language 
 
-- [coi/coi](https://github.com/coi/coi) - Coi: A type-safe, component-based language for building high-performance web apps with WASM and fine-grained reactivity.
+- [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [alantech/alan](https://github.com/alantech/alan) - Autoscalable Programming Language
 - [marcpaq/b1fipl](https://github.com/marcpaq/b1fipl) - A Bestiary of Single-File Implementations of Programming Languages
@@ -5303,6 +5311,7 @@
 
 ## terminal 
 
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [cesarferreira/rip](https://github.com/cesarferreira/rip) - Fuzzy find and kill processes from your terminal
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -5687,7 +5696,7 @@
 
 ## web-development 
 
-- [coi/coi](https://github.com/coi/coi) - Coi: A type-safe, component-based language for building high-performance web apps with WASM and fine-grained reactivity.
+- [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
 - [andrewpillar/webutil](https://github.com/andrewpillar/webutil) - Utility package for web development in Go
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
