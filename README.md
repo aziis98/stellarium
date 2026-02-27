@@ -129,7 +129,7 @@
 
 ## C 
 
-- [abdimoallim/jit](https://github.com/abdimoallim/jit) - A header-only, cross-platform JIT compiler library in C. Targets x86-32, x86-64, ARM32 and ARM64
+- [abdimoallim/jit](https://github.com/abdimoallim/jit) - A header-only, cross-platform JIT compiler library in C—targets i386, x86-64, ARM32, ARM64, RISC-V 64
 - [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [abdimoallim/vdb](https://github.com/abdimoallim/vdb) - A header-only C vector database library
@@ -776,7 +776,6 @@
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
 - [qiangxue/fasthttp-routing](https://github.com/qiangxue/fasthttp-routing) - A fast and powerful routing package for fasthttp servers
 - [sarulabs/di](https://github.com/sarulabs/di) - Dependency injection container in go (golang)
-- [aegistudio/enigma](https://github.com/aegistudio/enigma) - 🔢🔒Enigma: a simple cross-platform encrypted filesystem
 - [aziis98/go-patbu](https://github.com/aziis98/go-patbu) - A Go library and CLI to manipulate paths
 - [xlab/treeprint](https://github.com/xlab/treeprint) - Package treeprint provides a simple ASCII tree composing tool.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
@@ -2487,7 +2486,7 @@
 - [giuliocapecchi/AulePi](https://github.com/giuliocapecchi/AulePi) - Resource for available classrooms @unipi
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
