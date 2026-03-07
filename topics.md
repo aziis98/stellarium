@@ -734,7 +734,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [miantiao-me/ssh-ai-chat](https://github.com/miantiao-me/ssh-ai-chat) - Chat with AI over SSH.
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -885,6 +885,7 @@
 
 ## compiler 
 
+- [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
@@ -909,7 +910,7 @@
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [Zag-Research/Zag-Smalltalk](https://github.com/Zag-Research/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
@@ -1697,7 +1698,7 @@
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) - Type safe enums for Go without code generation or reflection
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
+- [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [dl-tg/scaffolder](https://github.com/dl-tg/scaffolder) - CLI tool to instantly generate skeleton project structure with boilerplate code, that's taken from configurable YAML file, to quickly kick-start your project
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
@@ -1839,7 +1840,7 @@
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) - Type safe enums for Go without code generation or reflection
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
+- [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [dl-tg/scaffolder](https://github.com/dl-tg/scaffolder) - CLI tool to instantly generate skeleton project structure with boilerplate code, that's taken from configurable YAML file, to quickly kick-start your project
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [aziis98/go-sl](https://github.com/aziis98/go-sl) - Small golang service locator library that uses generics
@@ -2100,7 +2101,7 @@
 - [velox-apps/velox](https://github.com/velox-apps/velox) - Velox is a port of Tauri to Swift.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
@@ -2320,7 +2321,7 @@
 - [saharan/OimoPhysics](https://github.com/saharan/OimoPhysics) - A cross-platform 3D physics engine
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [daaku/dak](https://github.com/daaku/dak) - Dak is a Lisp like language that transpiles to JavaScript.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
@@ -2593,7 +2594,7 @@
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [Bloomca/veles](https://github.com/Bloomca/veles) - UI library with main focus on performance
 - [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
-- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
+- [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [ontola/atomic-server](https://github.com/ontola/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [aziis98/ergolas](https://github.com/aziis98/ergolas) - an Embeddable Random GOlang LAnguage for Scripting
@@ -2883,7 +2884,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [LebCit/aether-cms](https://github.com/LebCit/aether-cms) - A modern, elegant content management system designed for developers and content creators who value simplicity and power.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
@@ -3306,6 +3307,7 @@
 
 ## others 
 
+- [AndrasKovacs/elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo) - Minimal implementations for dependent type checking and elaboration
 - [ecto/tang](https://github.com/ecto/tang) - quic mafs
 - [robertcprice/nCPU](https://github.com/robertcprice/nCPU) - nCPU: model-native and tensor-optimized CPU research runtimes with organized workloads, tools, and docs
 - [qlabs-eng/slowrun](https://github.com/qlabs-eng/slowrun) - 100M tokens. Infinite compute. Lowest val loss wins.
@@ -4996,7 +4998,7 @@
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -5512,7 +5514,7 @@
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
@@ -5686,7 +5688,7 @@
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [Pitasi/rscx](https://github.com/Pitasi/rscx) - Rust Server Components. JSX-like syntax and async out of the box.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
@@ -5734,7 +5736,7 @@
 
 - [damianstasik/vue-svg-loader](https://github.com/damianstasik/vue-svg-loader) - 🔨 webpack loader that lets you use SVG files as Vue components
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [mismith0227/hugo_theme_pickles](https://github.com/mismith0227/hugo_theme_pickles) - Modern, Simple and beautiful Hugo theme
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 - [gilamran/fullstack-typescript](https://github.com/gilamran/fullstack-typescript) - FAST FullStack React with TypeScript starter kit.
