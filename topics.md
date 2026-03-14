@@ -912,7 +912,7 @@
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [Zag-Research/Zag-Smalltalk](https://github.com/Zag-Research/Zag-Smalltalk) - Smalltalk VM Written in Zig with methods stored as type-annotated ASTs
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
@@ -2323,7 +2323,7 @@
 - [saharan/OimoPhysics](https://github.com/saharan/OimoPhysics) - A cross-platform 3D physics engine
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [daaku/dak](https://github.com/daaku/dak) - Dak is a Lisp like language that transpiles to JavaScript.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
@@ -3311,6 +3311,7 @@
 
 ## others 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [loopmaster-xyz/loopmaster](https://github.com/loopmaster-xyz/loopmaster) - Livecoding DSP environment
 - [Martian-Engineering/volt](https://github.com/Martian-Engineering/volt) - Coding agent with lossless context management
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
@@ -4937,6 +4938,7 @@
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and efficient serialization framework
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [MinishLab/model2vec-rs](https://github.com/MinishLab/model2vec-rs) - Official Rust Implementation of Model2Vec
@@ -5009,7 +5011,7 @@
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -5525,7 +5527,7 @@
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
@@ -5699,7 +5701,7 @@
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [Pitasi/rscx](https://github.com/Pitasi/rscx) - Rust Server Components. JSX-like syntax and async out of the box.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
@@ -5747,7 +5749,7 @@
 
 - [damianstasik/vue-svg-loader](https://github.com/damianstasik/vue-svg-loader) - 🔨 webpack loader that lets you use SVG files as Vue components
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [mismith0227/hugo_theme_pickles](https://github.com/mismith0227/hugo_theme_pickles) - Modern, Simple and beautiful Hugo theme
 - [CKGrafico/Frontend-Boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates) - Collection of Boilerplates with ES6, Vue, React, Nuxt, TypeScript, SCSS, Nodejs. Using good practices and file structures to inspire your real projects.
 - [gilamran/fullstack-typescript](https://github.com/gilamran/fullstack-typescript) - FAST FullStack React with TypeScript starter kit.
@@ -5772,6 +5774,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Lib
