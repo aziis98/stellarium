@@ -1414,6 +1414,7 @@
 
 ## Lean 
 
+- [SamuelSchlesinger/HashMath](https://github.com/SamuelSchlesinger/HashMath) - A shared mathematical environment without need for version control or naming synchronization.
 - [James-Hanson/junk-theorems-in-lean](https://github.com/James-Hanson/junk-theorems-in-lean) - A small collection of formally verified junk theorems provable in Lean4 + Mathlib.
 - [shua/leanknot](https://github.com/shua/leanknot) - Some formalizations of knot theory ideas in lean
 - [chasenorman/Canonical](https://github.com/chasenorman/Canonical) - Canonical is a performant sound and complete type inhabitation solver for dependent type theory.
@@ -1478,7 +1479,7 @@
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Mathematica 
 
@@ -1838,7 +1839,7 @@
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [alejandro-ao/ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
