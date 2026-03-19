@@ -367,6 +367,7 @@
 
 ## ai-agents 
 
+- [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas
 - [closedform/deriver](https://github.com/closedform/deriver) - A powerful symbolic mathematics library for Python.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
@@ -4905,6 +4906,7 @@
 
 ## rust 
 
+- [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [ecto/loon](https://github.com/ecto/loon) - the lisp I always wanted
