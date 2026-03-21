@@ -369,7 +369,6 @@
 
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas
-- [closedform/deriver](https://github.com/closedform/deriver) - A powerful symbolic mathematics library for Python.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
@@ -2609,6 +2608,7 @@
 
 ## linux 
 
+- [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor.
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -3317,7 +3317,7 @@
 
 - [alainnothere/llm-circuit-finder](https://github.com/alainnothere/llm-circuit-finder) - I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 
 - [emin-ozata/lazycut](https://github.com/emin-ozata/lazycut) - A simple terminal UI for video trimming
-- [SamuelSchlesinger/HashMath](https://github.com/SamuelSchlesinger/HashMath) - A shared mathematical environment without need for version control or naming synchronization.
+- [SamuelSchlesinger/HashMath](https://github.com/SamuelSchlesinger/HashMath) - A proof of concept of a shared mathematical environment without need for version control or naming synchronization.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [loopmaster-xyz/loopmaster](https://github.com/loopmaster-xyz/loopmaster) - Livecoding DSP environment
 - [Martian-Engineering/volt](https://github.com/Martian-Engineering/volt) - Coding agent with lossless context management
@@ -4431,7 +4431,6 @@
 
 ## physics 
 
-- [closedform/deriver](https://github.com/closedform/deriver) - A powerful symbolic mathematics library for Python.
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) - A modern computer algebra library for Python and Rust.
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
@@ -4907,6 +4906,7 @@
 
 ## rust 
 
+- [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor.
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
