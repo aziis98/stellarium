@@ -3315,6 +3315,8 @@
 
 ## others 
 
+- [mohebifar/tooscut](https://github.com/mohebifar/tooscut) - Professional video editing, right in your browser. Made with Rust, WebGPU, WASM, and Tanstack Start.
+- [dashersw/gea](https://github.com/dashersw/gea) - 
 - [alainnothere/llm-circuit-finder](https://github.com/alainnothere/llm-circuit-finder) - I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 
 - [emin-ozata/lazycut](https://github.com/emin-ozata/lazycut) - A simple terminal UI for video trimming
 - [SamuelSchlesinger/HashMath](https://github.com/SamuelSchlesinger/HashMath) - A proof of concept of a shared mathematical environment without need for version control or naming synchronization.
