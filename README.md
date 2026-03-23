@@ -579,7 +579,7 @@
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [kooshi/llama-swappo](https://github.com/kooshi/llama-swappo) - llama-swap + a minimal ollama compatible api
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [FurqanSoftware/papyrus](https://github.com/FurqanSoftware/papyrus) - A real-time collaborative Markdown editor and document repository with simple organization and project-based management
 - [plainas/qjp](https://github.com/plainas/qjp) - Quick interactive TUI json picker/menu
@@ -1694,7 +1694,6 @@
 - [aziis98/opencv-maze-solver](https://github.com/aziis98/opencv-maze-solver) - Summer project before vaction, an OpenCV-powered whiteboard maze solver (A* by NetworkX) with start/end points decided by April Tags
 - [daskol/typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - Render math expression with typst markup language in Telegram
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai) - A neurosymbolic perspective on LLMs
 - [smartscenes/multiscan](https://github.com/smartscenes/multiscan) - MultiScan: Scalable RGBD scanning for 3D environments with articulated objects
 - [sirbread/sink](https://github.com/sirbread/sink) - sync any directory with any device on your local network
@@ -1955,6 +1954,7 @@
 
 ## Rust 
 
+- [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
 - [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor.
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas
@@ -2450,6 +2450,7 @@
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [wjlewis/ramo](https://github.com/wjlewis/ramo) - miniKanren for JavaScript
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2508,7 +2509,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [phosphor-icons/core](https://github.com/phosphor-icons/core) - 
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [giuliocapecchi/AulePi](https://github.com/giuliocapecchi/AulePi) - Resource for available classrooms @unipi
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
