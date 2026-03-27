@@ -1037,7 +1037,7 @@
 
 ## JavaScript 
 
-- [dashersw/gea](https://github.com/dashersw/gea) - 
+- [dashersw/gea](https://github.com/dashersw/gea) - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.
 - [raphlinus/spline-research](https://github.com/raphlinus/spline-research) - A repository for research code, papers, interactive visualizers, etc., for spline research
 - [knadh/highlighted-input.js](https://github.com/knadh/highlighted-input.js) - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an &lt;input&gt; field.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
@@ -1801,7 +1801,6 @@
 - [google-deepmind/treescope](https://github.com/google-deepmind/treescope) - An interactive HTML pretty-printer for machine learning research in IPython notebooks.
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
 - [Florian-Barthel/splatviz](https://github.com/Florian-Barthel/splatviz) - Full python interactive 3D Gaussian Splatting viewer for real-time editing and analyzing.
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [affjljoo3581/GPT2](https://github.com/affjljoo3581/GPT2) - PyTorch Implementation of OpenAI GPT-2
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
@@ -2544,6 +2543,7 @@
 - [jefago/tiny-markdown-editor](https://github.com/jefago/tiny-markdown-editor) - TinyMDE: A tiny, dependency-free embeddable HTML/JavaScript Markdown editor.
 - [FurqanSoftware/codemirror-languageserver](https://github.com/FurqanSoftware/codemirror-languageserver) - Language Server integration for CodeMirror 6
 - [qualified/lsps](https://github.com/qualified/lsps) - Use Language Servers with in-browser editors. Monorepo of editor agnostic packages and CodeMirror client.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [gdgpescara/hedwig](https://github.com/gdgpescara/hedwig) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
