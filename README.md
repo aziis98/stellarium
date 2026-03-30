@@ -298,6 +298,7 @@
 
 ## C# # 
 
+- [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [archistico/ShadeOfColor2](https://github.com/archistico/ShadeOfColor2) - A simple cross-platform tool to hide files inside PNG images
 - [aniketrajnish/Raymarching-Engine-Unity](https://github.com/aniketrajnish/Raymarching-Engine-Unity) - A raymarching engine for Unity
@@ -312,6 +313,7 @@
 
 ## C++ 
 
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [ICS-MU/pam_oauth2_device](https://github.com/ICS-MU/pam_oauth2_device) - PAM module OAuth2 Device flow
 - [a-e-k/canvas_ity](https://github.com/a-e-k/canvas_ity) - A tiny, single-header &lt;canvas&gt;-like 2D rasterizer for C++
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
