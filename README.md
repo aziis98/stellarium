@@ -1409,7 +1409,6 @@
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [wasabifx/wasabi](https://github.com/wasabifx/wasabi) - An HTTP Framework
 - [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Java & Kotlin, inspired by Redux & Elm
-- [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
 - [czyzby/kotlin-times](https://github.com/czyzby/kotlin-times) - :octocat: Kotlin reinvented.
 - [cy6erGn0m/webgl-test](https://github.com/cy6erGn0m/webgl-test) - 
 
