@@ -344,7 +344,6 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [miantiao-me/ssh-ai-chat](https://github.com/miantiao-me/ssh-ai-chat) - Chat with AI over SSH.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -2983,7 +2982,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sdiehl/usolver](https://github.com/sdiehl/usolver) - A model context protocol server for solving combinatorial optimization problems with logical and numerical constraints.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## microservices 
@@ -3352,6 +3350,7 @@
 
 ## others 
 
+- [KCORES/vector-db-bench](https://github.com/KCORES/vector-db-bench) - AI 可以在 50 trun 内实现一个简单的高性能向量数据库吗?
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm) - A ~9M parameter LLM that talks like a small fish.
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
