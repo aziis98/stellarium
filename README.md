@@ -527,7 +527,7 @@
 
 ## Elixir 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [bontaq/textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
 
 ## Elm 
@@ -1368,6 +1368,8 @@
 
 ## Jupyter Notebook 
 
+- [google-research/inksight](https://github.com/google-research/inksight) - 
+- [greydanus/cursivetransformer](https://github.com/greydanus/cursivetransformer) - Training a transformer to generate cursive handwriting
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [thommaskevin/TinyML](https://github.com/thommaskevin/TinyML) - 
 - [ash80/diffusion-gpt](https://github.com/ash80/diffusion-gpt) - From baby GPT to diffusion GPT: An annotated implementation of a character-level discrete diffusion model (adapted from Karpathy’s baby GPT).
@@ -1627,6 +1629,8 @@
 
 ## Python 
 
+- [awei669/DiffInk](https://github.com/awei669/DiffInk) - [ICLR 2026] DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation
+- [hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow) - Generative Handwriting using LSTM Mixture Density Network with TensorFlow
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) - Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm) - A ~9M parameter LLM that talks like a small fish.
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
@@ -1972,6 +1976,8 @@
 
 ## Rust 
 
+- [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer) - TUI-oriented coding agent written in Rust.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [KCORES/vector-db-bench](https://github.com/KCORES/vector-db-bench) - AI 可以在 50 trun 内实现一个简单的高性能向量数据库吗?
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
@@ -1987,7 +1993,7 @@
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [ad-si/Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [miifrommera/boxxy](https://github.com/miifrommera/boxxy) - Stupid Linux Terminal
+- [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [CleverCloud/mdr](https://github.com/CleverCloud/mdr) - a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
