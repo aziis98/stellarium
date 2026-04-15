@@ -313,6 +313,7 @@
 
 ## C++ 
 
+- [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [ICS-MU/pam_oauth2_device](https://github.com/ICS-MU/pam_oauth2_device) - PAM module OAuth2 Device flow
 - [a-e-k/canvas_ity](https://github.com/a-e-k/canvas_ity) - A tiny, single-header &lt;canvas&gt;-like 2D rasterizer for C++
@@ -1632,6 +1633,7 @@
 
 ## Python 
 
+- [Introspective-Diffusion/I-DLM](https://github.com/Introspective-Diffusion/I-DLM) - 
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [awei669/DiffInk](https://github.com/awei669/DiffInk) - [ICLR 2026] DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation
 - [hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow) - Generative Handwriting using LSTM Mixture Density Network with TensorFlow
