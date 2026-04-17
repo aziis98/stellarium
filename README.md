@@ -578,6 +578,7 @@
 
 ## Go 
 
+- [mlhher/late](https://github.com/mlhher/late) - AI coding agent built like a systems engineer. Strict state machines, zero context bloat. Stop wasting money on 10k token wrappers that actively degrade LLM reasoning.
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -2427,6 +2428,7 @@
 
 ## TypeScript 
 
+- [Jacob-Lockwood/fixapl](https://github.com/Jacob-Lockwood/fixapl) - A simple APL derivative, built on fixed-arity functions
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
