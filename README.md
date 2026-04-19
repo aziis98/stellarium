@@ -577,7 +577,7 @@
 
 ## Go 
 
-- [mlhher/late](https://github.com/mlhher/late) - AI coding agent built like a systems engineer. Strict state machines, zero context bloat. Stop wasting money on 10k token wrappers that actively degrade LLM reasoning.
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that actively
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -1634,6 +1634,7 @@
 
 ## Python 
 
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [droher/etymology-db](https://github.com/droher/etymology-db) - An open etymology dataset created using Wiktionary data. Contains 3.8M entries, 1.8M terms, 2900 languages, and 31 unique relationship types.
 - [Introspective-Diffusion/I-DLM](https://github.com/Introspective-Diffusion/I-DLM) - 
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
@@ -2512,7 +2513,7 @@
 - [warden-protocol/wardenprotocol](https://github.com/warden-protocol/wardenprotocol) - Monorepo for the Warden Protocol.
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [nmattia/skapa](https://github.com/nmattia/skapa) - Generate 3D printable models for IKEA SKADIS pegboards.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
