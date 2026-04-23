@@ -476,7 +476,6 @@
 - [zachallaun/secd](https://github.com/zachallaun/secd) - A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)
 - [daaku/dak](https://github.com/daaku/dak) - Dak is a Lisp like language that transpiles to JavaScript.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-- [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [tonsky/vscode-theme-alabaster](https://github.com/tonsky/vscode-theme-alabaster) - A light theme for Visual Studio Code
 
@@ -1004,6 +1003,7 @@
 ## Janet 
 
 - [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
+- [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 
 ## Java 
 
