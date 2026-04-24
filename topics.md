@@ -320,6 +320,7 @@
 
 ## ai 
 
+- [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
@@ -360,6 +361,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -1011,7 +1013,7 @@
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [abolinsky/Hook](https://github.com/abolinsky/Hook) - a graphical C/C++ runtime editor
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor (POC)
 - [tgfrerer/island](https://github.com/tgfrerer/island) - 🌋🐎 Project Island is an experimental, hot-reloading Vulkan Renderer for Linux and Windows, written in C/C++.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -1075,7 +1077,7 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor (POC)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
@@ -1517,7 +1519,7 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor (POC)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
@@ -2304,7 +2306,6 @@
 ## javascript 
 
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [damianstasik/vue-svg-loader](https://github.com/damianstasik/vue-svg-loader) - 🔨 webpack loader that lets you use SVG files as Vue components
 - [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -2750,6 +2751,7 @@
 
 ## llm 
 
+- [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [cbacary/MoDeGPT](https://github.com/cbacary/MoDeGPT) - An implementation of the MoDeGPT LLM compression from the ICLR 2025 Conference paper: Modular Decomposition For Large Language Model Compression.
@@ -3210,6 +3212,7 @@
 
 ## nodejs 
 
+- [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -3310,6 +3313,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -3742,7 +3746,6 @@
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
 - [facebookincubator/cinderx](https://github.com/facebookincubator/cinderx) - High-performance Python runtime extensions
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) - 
@@ -5018,7 +5021,7 @@
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [ecto/loon](https://github.com/ecto/loon) - the lisp I always wanted
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
-- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
+- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
 - [TrevorS/voxtral-mini-realtime-rs](https://github.com/TrevorS/voxtral-mini-realtime-rs) - Voxtral ASR & TTS running natively and in the browser. A Rust implementation of Mistral's Voxtral mini realtime ASR / TTS using the Burn ML framework
 - [ZennDev1337/Rust-for-Arduboy](https://github.com/ZennDev1337/Rust-for-Arduboy) - 
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
@@ -5208,6 +5211,7 @@
 
 ## self-hosted 
 
+- [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -5612,7 +5616,7 @@
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [aziis98/ro-vis](https://github.com/aziis98/ro-vis) - Visualizzazioni di Algoritmi studiati nel corso di Ricerca Operativa
 - [andywer/squid](https://github.com/andywer/squid) - 🦑 Provides SQL tagged template strings and schema definition functions.
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
