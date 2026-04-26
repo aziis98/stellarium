@@ -982,7 +982,6 @@
 - [egison/egison](https://github.com/egison/egison) - The Egison Programming Language
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [KeliLanguage/compiler](https://github.com/KeliLanguage/compiler) - The compiler for Keli
-- [vekatze/neut](https://github.com/vekatze/neut) - A functional programming language with static memory management
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [willtim/Expresso](https://github.com/willtim/Expresso) - A simple expressions language with polymorphic extensible row types.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
@@ -1295,6 +1294,7 @@
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [mudgen/webscript](https://github.com/mudgen/webscript) - Webscript is a Javascript library for creating DOM elements. Use it to create web applications. It is like HTML but it is Javascript. It is designed to work with existing libraries.
+- [vekatze/neut](https://github.com/vekatze/neut) - A functional programming language with static memory management
 - [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [bollu/mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
