@@ -128,6 +128,7 @@
 
 ## C 
 
+- [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [bryanpkc/corkscrew](https://github.com/bryanpkc/corkscrew) - A tool for tunneling SSH through HTTP proxies
 - [abdimoallim/jit](https://github.com/abdimoallim/jit) - A header-only, cross-platform JIT compiler library in C—targets i386, x86-64, ARM32, ARM64, RISC-V 64
@@ -313,6 +314,7 @@
 
 ## C++ 
 
+- [antirez/llama.cpp-deepseek-v4-flash](https://github.com/antirez/llama.cpp-deepseek-v4-flash) - Experimental implementation of DeepSeek v4 flaash in llama.cpp
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [ICS-MU/pam_oauth2_device](https://github.com/ICS-MU/pam_oauth2_device) - PAM module OAuth2 Device flow
@@ -1552,6 +1554,8 @@
 
 ## Others 
 
+- [openMVG/ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle) - Image of "Chateau de Sceaux", Sceaux castle. France. Photographer: Copyright 2012 Pierre MOULON
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [vantienpham/Awesome-Tensor-Decomposition](https://github.com/vantienpham/Awesome-Tensor-Decomposition) - 😎 A curated list of tensor decomposition resources for model compression.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - elecxzy project
@@ -1637,6 +1641,11 @@
 
 ## Python 
 
+- [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
+- [0xku/kon](https://github.com/0xku/kon) - Kon is a minimal coding agent (and also a highly opinionated one)
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- [aziis98/pdf-diff-viewer](https://github.com/aziis98/pdf-diff-viewer) - Personal PDF diff viewer that smartly segments the input pdfs into blocks. Displays a split/unified view of the changes as an infinite vertical html page
+- [motsognirr/olmlx](https://github.com/motsognirr/olmlx) - Small server that exposes an Ollama compatible interface to MLX
 - [sublimelsp/LSP-copilot](https://github.com/sublimelsp/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
@@ -1991,6 +2000,9 @@
 
 ## Rust 
 
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent
 - [m0at/rvllm](https://github.com/m0at/rvllm) - rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
@@ -2104,7 +2116,7 @@
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
-- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
+- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Inference at the speed of light.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [MinishLab/model2vec-rs](https://github.com/MinishLab/model2vec-rs) - Official Rust Implementation of Model2Vec
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
@@ -2437,6 +2449,7 @@
 
 ## TypeScript 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [Jacob-Lockwood/fixapl](https://github.com/Jacob-Lockwood/fixapl) - A simple APL derivative, built on fixed-arity functions
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
