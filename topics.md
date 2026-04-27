@@ -116,6 +116,7 @@
 - [godot](#godot)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
+- [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [gui](#gui)
@@ -739,12 +740,14 @@
 
 ## claude-code 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 
 ## cli 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -1093,6 +1096,7 @@
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
 ## data-engineering 
 
@@ -1109,6 +1113,7 @@
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
 ## data-structures 
 
@@ -1130,6 +1135,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
 
 ## database 
@@ -1244,6 +1250,7 @@
 
 ## developer-tools 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
@@ -1264,6 +1271,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1971,6 +1979,10 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## google 
+
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 
 ## gradle 
 
@@ -2753,6 +2765,8 @@
 
 ## llm 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -2905,6 +2919,7 @@
 
 ## macos 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -3304,6 +3319,7 @@
 
 ## open-source 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
@@ -3399,6 +3415,15 @@
 
 ## others 
 
+- [antirez/llama.cpp-deepseek-v4-flash](https://github.com/antirez/llama.cpp-deepseek-v4-flash) - Experimental implementation of DeepSeek v4 flaash in llama.cpp
+- [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
+- [0xku/kon](https://github.com/0xku/kon) - Kon is a minimal coding agent (and also a highly opinionated one)
+- [openMVG/ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle) - Image of "Chateau de Sceaux", Sceaux castle. France. Photographer: Copyright 2012 Pierre MOULON
+- [motsognirr/olmlx](https://github.com/motsognirr/olmlx) - Small server that exposes an Ollama compatible interface to MLX
+- [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [sublimelsp/LSP-copilot](https://github.com/sublimelsp/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [ORCID/bibtexParseJs](https://github.com/ORCID/bibtexParseJs) - A JavaScript library that parses BibTeX parser.
 - [m0at/rvllm](https://github.com/m0at/rvllm) - rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.
@@ -3697,7 +3722,7 @@
 - [aziis98/knotscap](https://github.com/aziis98/knotscap) - Personal fork of KnotScape (a '90 knot theory software) with some compilation fixes
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
-- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
+- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Inference at the speed of light.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
 - [dimpase/knotscap](https://github.com/dimpase/knotscap) - 
@@ -4588,6 +4613,7 @@
 
 ## productivity 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
@@ -4694,6 +4720,7 @@
 
 ## python 
 
+- [aziis98/pdf-diff-viewer](https://github.com/aziis98/pdf-diff-viewer) - Personal PDF diff viewer that smartly segments the input pdfs into blocks. Displays a split/unified view of the changes as an infinite vertical html page
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
 - [UniBwTAS/ccma](https://github.com/UniBwTAS/ccma) - Curvature Corrected Moving Average: An accurate and model-free path smoothing algorithm.
@@ -5018,6 +5045,7 @@
 
 ## rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
@@ -5840,7 +5868,6 @@
 - [Pitasi/rscx](https://github.com/Pitasi/rscx) - Rust Server Components. JSX-like syntax and async out of the box.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
@@ -5882,6 +5909,7 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
 ## webpack 
 
