@@ -1628,6 +1628,7 @@
 
 ## Perl 
 
+- [sympa-community/sympa](https://github.com/sympa-community/sympa) - Sympa, Mailing List Management Software
 - [bearstech/phptop](https://github.com/bearstech/phptop) - PHP basic ressource profiler (CPU/memory), safe and useful for production sites
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
@@ -1641,6 +1642,7 @@
 
 ## Python 
 
+- [ZsomborFeher/khovanov-cobordism](https://github.com/ZsomborFeher/khovanov-cobordism) - Khovanov Cobordism Calculator is a Python module to calculate cobordism maps induced on Khovanov homology.
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [0xku/kon](https://github.com/0xku/kon) - Kon is a minimal coding agent (and also a highly opinionated one)
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -1821,7 +1823,7 @@
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [hugohadfield/kalmangrad](https://github.com/hugohadfield/kalmangrad) - Automated, smooth, N'th order derivatives of non-uniformly sampled time series data
-- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 2 minutes
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 90 seconds
 - [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
@@ -2449,6 +2451,7 @@
 
 ## TypeScript 
 
+- [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [Jacob-Lockwood/fixapl](https://github.com/Jacob-Lockwood/fixapl) - A simple APL derivative, built on fixed-arity functions
