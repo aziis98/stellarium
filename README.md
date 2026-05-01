@@ -580,7 +580,7 @@
 
 ## Go 
 
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -985,6 +985,7 @@
 - [egison/egison](https://github.com/egison/egison) - The Egison Programming Language
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [KeliLanguage/compiler](https://github.com/KeliLanguage/compiler) - The compiler for Keli
+- [vekatze/neut](https://github.com/vekatze/neut) - A functional programming language with static memory management
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [willtim/Expresso](https://github.com/willtim/Expresso) - A simple expressions language with polymorphic extensible row types.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
@@ -1297,7 +1298,6 @@
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [mudgen/webscript](https://github.com/mudgen/webscript) - Webscript is a Javascript library for creating DOM elements. Use it to create web applications. It is like HTML but it is Javascript. It is designed to work with existing libraries.
-- [vekatze/neut](https://github.com/vekatze/neut) - A functional programming language with static memory management
 - [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [bollu/mathemagic](https://github.com/bollu/mathemagic) - Toybox of explanations of mathematics. Initial focus on (discrete) differential geometry
@@ -1649,7 +1649,6 @@
 - [0xku/kon](https://github.com/0xku/kon) - Kon is a minimal coding agent (and also a highly opinionated one)
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [aziis98/pdf-diff-viewer](https://github.com/aziis98/pdf-diff-viewer) - Personal PDF diff viewer that smartly segments the input pdfs into blocks. Displays a split/unified view of the changes as an infinite vertical html page
-- [motsognirr/olmlx](https://github.com/motsognirr/olmlx) - Small server that exposes an Ollama compatible interface to MLX
 - [sublimelsp/LSP-copilot](https://github.com/sublimelsp/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
@@ -2587,7 +2586,7 @@
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
+- [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [cosmosgl/graph](https://github.com/cosmosgl/graph) - GPU-accelerated force graph layout and rendering
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
