@@ -308,7 +308,7 @@
 ## agent 
 
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -325,7 +325,7 @@
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
@@ -388,7 +388,7 @@
 
 ## ai-agents 
 
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
@@ -1157,7 +1157,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
-- [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
+- [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -1257,7 +1257,7 @@
 ## developer-tools 
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -1853,7 +1853,7 @@
 
 ## golang 
 
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [FurqanSoftware/papyrus](https://github.com/FurqanSoftware/papyrus) - A real-time collaborative Markdown editor and document repository with simple organization and project-based management
@@ -3031,7 +3031,7 @@
 ## mcp 
 
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -3429,7 +3429,6 @@
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [0xku/kon](https://github.com/0xku/kon) - Kon is a minimal coding agent (and also a highly opinionated one)
 - [openMVG/ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle) - Image of "Chateau de Sceaux", Sceaux castle. France. Photographer: Copyright 2012 Pierre MOULON
-- [motsognirr/olmlx](https://github.com/motsognirr/olmlx) - Small server that exposes an Ollama compatible interface to MLX
 - [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent
@@ -4932,7 +4931,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
-- [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
+- [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [uiwjs/react-monacoeditor](https://github.com/uiwjs/react-monacoeditor) - Monaco Editor component for React.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -5515,7 +5514,7 @@
 
 ## terminal 
 
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -5601,7 +5600,7 @@
 
 ## tui 
 
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that a
+- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
