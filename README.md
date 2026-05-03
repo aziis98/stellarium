@@ -580,7 +580,7 @@
 
 ## Go 
 
-- [mlhher/late](https://github.com/mlhher/late) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -1051,7 +1051,7 @@
 
 ## JavaScript 
 
-- [aziis98/gdgpisa-secret26](https://github.com/aziis98/gdgpisa-secret26) - A small secret CTF for DevFest Pisa 2026: microgpt llm on python (pyodide) on linux (small fake fs+shell) on js
+- [aziis98/gdgpisa-secret26](https://github.com/aziis98/gdgpisa-secret26) - A small secret CTF for DevFest Pisa 2026: microgpt llm runs on python (pyodide) on a shell (vfs+common unix commands) on js
 - [ORCID/bibtexParseJs](https://github.com/ORCID/bibtexParseJs) - A JavaScript library that parses BibTeX parser.
 - [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 2M downloads
 - [dashersw/gea](https://github.com/dashersw/gea) - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.
@@ -1059,6 +1059,7 @@
 - [knadh/highlighted-input.js](https://github.com/knadh/highlighted-input.js) - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an &lt;input&gt; field.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [damianstasik/vue-svg-loader](https://github.com/damianstasik/vue-svg-loader) - 🔨 webpack loader that lets you use SVG files as Vue components
+- [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A versatile 2d function plotter
 - [remarkjs/remark-directive](https://github.com/remarkjs/remark-directive) - remark plugin to support directives
 - [bearcove/arborium](https://github.com/bearcove/arborium) - An opinionated tree-sitter + tree-sitter-highlight + grammars bundle
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
@@ -1644,6 +1645,7 @@
 
 ## Python 
 
+- [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - Turn any song into playable piano sheet music. Paste a YouTube link or upload audio — get a PDF score. Open-source pipeline: Basic Pitch transcription, two-hand arrangement, RL-trained engraving.
 - [zsylvester/meanderpy](https://github.com/zsylvester/meanderpy) - Simple model of meander migration
 - [ZsomborFeher/khovanov-cobordism](https://github.com/ZsomborFeher/khovanov-cobordism) - Khovanov Cobordism Calculator is a Python module to calculate cobordism maps induced on Khovanov homology.
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
@@ -1890,7 +1892,7 @@
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [alejandro-ao/ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
@@ -2453,6 +2455,7 @@
 
 ## TypeScript 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [christianliebel/paint](https://github.com/christianliebel/paint) - Open source, Web Components-based remake of MS Paint using modern web capabilities. 🎨🖌
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
@@ -2476,7 +2479,6 @@
 - [codemirror/merge](https://github.com/codemirror/merge) - Merge view for CodeMirror
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
-- [mauriciopoppe/function-plot](https://github.com/mauriciopoppe/function-plot) - A versatile 2d function plotter
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [gristlabs/grainjs](https://github.com/gristlabs/grainjs) - Javascript library from Grist Labs
