@@ -3444,13 +3444,14 @@
 
 ## others 
 
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE) - DarkSword webkit exploit captured ITW
 - [isene/watchit](https://github.com/isene/watchit) - Rust terminal browser for IMDb Top 250 movies and series. Part of the Fe2O3 suite.
 - [isene/pointer](https://github.com/isene/pointer) - Rust terminal file manager. Feature clone of RTFM with two-pane view, preview, and image display.
 - [isene/scribe](https://github.com/isene/scribe) - Modal text editor for writers — vim-like core, single binary. Part of the Fe2O3 Rust terminal suite.
 - [isene/show](https://github.com/isene/show) - Pure assembly file viewer with syntax highlighting. Part of CHasm.
-- [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's ml-sharp model.
+- [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model
 - [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [zsylvester/meanderpy](https://github.com/zsylvester/meanderpy) - Simple model of meander migration
 - [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
