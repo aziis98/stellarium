@@ -582,7 +582,8 @@
 
 ## Go 
 
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr
+- [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs, zero context bloat. Single static binary, zero dependencies, any model.
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -1648,6 +1649,7 @@
 
 ## Python 
 
+- [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss) - 
 - [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - Turn any song into playable piano sheet music. Paste a YouTube link or upload audio — get a PDF score. Open-source pipeline: Basic Pitch transcription, two-hand arrangement, RL-trained engraving.
 - [zsylvester/meanderpy](https://github.com/zsylvester/meanderpy) - Simple model of meander migration
 - [ZsomborFeher/khovanov-cobordism](https://github.com/ZsomborFeher/khovanov-cobordism) - Khovanov Cobordism Calculator is a Python module to calculate cobordism maps induced on Khovanov homology.
@@ -2019,7 +2021,6 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer) - TUI-oriented coding agent written in Rust.
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [KCORES/vector-db-bench](https://github.com/KCORES/vector-db-bench) - AI 可以在 50 trun 内实现一个简单的高性能向量数据库吗?
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
