@@ -129,7 +129,7 @@
 
 ## C 
 
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 - [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [bryanpkc/corkscrew](https://github.com/bryanpkc/corkscrew) - A tool for tunneling SSH through HTTP proxies
@@ -586,7 +586,7 @@
 
 - [nooga/let-go](https://github.com/nooga/let-go) - Almost Clojure written in Go.
 - [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Autonomous AI orchestration harness. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -706,7 +706,7 @@
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
 - [aziis98/go-restruct](https://github.com/aziis98/go-restruct) - A golang library to convert between types using generics and reflection
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [pkg/xattr](https://github.com/pkg/xattr) - Extended attribute support for Go (linux + darwin + freebsd)
@@ -1058,6 +1058,7 @@
 
 ## JavaScript 
 
+- [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE) - DarkSword webkit exploit captured ITW
 - [aziis98/gdgpisa-secret26](https://github.com/aziis98/gdgpisa-secret26) - A small secret CTF for DevFest Pisa 2026: microgpt llm runs on python (pyodide) on a shell (vfs+common unix commands) on js
 - [ORCID/bibtexParseJs](https://github.com/ORCID/bibtexParseJs) - A JavaScript library that parses BibTeX parser.
@@ -2275,7 +2276,7 @@
 - [H4kor/graph-force](https://github.com/H4kor/graph-force) - Python library for embedding large graphs in 2D space, using force-directed layouts.
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
@@ -2466,6 +2467,7 @@
 
 ## TypeScript 
 
+- [aziis98/paper-explorer](https://github.com/aziis98/paper-explorer) - A project to explore the citation graph of papers on a timeline using OpenAlex, made mostly with Antigravity
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
@@ -2521,7 +2523,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [qwinsi/tex2typst](https://github.com/qwinsi/tex2typst) - JavaScript library for conversion between TeX/LaTeX and Typst math code.
 - [built-by-as/FleetCode](https://github.com/built-by-as/FleetCode) - Light-weight control pane to run CLI coding agents(Claude Code, Codex) in parallel
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher) - Discord server https://discord.gg/HrV52MgSC2
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
