@@ -178,7 +178,6 @@
 - [martinfama/fui](https://github.com/martinfama/fui) - framebuffer user interface
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [3-manifolds/Spherogram](https://github.com/3-manifolds/Spherogram) - Spherogram is a Python module for dealing with the kind of planar diagrams that arise in 3-dimensional topology, such as link and Heegaard diagrams. It a component of the larger SnapPy project.
-- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
@@ -678,7 +677,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
 - [gookit/config](https://github.com/gookit/config) - 📝 Go configuration manage(load,get,set,export). support JSON, YAML, TOML, Properties, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - A html/template-based hypertext preprocessor and rapid application development web server written in Go.
@@ -2017,6 +2016,7 @@
 
 ## Rust 
 
+- [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [isene/watchit](https://github.com/isene/watchit) - Rust terminal browser for IMDb Top 250 movies and series. Part of the Fe2O3 suite.
 - [isene/pointer](https://github.com/isene/pointer) - Rust terminal file manager. Feature clone of RTFM with two-pane view, preview, and image display.
 - [isene/scribe](https://github.com/isene/scribe) - Modal text editor for writers — vim-like core, single binary. Part of the Fe2O3 Rust terminal suite.
@@ -2446,6 +2446,7 @@
 
 ## TeX 
 
+- [diego-unipi/Logica-Matematica](https://github.com/diego-unipi/Logica-Matematica) - 
 - [peterdsharpe/nan-propagation](https://github.com/peterdsharpe/nan-propagation) - Studying a new idea about how to trace Jacobian sparsity of black-box functions
 - [jemmybutton/fiziko](https://github.com/jemmybutton/fiziko) - MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
