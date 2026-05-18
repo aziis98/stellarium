@@ -316,6 +316,7 @@
 
 ## C++ 
 
+- [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
 - [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [pierotofy/OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 🚀
 - [antirez/llama.cpp-deepseek-v4-flash](https://github.com/antirez/llama.cpp-deepseek-v4-flash) - Experimental implementation of DeepSeek v4 flaash in llama.cpp
@@ -1654,6 +1655,8 @@
 
 ## Python 
 
+- [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
+- [chiennv2000/orthrus](https://github.com/chiennv2000/orthrus) - Fast, lossless LLM inference via dual-view diffusion decoding.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.
 - [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss) - 
@@ -2017,6 +2020,9 @@
 
 ## Rust 
 
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimalistic coding agent written in Rust, optimized for memory footprint and performance
+- [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
+- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [isene/watchit](https://github.com/isene/watchit) - Rust terminal browser for IMDb Top 250 movies and series. Part of the Fe2O3 suite.
 - [isene/pointer](https://github.com/isene/pointer) - Rust terminal file manager. Feature clone of RTFM with two-pane view, preview, and image display.
@@ -2469,6 +2475,7 @@
 
 ## TypeScript 
 
+- [OrangeJuiceExtension/OrangeJuice](https://github.com/OrangeJuiceExtension/OrangeJuice) - Orange Juice makes Hacker News sweeter
 - [aziis98/paper-explorer](https://github.com/aziis98/paper-explorer) - A project to explore the citation graph of papers on a timeline or force graph. Based on OpenAlex search apis. Import and Export .bib files. Vanilla typescript without any framework. Made mostly with 
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
@@ -2847,6 +2854,7 @@
 
 ## Zig 
 
+- [lalinsky/zio](https://github.com/lalinsky/zio) - Async I/O framework for Zig
 - [clojurewasm/zwasm](https://github.com/clojurewasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
 - [lopespm/zig-minimal-kernel-x86](https://github.com/lopespm/zig-minimal-kernel-x86) - Minimal x86 Kernel - built in Zig
 - [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
