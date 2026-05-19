@@ -1152,6 +1152,7 @@
 
 ## data-structures 
 
+- [naver/lispe](https://github.com/naver/lispe) - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.
 - [JuliaAPlavin/AccessorsExtra.jl](https://github.com/JuliaAPlavin/AccessorsExtra.jl) - Advanced optics/lenses and tools for immutable data structure manipulation, extending Accessors.jl.
 - [mourner/flatbush](https://github.com/mourner/flatbush) - A very fast static spatial index for 2D points and rectangles in JavaScript 🌱
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
@@ -2617,6 +2618,7 @@
 
 ## language 
 
+- [naver/lispe](https://github.com/naver/lispe) - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.
 - [ecto/loon](https://github.com/ecto/loon) - the lisp I always wanted
 - [racket/rhombus](https://github.com/racket/rhombus) - Rhombus programming language
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
@@ -3464,6 +3466,7 @@
 
 ## operating-system 
 
+- [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [charlotte-os/Catten](https://github.com/charlotte-os/Catten) - The Kernel of CharlotteOS, An Experimental Modern Operating System
 - [mell-o-tron/MellOs](https://github.com/mell-o-tron/MellOs) - Minimal, collaboratively written kernel
 - [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
@@ -3477,6 +3480,7 @@
 
 ## others 
 
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Your life in plain .md files
 - [OrangeJuiceExtension/OrangeJuice](https://github.com/OrangeJuiceExtension/OrangeJuice) - Orange Juice makes Hacker News sweeter
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimalistic coding agent written in Rust, optimized for memory footprint and performance
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
