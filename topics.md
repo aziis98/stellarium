@@ -324,7 +324,7 @@
 ## agents 
 
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
@@ -342,7 +342,7 @@
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
 - [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - Turn any song into playable piano sheet music. Paste a YouTube link or upload audio — get a PDF score. Open-source pipeline: Basic Pitch transcription, two-hand arrangement, RL-trained engraving.
@@ -809,7 +809,7 @@
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -1032,7 +1032,7 @@
 
 ## config 
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [gookit/config](https://github.com/gookit/config) - 📝 Go configuration manage(load,get,set,export). support JSON, YAML, TOML, Properties, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合
 
 ## covid-19 
@@ -1160,7 +1160,7 @@
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [lukefleed/compressed-intvec](https://github.com/lukefleed/compressed-intvec) - A Rust library that provides space-efficient, in-memory representations for integer vectors. It offers two complementary data structures: FixedVec, which uses fixed-width encoding for O(1) mutable and
 - [Cydhra/vers](https://github.com/Cydhra/vers) - Succinct data structures using very efficient rank and select
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [tlack/atree](https://github.com/tlack/atree) - Stevan Apter-style trees in C++17
 - [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.
@@ -1783,7 +1783,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - A html/template-based hypertext preprocessor and rapid application development web server written in Go.
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
@@ -1919,7 +1919,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - A html/template-based hypertext preprocessor and rapid application development web server written in Go.
 - [spy16/slurp](https://github.com/spy16/slurp) - Slurp is a highly customisable LISP toolkit for Go applications. 💻
@@ -2367,6 +2367,7 @@
 
 ## javascript 
 
+- [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [damianstasik/vue-svg-loader](https://github.com/damianstasik/vue-svg-loader) - 🔨 webpack loader that lets you use SVG files as Vue components
 - [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
@@ -2532,7 +2533,7 @@
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [gleam-lang/json](https://github.com/gleam-lang/json) - 🐑 Work with JSON in Gleam!
 - [joexbayer/c-web-modules](https://github.com/joexbayer/c-web-modules) - A modular web framework for C, inspired by kernel modules. Dynamically upload and compile C code at runtime to build REST APIs, WebSocket services, and more. Includes support for JSON (Jansson), SQLit
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [gookit/config](https://github.com/gookit/config) - 📝 Go configuration manage(load,get,set,export). support JSON, YAML, TOML, Properties, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
@@ -2674,6 +2675,7 @@
 
 ## latex 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [ray-pH/Nabla-TypeMath-android](https://github.com/ray-pH/Nabla-TypeMath-android) - Nabla TypeMath is an android application that allow you to easily type mathematical symbols.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [qwinsi/tex2typst](https://github.com/qwinsi/tex2typst) - JavaScript library for conversion between TeX/LaTeX and Typst math code.
@@ -2727,7 +2729,7 @@
 
 ## linux 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor.
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
@@ -2975,7 +2977,7 @@
 
 ## macos 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -3495,7 +3497,7 @@
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
-- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/CUDA gpus. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× a
+- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1×
 - [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss) - 
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
@@ -5000,6 +5002,7 @@
 
 ## react 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
@@ -5079,7 +5082,7 @@
 
 ## reactjs 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
 - [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -5147,7 +5150,7 @@
 
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
@@ -5615,7 +5618,7 @@
 
 ## terminal 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
@@ -5746,6 +5749,8 @@
 
 ## typescript 
 
+- [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -6052,7 +6057,7 @@
 
 ## windows 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -6104,7 +6109,7 @@
 ## xml 
 
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 
 ## youtube 
 
