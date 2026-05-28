@@ -337,6 +337,7 @@
 - [microsoft/onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [HazyResearch/HipKittens](https://github.com/HazyResearch/HipKittens) - Fast and Furious AMD Kernels
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -588,6 +589,7 @@
 
 ## Go 
 
+- [argustek/Argus](https://github.com/argustek/Argus) - Desktop AI coding assistant that never gets stuck – multi‑agent collaboration with automatic recovery.
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
 - [nooga/let-go](https://github.com/nooga/let-go) - Almost Clojure written in Go.
 - [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
@@ -1063,6 +1065,7 @@
 
 ## JavaScript 
 
+- [Edu4rdSHL/Strata](https://github.com/Edu4rdSHL/Strata) - A robust GNOME clipboard manager with a Rust daemon backend
 - [ganigeorgiev/shablon](https://github.com/ganigeorgiev/shablon) - (EXP) No-build JavaScript frontend framework for Single-page applications
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE) - DarkSword webkit exploit captured ITW
@@ -2483,6 +2486,7 @@
 
 ## TypeScript 
 
+- [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding — editor, terminal, and browser panels in a spatial workspace.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -2532,7 +2536,6 @@
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [dimitropoulos/typeslayer](https://github.com/dimitropoulos/typeslayer) - you can't hide from TypeSlayer
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
-- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio) - Edit your Markdown website, in production.
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 - [aleclarson/vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite
