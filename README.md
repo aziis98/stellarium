@@ -1661,6 +1661,7 @@
 
 ## Python 
 
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - [sapientinc/data_io](https://github.com/sapientinc/data_io) - Data pipeline for HRM-Text pretraining
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
@@ -1668,7 +1669,7 @@
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
 - [chiennv2000/orthrus](https://github.com/chiennv2000/orthrus) - Fast, lossless LLM inference via dual-view diffusion decoding.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
-- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1×
+- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B conf
 - [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss) - 
 - [Oh-Sheet-Team/oh-sheet](https://github.com/Oh-Sheet-Team/oh-sheet) - Turn any song into playable piano sheet music. Paste a YouTube link or upload audio — get a PDF score. Open-source pipeline: Basic Pitch transcription, two-hand arrangement, RL-trained engraving.
 - [zsylvester/meanderpy](https://github.com/zsylvester/meanderpy) - Simple model of meander migration
