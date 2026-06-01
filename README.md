@@ -1068,6 +1068,7 @@
 
 ## JavaScript 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [Edu4rdSHL/Strata](https://github.com/Edu4rdSHL/Strata) - A robust GNOME clipboard manager with a Rust daemon backend
 - [ganigeorgiev/shablon](https://github.com/ganigeorgiev/shablon) - (EXP) No-build JavaScript frontend framework for Single-page applications
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
@@ -1399,6 +1400,7 @@
 
 ## Jupyter Notebook 
 
+- [Hawzen/I-found-a-seashell-in-the-middle-of-the-desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) - 
 - [google-research/inksight](https://github.com/google-research/inksight) - 
 - [greydanus/cursivetransformer](https://github.com/greydanus/cursivetransformer) - Training a transformer to generate cursive handwriting
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
@@ -1572,6 +1574,7 @@
 
 ## Odin 
 
+- [heavyrain266/colourspace](https://github.com/heavyrain266/colourspace) - A pragmatic set of modern colour space transforms
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
 ## Others 
@@ -1664,6 +1667,8 @@
 
 ## Python 
 
+- [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+- [marekkowalczyk/breathe-cli](https://github.com/marekkowalczyk/breathe-cli) - Paced resonance breathing in your terminal
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - [sapientinc/data_io](https://github.com/sapientinc/data_io) - Data pipeline for HRM-Text pretraining
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
@@ -2025,7 +2030,7 @@
 - [inukshuk/anystyle](https://github.com/inukshuk/anystyle) - Fast citation reference parsing
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
-- [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure
+- [rage-rb/rage](https://github.com/rage-rb/rage) - Fiber-based Ruby web framework combining Rails ergonomics with a unified runtime
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [m-ender/hexagony](https://github.com/m-ender/hexagony) - A two-dimensional, hexagonal programming language.
@@ -2034,6 +2039,7 @@
 
 ## Rust 
 
+- [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable & Deterministic Workflow Engine
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimalistic coding agent written in Rust, optimized for memory footprint and performance
@@ -2491,6 +2497,7 @@
 
 ## TypeScript 
 
+- [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding — editor, terminal, and browser panels in a spatial workspace.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -2822,6 +2829,7 @@
 
 ## Typst 
 
+- [Wybxc/slipst](https://github.com/Wybxc/slipst) - A new paradigm for presentations, inspired by slipshow.
 - [Fran314/dmunipi-slide-typst](https://github.com/Fran314/dmunipi-slide-typst) - 
 - [LaurenzV/master-thesis](https://github.com/LaurenzV/master-thesis) - My master's thesis about the topic "High-performance 2D graphics rendering on the CPU using sparse strips"
 - [OrangeX4/typst-theorion](https://github.com/OrangeX4/typst-theorion) - Out-of-the-box, customizable and multilingual theorem environment package for Typst.
