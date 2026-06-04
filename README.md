@@ -2502,7 +2502,7 @@
 ## TypeScript 
 
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
-- [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding — editor, terminal, and browser panels in a spatial workspace.
+- [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -2549,7 +2549,7 @@
 - [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
-- [google/A2UI](https://github.com/google/A2UI) - 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [dimitropoulos/typeslayer](https://github.com/dimitropoulos/typeslayer) - you can't hide from TypeSlayer
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio) - Edit your Markdown website, in production.
@@ -2688,7 +2688,7 @@
 - [aappleby/wideboard](https://github.com/aappleby/wideboard) - text editor experiment
 - [andrewcourtice/ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified, cross-platform API for 2D and 3D graphics rendering with a focus on high performance and interactive data visualization. Write once, render to Canvas, SVG, WebGPU, or the term
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
-- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build feature-rich data portals using a modern frontend framework. Native CKAN support. OpenMetadata and Git compatible.
+- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -2889,6 +2889,8 @@
 
 ## Zig 
 
+- [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan
+- [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [lalinsky/zio](https://github.com/lalinsky/zio) - Async I/O framework for Zig
 - [clojurewasm/zwasm](https://github.com/clojurewasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
 - [lopespm/zig-minimal-kernel-x86](https://github.com/lopespm/zig-minimal-kernel-x86) - Minimal x86 Kernel - built in Zig
