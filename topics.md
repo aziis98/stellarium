@@ -395,7 +395,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -422,6 +422,7 @@
 
 ## ai-agents 
 
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -535,7 +536,7 @@
 
 ## arduino 
 
-- [voidptrwashere/Rust-for-Arduboy](https://github.com/voidptrwashere/Rust-for-Arduboy) - 
+- [nopwashere/Rust-for-Arduboy](https://github.com/nopwashere/Rust-for-Arduboy) - 
 
 ## artificial-intelligence 
 
@@ -801,7 +802,6 @@
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -1017,6 +1017,7 @@
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
+- [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) - A portable, compact and extensible Scheme implementation to 25 targets. R4RS compliant.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [brundonsmith/bagel](https://github.com/brundonsmith/bagel) - A reactive and strongly-typed, but also pragmatic, new programming language. Compiles to JavaScript, designed to be comfy for people used to the JavaScript/TypeScript language and ecosystem.
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
@@ -1666,7 +1667,7 @@
 
 ## game 
 
-- [voidptrwashere/Rust-for-Arduboy](https://github.com/voidptrwashere/Rust-for-Arduboy) - 
+- [nopwashere/Rust-for-Arduboy](https://github.com/nopwashere/Rust-for-Arduboy) - 
 - [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 - [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
@@ -1703,7 +1704,7 @@
 
 ## gamedev 
 
-- [voidptrwashere/Rust-for-Arduboy](https://github.com/voidptrwashere/Rust-for-Arduboy) - 
+- [nopwashere/Rust-for-Arduboy](https://github.com/nopwashere/Rust-for-Arduboy) - 
 - [go-webgpu/webgpu](https://github.com/go-webgpu/webgpu) - Zero-CGO WebGPU bindings for Go — GPU-accelerated graphics and compute in pure Go
 - [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
 - [Ameobea/sketches-3d](https://github.com/Ameobea/sketches-3d) - Experiments and demos of 3D game-like things.  Also the home of Geotoy/Geoscript.  Mostly using Blender + Three.JS with custom shaders and interactive bits.
@@ -1918,7 +1919,6 @@
 ## golang 
 
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [FurqanSoftware/papyrus](https://github.com/FurqanSoftware/papyrus) - A real-time collaborative Markdown editor and document repository with simple organization and project-based management
@@ -2082,7 +2082,7 @@
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
 - [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
-- [WLJSTeam/wljs-notebook](https://github.com/WLJSTeam/wljs-notebook) - Open-source notebook interface for Wolfram Engine
+- [WLJSTeam/wljs-notebook](https://github.com/WLJSTeam/wljs-notebook) - Open-source web notebook interface for Wolfram Engine
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Lib
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
@@ -3443,7 +3443,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -3532,6 +3532,7 @@
 
 ## others 
 
+- [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - 
 - [uellenberg/Insert](https://github.com/uellenberg/Insert) - Insert is a programming language for self-modifying code.
 - [gary149/llama-agent](https://github.com/gary149/llama-agent) - Agents in llama.cpp
 - [JorisAR/gaussian-point-splatting](https://github.com/JorisAR/gaussian-point-splatting) - Official implementation of Gaussian point splatting (SIGGRAPH'26)
@@ -3552,14 +3553,14 @@
 - [Edu4rdSHL/Strata](https://github.com/Edu4rdSHL/Strata) - A robust GNOME clipboard manager with a Rust daemon backend
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
 - [tspader/sp](https://github.com/tspader/sp) - A modern C standard library
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly.
 - [OrangeJuiceExtension/OrangeJuice](https://github.com/OrangeJuiceExtension/OrangeJuice) - Orange Juice makes Hacker News sweeter
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [diego-unipi/Logica-Matematica](https://github.com/diego-unipi/Logica-Matematica) - 
 - [aziis98/paper-explorer](https://github.com/aziis98/paper-explorer) - A project to explore the citation graph of papers on a timeline or force graph. Based on OpenAlex search apis. Import and Export .bib files. Vanilla typescript without any framework. Made mostly with 
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B conf
 - [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss) - 
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
@@ -3745,7 +3746,7 @@
 - [peggyjs/peggy](https://github.com/peggyjs/peggy) - Peggy: Parser generator for JavaScript
 - [NVIDIA-RTX/NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 - [samrolken/nokode](https://github.com/samrolken/nokode) - 
-- [mui/pigment-css](https://github.com/mui/pigment-css) - ⚠️ 𝐀𝐥𝐩𝐡𝐚 𝐩𝐡𝐚𝐬𝐞. Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
+- [mui/pigment-css](https://github.com/mui/pigment-css) - ⚠️ 𝐀𝐥𝐩𝐡𝐚 𝐩𝐡𝐚𝐬𝐞, currently, on hold. Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 - [itsfrank/MinecraftHDL](https://github.com/itsfrank/MinecraftHDL) - A Verilog synthesis flow for Minecraft redstone circuits
 - [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org
 - [coverslide/node-alea](https://github.com/coverslide/node-alea) - A simple copy-and-paste implementation of Johannes Baagøe's Alea PRNG
@@ -4455,7 +4456,6 @@
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [mocaccinoOS/mocaccino](https://github.com/mocaccinoOS/mocaccino) - :musical_score: where magic happens
 - [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++.
-- [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) - A portable, compact and extensible Scheme implementation that is fully R4RS compliant. This includes closures, I/O, tail calls, first-class continuations and a Read Eval Print Loop (REPL). The R4RS Sc
 - [ncase/joy](https://github.com/ncase/joy) - make happy little programs
 - [aziis98/pyke](https://github.com/aziis98/pyke) - A small clone of GNU Make based on file checksums
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
@@ -4831,6 +4831,7 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Mech is a programming language for building data-driven systems like robots, games, and interfaces. Start here!
 - [healeycodes/adventlang](https://github.com/healeycodes/adventlang) - 🎅 A programming language (+ code playground) for Advent of Code.
+- [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) - A portable, compact and extensible Scheme implementation to 25 targets. R4RS compliant.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
@@ -5234,7 +5235,7 @@
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
 - [TrevorS/voxtral-mini-realtime-rs](https://github.com/TrevorS/voxtral-mini-realtime-rs) - Voxtral ASR & TTS running natively and in the browser. A Rust implementation of Mistral's Voxtral mini realtime ASR / TTS using the Burn ML framework
-- [voidptrwashere/Rust-for-Arduboy](https://github.com/voidptrwashere/Rust-for-Arduboy) - 
+- [nopwashere/Rust-for-Arduboy](https://github.com/nopwashere/Rust-for-Arduboy) - 
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
@@ -5692,7 +5693,6 @@
 - [marekkowalczyk/breathe-cli](https://github.com/marekkowalczyk/breathe-cli) - Paced resonance breathing in your terminal
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
