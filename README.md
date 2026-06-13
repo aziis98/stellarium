@@ -944,7 +944,6 @@
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
-- [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [plumkewe/dove-unipi](https://github.com/plumkewe/dove-unipi) - Un'applicazione web per orientarsi facilmente tra gli edifici, i piani e le aule dei Poli dell'Università di Pisa. Esplora le mappe interattive e trova le informazioni di cui hai bisogno.
 - [autoprefixer/autoprefixer.github.io](https://github.com/autoprefixer/autoprefixer.github.io) - Autoprefixer online — add the desired vendor prefixes and remove unnecessary in your CSS
 - [aziis98/website-2025](https://github.com/aziis98/website-2025) - Shiny new website for 2025 and on
@@ -1732,7 +1731,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [1rgs/nanocode](https://github.com/1rgs/nanocode) - Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - A model-driven approach to building AI agents in just a few lines of code.
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
 - [aziis98/links2rss-telegram-bot](https://github.com/aziis98/links2rss-telegram-bot) - Telegram bot that watches for messages containing links in a group and converts them to a RSS feed accessible via an auth token
@@ -2092,6 +2091,7 @@
 - [alecthomas/t](https://github.com/alecthomas/t) - `t` (T-for-text) is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq.
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [alantech/alan](https://github.com/alantech/alan) - Autoscalable Programming Language
@@ -2169,7 +2169,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs runtime for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
@@ -2505,7 +2505,7 @@
 
 ## TypeScript 
 
-- [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - 
+- [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - A browser-based viewer for Office Open XML documents that renders to an HTML Canvas element.
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
