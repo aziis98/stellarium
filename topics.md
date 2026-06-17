@@ -3535,7 +3535,7 @@
 - [gary149/llama-agent](https://github.com/gary149/llama-agent) - Agents in llama.cpp
 - [JorisAR/gaussian-point-splatting](https://github.com/JorisAR/gaussian-point-splatting) - Official implementation of Gaussian point splatting (SIGGRAPH'26)
 - [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan
-- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+- [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [tree-sitter/go-tree-sitter](https://github.com/tree-sitter/go-tree-sitter) - Go bindings for tree-sitter
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
@@ -4181,7 +4181,7 @@
 - [t-e-l/tel](https://github.com/t-e-l/tel) - Termux Launcher for Experts
 - [lukefleed/G2-cheat-sheet](https://github.com/lukefleed/G2-cheat-sheet) - 
 - [mario-goulart/awful](https://github.com/mario-goulart/awful) - awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
-- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [phc-dm/seminarietti-website](https://github.com/phc-dm/seminarietti-website) - Piccolo sito in Astro per i Seminarietti del PHC
 - [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - GUI platform toolkit for developing COSMIC applications and applets
 - [pop-os/cosmic-edit](https://github.com/pop-os/cosmic-edit) - COSMIC Text Editor
