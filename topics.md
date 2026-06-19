@@ -345,6 +345,7 @@
 
 ## ai 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm) - Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
@@ -467,6 +468,7 @@
 
 ## android 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [ray-pH/Nabla-TypeMath-android](https://github.com/ray-pH/Nabla-TypeMath-android) - Nabla TypeMath is an android application that allow you to easily type mathematical symbols.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2546,6 +2548,7 @@
 
 ## jetpack-compose 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 
 ## js 
@@ -2626,6 +2629,7 @@
 
 ## kotlin 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [gabryon99/kotlin-effects](https://github.com/gabryon99/kotlin-effects) - A Kotlin library implementing algebraic effect handlers.
@@ -3533,6 +3537,8 @@
 
 ## others 
 
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
+- [NLnetLabs/rotonda](https://github.com/NLnetLabs/rotonda) - Modular, programmable BGP Engine
 - [get-vix/vix](https://github.com/get-vix/vix) - Sleek, Fast and Token Efficient AI Coding Agent
 - [TheDevilWillBeBee/Cells2Pixels](https://github.com/TheDevilWillBeBee/Cells2Pixels) - 
 - [uellenberg/Insert](https://github.com/uellenberg/Insert) - Insert is a programming language for self-modifying code.
@@ -5218,6 +5224,7 @@
 
 ## rust 
 
+- [lukefleed/hpla-rs](https://github.com/lukefleed/hpla-rs) - Benchmark suite accompanying the work “Evaluating Rust for Sparse Matrix Kernels in Scientific Computing”
 - [sigmaSd/IRust](https://github.com/sigmaSd/IRust) - Cross Platform Rust Repl
 - [dirge-code/dirge](https://github.com/dirge-code/dirge) - Dynamic Intent Resolution Grounding Engine
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable & Deterministic Workflow Engine
@@ -5600,6 +5607,7 @@
 
 ## statistics 
 
+- [stochastical/distro](https://github.com/stochastical/distro) - A pure Typst statistics library for common probability distributions.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
