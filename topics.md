@@ -3537,6 +3537,7 @@
 
 ## others 
 
+- [slkiser/opencode-quota](https://github.com/slkiser/opencode-quota) - OpenCode quota & tokens usage with zero context window pollution. Supports OpenCode Go, Cursor, GitHub Copilot, OpenAl (Plus/Pro), Kimi Code, Alibaba Coding Plan, Chutes Al, Google Antigravity, Z.ai C
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [NLnetLabs/rotonda](https://github.com/NLnetLabs/rotonda) - Modular, programmable BGP Engine
 - [get-vix/vix](https://github.com/get-vix/vix) - Sleek, Fast and Token Efficient AI Coding Agent
