@@ -350,7 +350,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
-- [dillo-browser/dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
+- [dillo-browser/dillo](https://github.com/dillo-browser/dillo) - NO LONGER UPDATED!, see https://dillo-browser.org/news/migration-from-github/. New repo at https://git.dillo-browser.org/dillo/
 - [NVIDIA-RTX/NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -686,7 +686,7 @@
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [AaronO/go-git-http](https://github.com/AaronO/go-git-http) - A Smart Git Http server library in Go (golang)
-- [openrundev/openrun](https://github.com/openrundev/openrun) - Deployment platform for code-first internal tools. Deploy web apps declaratively, on a single-node or on Kubernetes.
+- [openrundev/openrun](https://github.com/openrundev/openrun) - Deployment platform for code-first internal tools. Deploy web apps declaratively, on a single-node or on Kubernetes, with OIDC/SAML auth and RBAC.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN
@@ -1125,7 +1125,6 @@
 - [collidingScopes/3d-model-playground](https://github.com/collidingScopes/3d-model-playground) - Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [spybug/NotifyFilter-GnomeExtension](https://github.com/spybug/NotifyFilter-GnomeExtension) - Gnome extenstion to allow users to filter out notifications based on their text content.
-- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1519,6 +1518,7 @@
 
 ## MDX 
 
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
@@ -1677,6 +1677,7 @@
 
 ## Python 
 
+- [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 - [parsehawk/parsehawk](https://github.com/parsehawk/parsehawk) - Local-first document AI. Run 100% locally by default, with API, CLI, and Web UI.
 - [fahrbach/subquadratic-kronecker-regression](https://github.com/fahrbach/subquadratic-kronecker-regression) - Subquadratic Kronecker regression with applications to tensor decomposition (NeurIPS 2022)
 - [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) - Qwen-AgentWorld: Language World Models for General Agents
