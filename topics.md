@@ -2788,6 +2788,7 @@
 
 ## linux 
 
+- [y5-snowies/nourish](https://github.com/y5-snowies/nourish) - Nourish OS. The modern way of using a computer.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor.
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
@@ -2874,6 +2875,7 @@
 
 ## llm 
 
+- [Anbeeld/beellama.cpp](https://github.com/Anbeeld/beellama.cpp) - DFlash & TurboQuant in llama.cpp with up to 3x faster generation and 7.5x more KV cache in same VRAM
 - [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone.
 - [parsehawk/parsehawk](https://github.com/parsehawk/parsehawk) - Local-first document AI. Run 100% locally by default, with API, CLI, and Web UI.
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
@@ -2945,7 +2947,7 @@
 - [tryanything-ai/anything](https://github.com/tryanything-ai/anything) - ✨ If Posthog built Zapier. Feature complete, Fullstack,  AI Automation framework made for users.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Time Series Forecasting
-- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant, and scalable Jax LLM!
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vert
@@ -3549,6 +3551,7 @@
 
 ## operating-system 
 
+- [y5-snowies/nourish](https://github.com/y5-snowies/nourish) - Nourish OS. The modern way of using a computer.
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
 - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [charlotte-os/Catten](https://github.com/charlotte-os/Catten) - The Kernel of CharlotteOS, An Experimental Modern Operating System
@@ -3564,6 +3567,7 @@
 
 ## others 
 
+- [sdiehl/prism](https://github.com/sdiehl/prism) - A small functional language with algebraic effects, multishot continuations, and native codegen
 - [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 - [shumaiOne/shumai](https://github.com/shumaiOne/shumai) - Open source alternative to Frame.io
 - [Fran314/secrets-manager-rs](https://github.com/Fran314/secrets-manager-rs) - A command-line tool for securely backing up, restoring, and verifying secrets using interoperable standards like age encryption and coreutils, ensuring long-term accessibility without vendor lock-in
@@ -3680,7 +3684,7 @@
 - [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
 - [michaelsdr/ical](https://github.com/michaelsdr/ical) - Autoregressive In Context Learning
 - [raphlinus/spline-research](https://github.com/raphlinus/spline-research) - A repository for research code, papers, interactive visualizers, etc., for spline research
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-paper display readers
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
 - [lopespm/zig-minimal-kernel-x86](https://github.com/lopespm/zig-minimal-kernel-x86) - Minimal x86 Kernel - built in Zig
 - [knadh/highlighted-input.js](https://github.com/knadh/highlighted-input.js) - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an &lt;input&gt; field.
 - [abdimoallim/vdb](https://github.com/abdimoallim/vdb) - A header-only C vector database library
