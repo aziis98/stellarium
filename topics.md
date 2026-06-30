@@ -3567,6 +3567,8 @@
 
 ## others 
 
+- [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
+- [cognitive-engineering-lab/document-calculus](https://github.com/cognitive-engineering-lab/document-calculus) - Accompanying materials for "A Core Calculus for Documents"
 - [sdiehl/prism](https://github.com/sdiehl/prism) - A small functional language with algebraic effects, multishot continuations, and native codegen
 - [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 - [shumaiOne/shumai](https://github.com/shumaiOne/shumai) - Open source alternative to Frame.io
