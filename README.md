@@ -1570,6 +1570,7 @@
 
 ## OCaml 
 
+- [cognitive-engineering-lab/document-calculus](https://github.com/cognitive-engineering-lab/document-calculus) - Accompanying materials for "A Core Calculus for Documents"
 - [Alex23087/Perk](https://github.com/Alex23087/Perk) - Modern low level programming language designed for kernel development
 - [hirrolot/mazeppa](https://github.com/hirrolot/mazeppa) - A modern supercompiler for call-by-value functional languages
 - [panglesd/slipshow](https://github.com/panglesd/slipshow) - An engine for displaying slips, the next-gen version of slides
@@ -1591,6 +1592,7 @@
 
 ## Others 
 
+- [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [openMVG/ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle) - Image of "Chateau de Sceaux", Sceaux castle. France. Photographer: Copyright 2012 Pierre MOULON
 - [vantienpham/Awesome-Tensor-Decomposition](https://github.com/vantienpham/Awesome-Tensor-Decomposition) - 😎 A curated list of tensor decomposition resources for model compression.
