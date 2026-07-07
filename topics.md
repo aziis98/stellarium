@@ -1011,6 +1011,7 @@
 
 ## compiler 
 
+- [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [distractedlambda/pille](https://github.com/distractedlambda/pille) - Extensible low-level programming
 - [nooga/let-go](https://github.com/nooga/let-go) - Almost Clojure written in Go.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
@@ -3602,6 +3603,8 @@
 
 ## others 
 
+- [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
+- [soycaporal/ternlight](https://github.com/soycaporal/ternlight) - 
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
 - [e-q/okcolors.nvim](https://github.com/e-q/okcolors.nvim) - An OK colorscheme for NeoVim
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
@@ -3648,7 +3651,7 @@
 - [Edu4rdSHL/Strata](https://github.com/Edu4rdSHL/Strata) - A robust GNOME clipboard manager with a Rust daemon backend
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
 - [tspader/sp](https://github.com/tspader/sp) - A modern C standard library
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly.
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly.
 - [OrangeJuiceExtension/OrangeJuice](https://github.com/OrangeJuiceExtension/OrangeJuice) - Orange Juice makes Hacker News sweeter
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [diego-unipi/Logica-Matematica](https://github.com/diego-unipi/Logica-Matematica) - 
@@ -3680,7 +3683,6 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [sublimelsp/LSP-copilot](https://github.com/sublimelsp/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [ORCID/bibtexParseJs](https://github.com/ORCID/bibtexParseJs) - A JavaScript library that parses BibTeX parser.
-- [m0at/rvllm](https://github.com/m0at/rvllm) - rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.
 - [lanaperisa/TensorToolbox.jl](https://github.com/lanaperisa/TensorToolbox.jl) - Julia package for tensors as multidimensional arrays, with functionalty within Tucker format, Kruskal (CP) format, Hierarchical Tucker format and Tensor Train format.
 - [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 2M downloads
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
@@ -4972,6 +4974,7 @@
 
 ## python 
 
+- [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [parsehawk/parsehawk](https://github.com/parsehawk/parsehawk) - Turn documents into structured JSON with local-first document AI. Run 100% locally by default, with API, CLI, and Web UI.
 - [aziis98/wifi-down-restart](https://github.com/aziis98/wifi-down-restart) - A lightweight python connection monitoring tool and GNOME Shell Extension created to restart the internet connection on unstable networks
@@ -5087,6 +5090,7 @@
 
 ## python3 
 
+- [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
@@ -5315,6 +5319,7 @@
 
 ## rust 
 
+- [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
 - [screwys/Rufin](https://github.com/screwys/Rufin) - Native GTK4/libadwaita music client for Jellyfin, Subsonic, Navidrome and local libraries written in Rust
 - [lukefleed/hpla-rs](https://github.com/lukefleed/hpla-rs) - Benchmark suite accompanying the work “Evaluating Rust for Sparse Matrix Kernels in Scientific Computing”
