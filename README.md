@@ -612,7 +612,7 @@
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [hatchet-dev/durable-execution-the-hard-way](https://github.com/hatchet-dev/durable-execution-the-hard-way) - Set up a durable execution engine from scratch using Postgres with no dependencies.
 - [argustek/Argus](https://github.com/argustek/Argus) - Desktop AI coding assistant that never gets stuck – multi‑agent collaboration with automatic recovery.
-- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly.
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly.
 - [nooga/let-go](https://github.com/nooga/let-go) - Almost Clojure written in Go.
 - [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
 - [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
@@ -1692,6 +1692,7 @@
 
 ## Python 
 
+- [soycaporal/ternlight](https://github.com/soycaporal/ternlight) - 
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit web search engine
 - [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
@@ -2075,6 +2076,8 @@
 
 ## Rust 
 
+- [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
+- [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [enz1m/enzim-coder](https://github.com/enz1m/enzim-coder) - Enzim Coder is a Linux desktop app for working with AI coding threads, workspaces, Git context, file browsing, and agent sessions in one place.
 - [y5-snowies/nourish](https://github.com/y5-snowies/nourish) - Nourish OS. The modern way of using a computer.
 - [sdiehl/prism](https://github.com/sdiehl/prism) - A small functional language with algebraic effects, multishot continuations, and native codegen
@@ -2100,7 +2103,6 @@
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent
-- [m0at/rvllm](https://github.com/m0at/rvllm) - rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machines.
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [BrendanGraham14/steer](https://github.com/BrendanGraham14/steer) - TUI-oriented coding agent written in Rust.
