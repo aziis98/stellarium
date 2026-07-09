@@ -627,7 +627,7 @@
 ## azure 
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
@@ -1355,6 +1355,7 @@
 
 ## developer-tools 
 
+- [animesh-94/Onboard-CLI](https://github.com/animesh-94/Onboard-CLI) - An AST-powered, local-first CLI that visualizes complex system architectures and enforces architectural boundaries via instant Git hooks.
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
@@ -1802,7 +1803,7 @@
 
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [ktunprasert/github-as-s3](https://github.com/ktunprasert/github-as-s3) - Github as S3
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
@@ -1968,6 +1969,7 @@
 
 ## golang 
 
+- [animesh-94/Onboard-CLI](https://github.com/animesh-94/Onboard-CLI) - An AST-powered, local-first CLI that visualizes complex system architectures and enforces architectural boundaries via instant Git hooks.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -2420,7 +2422,7 @@
 
 ## ipfs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## java 
