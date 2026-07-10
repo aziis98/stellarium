@@ -129,6 +129,8 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [talalalrwas/ocr-grab](https://github.com/talalalrwas/ocr-grab) - Flameshot clone that adds OCR.
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [erincatto/box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
