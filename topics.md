@@ -3610,6 +3610,7 @@
 
 ## others 
 
+- [mitkox/Thinking-with-Visual-Primitives](https://github.com/mitkox/Thinking-with-Visual-Primitives) - Clone of DeepSeek Thinking-with-Visual-Primitives
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [talalalrwas/ocr-grab](https://github.com/talalalrwas/ocr-grab) - Flameshot clone that adds OCR.
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
@@ -4071,7 +4072,7 @@
 - [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450
 - [octopress/octopress](https://github.com/octopress/octopress) - Octopress 3.0 – Jekyll's Ferrari
 - [itamarom/notepadjs](https://github.com/itamarom/notepadjs) - This is a simple app that imitates Windows Notepad. Installable as a PWA.
-- [petersolopov/yace](https://github.com/petersolopov/yace) - ~1.7KB code editor for browser with plugins
+- [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [WebReflection/uhtml](https://github.com/WebReflection/uhtml) - A micro HTML/SVG render
@@ -4275,7 +4276,7 @@
 - [mattneary/attention](https://github.com/mattneary/attention) - visualizing attention for LLM users
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
+- [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) - 
 - [webqit/use-live](https://github.com/webqit/use-live) - A runtime extension to JavaScript that unlocks Imperative Reactive Programming (IRP) in JavaScript!
 - [s-expressions/pose](https://github.com/s-expressions/pose) - Portable S-expressions (POSE) spec and libs
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
