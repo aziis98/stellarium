@@ -328,6 +328,7 @@
 
 ## C++ 
 
+- [swellweb/reame](https://github.com/swellweb/reame) - Reame — CPU-first LLM inference server on llama.cpp: disk KV cache, self-regulating speculation, generation archive, interleaved multi-user, the Conclave. Your hardware, your realm.
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [Anbeeld/beellama.cpp](https://github.com/Anbeeld/beellama.cpp) - DFlash & TurboQuant in llama.cpp with up to 3x faster generation and 7.5x more KV cache in same VRAM
@@ -1501,7 +1502,6 @@
 
 ## LiveScript 
 
-- [michael-brade/LaTeX.js](https://github.com/michael-brade/LaTeX.js) - JavaScript LaTeX to HTML5 translator
 - [anko/eslisp](https://github.com/anko/eslisp) - un-opinionated S-expression syntax and macro system for JavaScript
 
 ## Lua 
@@ -2878,6 +2878,7 @@
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
+- [michael-brade/LaTeX.js](https://github.com/michael-brade/LaTeX.js) - JavaScript LaTeX to HTML5 translator
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
