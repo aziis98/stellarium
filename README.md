@@ -328,7 +328,7 @@
 
 ## C++ 
 
-- [swellweb/reame](https://github.com/swellweb/reame) - Reame — CPU-first LLM inference server on llama.cpp: disk KV cache, self-regulating speculation, generation archive, interleaved multi-user, the Conclave. Your hardware, your realm.
+- [swellweb/reame](https://github.com/swellweb/reame) - A lean, fully-tested LLM inference server for the hardware you already have — free tiers, shared VPS, 2-core ARM boxes. OpenAI-compatible API on llama.cpp. On a CPU, never compute the same thing twice
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [Anbeeld/beellama.cpp](https://github.com/Anbeeld/beellama.cpp) - DFlash & TurboQuant in llama.cpp with up to 3x faster generation and 7.5x more KV cache in same VRAM
@@ -476,7 +476,7 @@
 
 ## CSS 
 
-- [spiritov/ds.css](https://github.com/spiritov/ds.css) - A css framework recreating the DS / DS Lite's UI
+- [spiritov/ds.css](https://github.com/spiritov/ds.css) - css framework recreating the DS / DS Lite's UI
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [NeverCease/uchu](https://github.com/NeverCease/uchu) - → https://code.webb.page/nevercease/uchu.git
@@ -608,6 +608,7 @@
 
 ## Go 
 
+- [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
@@ -714,7 +715,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [gookit/config](https://github.com/gookit/config) - 📝 Go configuration manage(load,get,set,export). support JSON, YAML, TOML, Properties, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
-- [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - A html/template-based hypertext preprocessor and rapid application development web server written in Go.
+- [infogulch/xtemplate](https://github.com/infogulch/xtemplate) - Hypermedia web apps from a directory of Go templates.
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
 - [steelbrain/ffmpeg-over-ip](https://github.com/steelbrain/ffmpeg-over-ip) - Connect to remote ffmpeg servers
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
@@ -1609,6 +1610,7 @@
 
 ## Others 
 
+- [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [openMVG/ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle) - Image of "Chateau de Sceaux", Sceaux castle. France. Photographer: Copyright 2012 Pierre MOULON
@@ -1674,7 +1676,7 @@
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki
 - [josephernest/Swap.js](https://github.com/josephernest/Swap.js) - Swap.js is a "HTML-over-the-wire" AJAX-navigation micro-library
-- [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd
+- [turtle0x1/LxdMosaic](https://github.com/turtle0x1/LxdMosaic) - Web interface to manage multiple instance of lxd/incus
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 
@@ -1697,6 +1699,7 @@
 
 ## Python 
 
+- [jopetty/word-problem](https://github.com/jopetty/word-problem) - Experiments on the impact of depth in transformers and SSMs.
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [soycaporal/ternlight](https://github.com/soycaporal/ternlight) - 
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
