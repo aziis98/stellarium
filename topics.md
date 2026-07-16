@@ -317,7 +317,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -436,7 +436,7 @@
 ## ai-agents 
 
 - [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone.
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -481,6 +481,7 @@
 
 ## android 
 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [ray-pH/Nabla-TypeMath-android](https://github.com/ray-pH/Nabla-TypeMath-android) - Nabla TypeMath is an android application that allow you to easily type mathematical symbols.
@@ -809,7 +810,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -1286,6 +1287,7 @@
 
 ## deep-learning 
 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
@@ -2397,6 +2399,7 @@
 
 ## ios 
 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
@@ -2935,7 +2938,7 @@
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.
 - [cbacary/MoDeGPT](https://github.com/cbacary/MoDeGPT) - An implementation of the MoDeGPT LLM compression from the ICLR 2025 Conference paper: Modular Decomposition For Large Language Model Compression.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
@@ -3204,7 +3207,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -3613,6 +3616,8 @@
 
 ## others 
 
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [juggler-ai/juggler](https://github.com/juggler-ai/juggler) - The Juggler Code Agent
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [jopetty/word-problem](https://github.com/jopetty/word-problem) - Experiments on the impact of depth in transformers and SSMs.
@@ -3658,7 +3663,7 @@
 - [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [tree-sitter/go-tree-sitter](https://github.com/tree-sitter/go-tree-sitter) - Go bindings for tree-sitter
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [Hawzen/I-found-a-seashell-in-the-middle-of-the-desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) - 
 - [Wybxc/slipst](https://github.com/Wybxc/slipst) - A new paradigm for presentations, inspired by slipshow.
 - [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
@@ -4875,6 +4880,7 @@
 
 ## privacy 
 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -4993,6 +4999,7 @@
 
 ## python 
 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [parsehawk/parsehawk](https://github.com/parsehawk/parsehawk) - Turn documents into structured JSON with local-first document AI. Run 100% locally by default, with API, CLI, and Web UI.
@@ -5121,6 +5128,7 @@
 
 ## pytorch 
 
+- [QUVA-Lab/e2cnn](https://github.com/QUVA-Lab/e2cnn) - E(2)-Equivariant CNNs Library for Pytorch
 - [rballester/tntorch](https://github.com/rballester/tntorch) - Tensor Network Learning with PyTorch
 - [divyaprakash0426/autoshorts](https://github.com/divyaprakash0426/autoshorts) - Automatically generate viral-ready vertical short clips from long-form gameplay footage using AI-powered scene analysis, GPU-accelerated rendering, and optional AI voiceovers.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -5180,6 +5188,7 @@
 
 ## raspberry-pi 
 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -5916,7 +5925,7 @@
 
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -6272,7 +6281,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [gdgpisa/devfest-2025](https://github.com/gdgpisa/devfest-2025) - Nuovo sito in Astro per la DevFest 2026
 - [cortinico/thebakery](https://github.com/cortinico/thebakery) - Website for The Developers' Bakery Podcast 👨‍🍳
-- [lakesare/memcode](https://github.com/lakesare/memcode) - Flashcards. Beautiful. Effortless.
+- [lakesare/memcode](https://github.com/lakesare/memcode) - Open-source SRS
 
 ## windows 
 
