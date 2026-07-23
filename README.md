@@ -367,7 +367,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [geo-data/cesium-terrain-builder](https://github.com/geo-data/cesium-terrain-builder) - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
 - [adobe/lagrange](https://github.com/adobe/lagrange) - A Robust Geometry Processing Library
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
@@ -2052,7 +2052,6 @@
 
 ## QML 
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## Racket 
@@ -2479,6 +2478,7 @@
 - [FOBshippingpoint/shittp](https://github.com/FOBshippingpoint/shittp) - Bring your dotfiles to remote machine via SSH
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -2581,7 +2581,7 @@
 - [animesh-94/Onboard-CLI](https://github.com/animesh-94/Onboard-CLI) - An AST-powered, local-first CLI that visualizes complex system architectures and enforces architectural boundaries via instant Git hooks.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone.
-- [shumaiOne/shumai](https://github.com/shumaiOne/shumai) - Open source alternative to Frame.io
+- [shumaiOne/shumai](https://github.com/shumaiOne/shumai) - Open-source Frame.io alternative with AI-assisted review, collaboration, and asset management.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [carderne/pi-sandbox](https://github.com/carderne/pi-sandbox) - OS-level sandboxing for pi with interactive permission prompts
 - [DominikPeters/tikz-editor](https://github.com/DominikPeters/tikz-editor) - A WYSIWYG editor for TikZ that parses TikZ code
