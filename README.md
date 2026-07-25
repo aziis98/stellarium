@@ -190,7 +190,7 @@
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
@@ -1430,7 +1430,6 @@
 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
-- [AmiriHayes/explaining_attention_heads](https://github.com/AmiriHayes/explaining_attention_heads) - "Explaining Attention with Program Synthesis" | Work to reproduce analyzing and replacing attention heads from MIT LINGO '25 Summer Research Program
 - [TheDevilWillBeBee/Cells2Pixels](https://github.com/TheDevilWillBeBee/Cells2Pixels) - 
 - [Hawzen/I-found-a-seashell-in-the-middle-of-the-desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) - 
 - [google-research/inksight](https://github.com/google-research/inksight) - 
@@ -1720,6 +1719,7 @@
 - [fahrbach/subquadratic-kronecker-regression](https://github.com/fahrbach/subquadratic-kronecker-regression) - Subquadratic Kronecker regression with applications to tensor decomposition (NeurIPS 2022)
 - [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) - Qwen-AgentWorld: Language World Models for General Agents
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
+- [AmiriHayes/explaining_attention_heads](https://github.com/AmiriHayes/explaining_attention_heads) - "Explaining Attention with Program Synthesis" | Work to reproduce analyzing and replacing attention heads from MIT LINGO '25 Summer Research Program
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
@@ -2237,7 +2237,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [egraphs-good/egg](https://github.com/egraphs-good/egg) - egg is a flexible, high-performance e-graph library
