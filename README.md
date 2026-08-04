@@ -1100,6 +1100,7 @@
 
 ## JavaScript 
 
+- [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [Brostoffed/writemark](https://github.com/Brostoffed/writemark) - 
 - [juggler-ai/juggler](https://github.com/juggler-ai/juggler) - The Juggler Code Agent
@@ -2592,6 +2593,7 @@
 
 ## TypeScript 
 
+- [octanejs/octane](https://github.com/octanejs/octane) - React’s programming model, compiled. The successor to Inferno, carrying its performance-first goal forward:
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) - Private web search for AI assistants via SearXNG — supports Claude, Cursor, and any MCP client
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
