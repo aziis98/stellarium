@@ -128,6 +128,7 @@
 
 ## C 
 
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [sqliteai/waste](https://github.com/sqliteai/waste) - Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [talalalrwas/ocr-grab](https://github.com/talalalrwas/ocr-grab) - Flameshot clone that adds OCR.
@@ -1623,7 +1624,7 @@
 - [Ringmast4r/Global-Data-Center-Map](https://github.com/Ringmast4r/Global-Data-Center-Map) - ATLAS (All The Locations of All Servers) -- 18,110 data centers across 116 countries and 4,181 operators. Interactive map and downloadable datasets in 12 formats.
 - [Zehong-Wang/Awesome-Weight-Space-Learning](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning) - A collection of weight space learning including papers, codes, and datasets.
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-- [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
+- [ornith-ai/Ornith-1](https://github.com/ornith-ai/Ornith-1) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [openMVG/ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle) - Image of "Chateau de Sceaux", Sceaux castle. France. Photographer: Copyright 2012 Pierre MOULON
 - [vantienpham/Awesome-Tensor-Decomposition](https://github.com/vantienpham/Awesome-Tensor-Decomposition) - 😎 A curated list of tensor decomposition resources for model compression.
@@ -2733,7 +2734,7 @@
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [matthewp/haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
-- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
+- [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
