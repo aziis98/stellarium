@@ -483,7 +483,7 @@
 
 ## analytics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
@@ -743,6 +743,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
+- [codeplea/tinyexpr](https://github.com/codeplea/tinyexpr) - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
 ## c-plus-plus 
@@ -1118,6 +1119,7 @@
 
 ## cpp 
 
+- [morishuz/delaunay32](https://github.com/morishuz/delaunay32) - Fast, parallel 2D Delaunay triangulation using exact integer predicates
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm) - Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM
 - [a-e-k/canvas_ity](https://github.com/a-e-k/canvas_ity) - A tiny, single-header &lt;canvas&gt;-like 2D rasterizer for C++
@@ -3677,6 +3679,7 @@
 
 ## others 
 
+- [vadim-vyb/acp-openai-gateway](https://github.com/vadim-vyb/acp-openai-gateway) - OpenAI-compatible gateway for ACP agents (goose, …).
 - [octanejs/octane](https://github.com/octanejs/octane) - React’s programming model, compiled. The successor to Inferno, carrying its performance-first goal forward:
 - [tom-ilan/cycloidal_gearbox](https://github.com/tom-ilan/cycloidal_gearbox) - 3D Printed Cycloidal Gearbox
 - [aziis98/statuspage](https://github.com/aziis98/statuspage) - A simple status page written in golang and preact
@@ -4832,7 +4835,6 @@
 - [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) - 
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
-- [codeplea/tinyexpr](https://github.com/codeplea/tinyexpr) - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions
 - [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code.
 - [jamiewilson/predawn](https://github.com/jamiewilson/predawn) - Predawn is a dark interface and syntax theme for Sublime Text and Atom.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -5833,7 +5835,7 @@
 
 - [stochastical/distro](https://github.com/stochastical/distro) - A pure Typst statistics library for common probability distributions.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
