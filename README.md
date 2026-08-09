@@ -1713,6 +1713,7 @@
 
 ## Python 
 
+- [Sentdex/minion](https://github.com/Sentdex/minion) - A tiny single-file coding agent for self-hosted models (llama.cpp / vLLM / SGLang).
 - [vadim-vyb/acp-openai-gateway](https://github.com/vadim-vyb/acp-openai-gateway) - OpenAI-compatible gateway for ACP agents (goose, …).
 - [tom-ilan/cycloidal_gearbox](https://github.com/tom-ilan/cycloidal_gearbox) - 3D Printed Cycloidal Gearbox
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
@@ -1738,7 +1739,7 @@
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
 - [AmiriHayes/explaining_attention_heads](https://github.com/AmiriHayes/explaining_attention_heads) - "Explaining Attention with Program Synthesis" | Work to reproduce analyzing and replacing attention heads from MIT LINGO '25 Summer Research Program
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [marekkowalczyk/breathe-cli](https://github.com/marekkowalczyk/breathe-cli) - Paced resonance breathing in your terminal
@@ -2112,6 +2113,7 @@
 
 ## Rust 
 
+- [jjo/drm-colortemp](https://github.com/jjo/drm-colortemp) - DRM Color Temperature Control for COSMIC DE (workaround)
 - [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [friendlymatthew/slurpjson](https://github.com/friendlymatthew/slurpjson) - slurp through json using webgpu compute shaders
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
@@ -2997,7 +2999,7 @@
 
 ## Wolfram Language 
 
-- [WLJSTeam/wljs-notebook](https://github.com/WLJSTeam/wljs-notebook) - Open-source web notebook interface for Wolfram Engine
+- [WLJSTeam/wljs-notebook](https://github.com/WLJSTeam/wljs-notebook) - Open-source notebook interface for Wolfram Language / Wolfram Engine
 - [odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course) - A course for getting started with geometry processing using Python, Gpytoolbox, and Polyscope
 
 ## Wren 
