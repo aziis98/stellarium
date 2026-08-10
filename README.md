@@ -1713,6 +1713,7 @@
 
 ## Python 
 
+- [mbeher2200/DarkHours](https://github.com/mbeher2200/DarkHours) - Landscape Astrophotography and dark-sky planner — predicts weather, lunar cycles, Milky Way visibility, light pollution,  meteor showrs, and Auroras. It finds nearby dark-sky sites, and best nights.
 - [Sentdex/minion](https://github.com/Sentdex/minion) - A tiny single-file coding agent for self-hosted models (llama.cpp / vLLM / SGLang).
 - [vadim-vyb/acp-openai-gateway](https://github.com/vadim-vyb/acp-openai-gateway) - OpenAI-compatible gateway for ACP agents (goose, …).
 - [tom-ilan/cycloidal_gearbox](https://github.com/tom-ilan/cycloidal_gearbox) - 3D Printed Cycloidal Gearbox
@@ -1885,7 +1886,7 @@
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
 - [3-manifolds/Spherogram](https://github.com/3-manifolds/Spherogram) - Spherogram is a Python module for dealing with the kind of planar diagrams that arise in 3-dimensional topology, such as link and Heegaard diagrams. It a component of the larger SnapPy project.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
