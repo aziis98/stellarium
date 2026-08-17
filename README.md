@@ -971,6 +971,7 @@
 
 ## HTML 
 
+- [p2r3/ha.mr](https://github.com/p2r3/ha.mr) - Static URL compressor and QR code optimizer
 - [teorth/optimizationproblems](https://github.com/teorth/optimizationproblems) - A collection of optimization problems in mathematics
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
@@ -1445,6 +1446,7 @@
 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- [AmiriHayes/explaining_attention_heads](https://github.com/AmiriHayes/explaining_attention_heads) - "Explaining Attention with Program Synthesis" | Work to reproduce analyzing and replacing attention heads from MIT LINGO '25 Summer Research Program
 - [TheDevilWillBeBee/Cells2Pixels](https://github.com/TheDevilWillBeBee/Cells2Pixels) - 
 - [Hawzen/I-found-a-seashell-in-the-middle-of-the-desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) - 
 - [google-research/inksight](https://github.com/google-research/inksight) - 
@@ -1743,7 +1745,6 @@
 - [fahrbach/subquadratic-kronecker-regression](https://github.com/fahrbach/subquadratic-kronecker-regression) - Subquadratic Kronecker regression with applications to tensor decomposition (NeurIPS 2022)
 - [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) - Qwen-AgentWorld: Language World Models for General Agents
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
-- [AmiriHayes/explaining_attention_heads](https://github.com/AmiriHayes/explaining_attention_heads) - "Explaining Attention with Program Synthesis" | Work to reproduce analyzing and replacing attention heads from MIT LINGO '25 Summer Research Program
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
@@ -2119,6 +2120,8 @@
 
 ## Rust 
 
+- [linebender/spline](https://github.com/linebender/spline) - A spline for interactive 2D curve design
+- [bruits/satteri](https://github.com/bruits/satteri) - High-performance Markdown and MDX processing for the JavaScript ecosystem
 - [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) - GPUI – Community Edition
 - [monocurl/monocurl](https://github.com/monocurl/monocurl) - A programming language used to make math-based videos and slideshows
 - [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante) - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.
@@ -2263,7 +2266,7 @@
 - [Cassy343/flashmap](https://github.com/Cassy343/flashmap) - A lock-free, partially wait-free, eventually consistent, concurrent hashmap.
 - [jonhoo/flurry](https://github.com/jonhoo/flurry) - A port of Java's ConcurrentHashMap to Rust
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
-- [nicksenger/glowstick](https://github.com/nicksenger/glowstick) - Gradual typing for tensor shapes in Rust
+- [nicksenger/glowstick](https://github.com/nicksenger/glowstick) - Type-level tensor shapes in Rust
 - [Askannz/munal-os](https://github.com/Askannz/munal-os) - An experimental operating system fully written in Rust, with a unikernel design, cooperative scheduling and a security model based on WASM sandboxing.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -3013,7 +3016,7 @@
 
 ## Wolfram Language 
 
-- [WLJSTeam/wljs-notebook](https://github.com/WLJSTeam/wljs-notebook) - Open-source notebook interface for Wolfram Language / Wolfram Engine
+- [WLJSTeam/wljs-notebook](https://github.com/WLJSTeam/wljs-notebook) - An open-source, web-native notebook interface for Wolfram Language / Wolfram Engine
 - [odedstein/sgi-introduction-course](https://github.com/odedstein/sgi-introduction-course) - A course for getting started with geometry processing using Python, Gpytoolbox, and Polyscope
 
 ## Wren 
