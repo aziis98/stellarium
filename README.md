@@ -137,7 +137,7 @@
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [erincatto/box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
-- [steve-chavez/CParseC](https://github.com/steve-chavez/CParseC) - Single header Parser Combinators for C
+- [PostgREST/CParseC](https://github.com/PostgREST/CParseC) - Single header Parser Combinators for C
 - [UltraOS/Ultra](https://github.com/UltraOS/Ultra) - A from-scratch kernel that aims to be (nearly) fully ABI compatible with the Linux kernel userland
 - [dmtrKovalenko/ffs](https://github.com/dmtrKovalenko/ffs) - F*ck file system - cli file search tool that bypasses OS kernel and reads your disc directlry
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
@@ -971,7 +971,6 @@
 
 ## HTML 
 
-- [p2r3/ha.mr](https://github.com/p2r3/ha.mr) - Static URL compressor and QR code optimizer
 - [teorth/optimizationproblems](https://github.com/teorth/optimizationproblems) - A collection of optimization problems in mathematics
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
@@ -1106,6 +1105,7 @@
 
 ## JavaScript 
 
+- [p2r3/ha.mr](https://github.com/p2r3/ha.mr) - Static URL compressor and QR code optimizer
 - [wooorm/lowlight](https://github.com/wooorm/lowlight) - Virtual syntax highlighting for virtual DOMs and non-HTML things
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
