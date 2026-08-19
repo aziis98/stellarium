@@ -2140,7 +2140,7 @@
 - [sdiehl/prism](https://github.com/sdiehl/prism) - A functional language with algebraic effects, multishot continuations, and native codegen
 - [Fran314/secrets-manager-rs](https://github.com/Fran314/secrets-manager-rs) - A command-line tool for securely backing up, restoring, and verifying secrets using interoperable standards like age encryption and coreutils, ensuring long-term accessibility without vendor lock-in
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
-- [screwys/Rufin](https://github.com/screwys/Rufin) - Native GTK4/libadwaita music client for Jellyfin, Navidrome/OpenSubsonic and local libraries written in Rust
+- [screwys/Rufin](https://github.com/screwys/Rufin) - Native GTK4/libadwaita music player for Jellyfin, Navidrome/OpenSubsonic and local libraries written in Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [NLnetLabs/rotonda](https://github.com/NLnetLabs/rotonda) - Modular, programmable BGP Engine
 - [lukefleed/hpla-rs](https://github.com/lukefleed/hpla-rs) - Benchmark suite accompanying the work “Evaluating Rust for Sparse Matrix Kernels in Scientific Computing”
@@ -2266,7 +2266,7 @@
 - [Cassy343/flashmap](https://github.com/Cassy343/flashmap) - A lock-free, partially wait-free, eventually consistent, concurrent hashmap.
 - [jonhoo/flurry](https://github.com/jonhoo/flurry) - A port of Java's ConcurrentHashMap to Rust
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
-- [nicksenger/glowstick](https://github.com/nicksenger/glowstick) - Type-level tensor shapes in Rust
+- [nicksenger/Glowstick](https://github.com/nicksenger/Glowstick) - Type-level tensor shapes in Rust
 - [Askannz/munal-os](https://github.com/Askannz/munal-os) - An experimental operating system fully written in Rust, with a unikernel design, cooperative scheduling and a security model based on WASM sandboxing.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -2473,7 +2473,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [turnage/valora](https://github.com/turnage/valora) - painting by functions
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
