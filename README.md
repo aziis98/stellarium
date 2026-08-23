@@ -1199,7 +1199,7 @@
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [muze-nl/jaqt](https://github.com/muze-nl/jaqt) - GraphQL-style Array.select() and Array.where() for javascript
 - [galvao-eti/shelly](https://github.com/galvao-eti/shelly) - A shell-like interface for the web written entirely in HTML, CSS and JavaScript (ES6).
-- [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2) - HOTGLUE is a Content Manipulation System which allows to construct websites directly in a web-browser.
+- [k0a1a/hotglue2](https://github.com/k0a1a/hotglue2) - [ONGOING MAJOR UPDATE - WIP]  HOTGLUE is a Content Manipulation System which allows to construct websites directly in a web-browser.
 - [jsebrech/tiny-signals](https://github.com/jsebrech/tiny-signals) - The tiniest implementation of signals, ideal for vanilla JavaScript projects.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -2317,7 +2317,7 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ellenhp/solari](https://github.com/ellenhp/solari) - Fast multimodal routing in Rust designed for memory-constrained machines
 - [jasonjmcghee/basic-treesitter-cranelift-jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit) - Simple live calculator in tree-sitter + cranelift jit
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [connorskees/grass](https://github.com/connorskees/grass) - A Sass compiler written purely in Rust
