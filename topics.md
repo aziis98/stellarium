@@ -209,6 +209,7 @@
 - [php](#php)
 - [physics](#physics)
 - [pixel-art](#pixel-art)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -828,7 +829,7 @@
 - [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) - Private web search for AI assistants via SearXNG — supports Claude, Cursor, and any MCP client
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [mlhher/late-cli](https://github.com/mlhher/late-cli) - Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Fable and Kimi K3.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
@@ -863,7 +864,7 @@
 - [marekkowalczyk/breathe-cli](https://github.com/marekkowalczyk/breathe-cli) - Paced resonance breathing in your terminal
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
@@ -2999,7 +3000,7 @@
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [chiennv2000/orthrus](https://github.com/chiennv2000/orthrus) - Fast, lossless LLM inference via dual-view diffusion decoding.
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [aziis98/gdgpisa-secret26](https://github.com/aziis98/gdgpisa-secret26) - A small secret CTF for DevFest Pisa 2026: microgpt llm runs on python (pyodide) on a shell (vfs+common unix commands) on js
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -3284,7 +3285,7 @@
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [mlhher/late-cli](https://github.com/mlhher/late-cli) - Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Fable and Kimi K3.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
@@ -3633,7 +3634,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -3707,6 +3708,7 @@
 
 ## others 
 
+- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) - 
 - [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [linebender/spline](https://github.com/linebender/spline) - A spline for interactive 2D curve design
@@ -4970,6 +4972,11 @@
 - [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
 - [danterolle/tilf](https://github.com/danterolle/tilf) - Tilf (Tiny Elf) is a free, simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo
 
+## portfolio 
+
+- [aziis98/website-2025](https://github.com/aziis98/website-2025) - Shiny new website for 2025 and on
+- [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
+
 ## postgresql 
 
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
@@ -5299,7 +5306,6 @@
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -5496,7 +5502,7 @@
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
@@ -5984,7 +5990,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [marekkowalczyk/breathe-cli](https://github.com/marekkowalczyk/breathe-cli) - Paced resonance breathing in your terminal
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -6074,7 +6080,7 @@
 ## tui 
 
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [mlhher/late-cli](https://github.com/mlhher/late-cli) - Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Fable and Kimi K3.
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -6124,7 +6130,7 @@
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - elecxzy project
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
