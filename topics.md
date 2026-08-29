@@ -3709,6 +3709,7 @@
 
 ## others 
 
+- [klinbee/Aetherial-Islands](https://github.com/klinbee/Aetherial-Islands) - Whimsical floating islands with mountains, rivers, and floating ocean pools!
 - [fzakaria/selfdb](https://github.com/fzakaria/selfdb) - 
 - [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
