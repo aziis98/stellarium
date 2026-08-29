@@ -1632,6 +1632,7 @@
 
 ## Others 
 
+- [klinbee/Aetherial-Islands](https://github.com/klinbee/Aetherial-Islands) - Whimsical floating islands with mountains, rivers, and floating ocean pools!
 - [Ringmast4r/Global-Data-Center-Map](https://github.com/Ringmast4r/Global-Data-Center-Map) - ATLAS (All The Locations of All Servers) -- 18,110 data centers across 116 countries and 4,181 operators. Interactive map and downloadable datasets in 12 formats.
 - [Zehong-Wang/Awesome-Weight-Space-Learning](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning) - A collection of weight space learning including papers, codes, and datasets.
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
@@ -1722,7 +1723,6 @@
 ## Python 
 
 - [fzakaria/selfdb](https://github.com/fzakaria/selfdb) - 
-- [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
 - [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe) - Mirror of
 - [mbeher2200/DarkHours](https://github.com/mbeher2200/DarkHours) - Landscape Astrophotography and dark-sky planner — predicts weather, lunar cycles, Milky Way visibility, light pollution,  meteor showrs, and Auroras. It finds nearby dark-sky sites, and best nights.
@@ -2511,6 +2511,7 @@
 
 ## Shell 
 
+- [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 - [fiji/fiji](https://github.com/fiji/fiji) - A "batteries-included" distribution of ImageJ :battery:
 - [FOBshippingpoint/shittp](https://github.com/FOBshippingpoint/shittp) - Bring your dotfiles to remote machine via SSH
