@@ -27,6 +27,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [Euphoria](#euphoria)
 - [F#](#f#)
 - [Fluent](#fluent)
 - [Fortran](#fortran)
@@ -333,7 +334,7 @@
 
 - [stamsam/llama.cpp](https://github.com/stamsam/llama.cpp) - llama.cpp fork with Maple-Preview support (ternary MoE): converter + full inference graph (hybrid SWA/GA attention, flash-head QK, 256-expert clamp-7 MoE)
 - [morishuz/delaunay32](https://github.com/morishuz/delaunay32) - Fast, parallel 2D Delaunay triangulation using exact integer predicates
-- [OpenCPIL/prima.cpp](https://github.com/OpenCPIL/prima.cpp) - [Official] prima.cpp: Fast 30-70B LLM inference on heterogeneous and everyday home devices
+- [OpenCPIL/prima.cpp](https://github.com/OpenCPIL/prima.cpp) - [Official] prima.cpp: scale your local AI beyond one device.
 - [cristibaluta/Imagin-Raw](https://github.com/cristibaluta/Imagin-Raw) - A lightweight but powerful alternative to Adobe Bridge for Mac
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [swellweb/reame](https://github.com/swellweb/reame) - CPU-first LLM inference server on llama.cpp. Runs useful models on free-tier ARM boxes; rewriting the input made it ~6x faster and more accurate than tuning the engine. MIT, benchmarks and failures in
@@ -586,6 +587,10 @@
 - [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [nickdrozd/reazon](https://github.com/nickdrozd/reazon) - miniKanren for Emacs
+
+## Euphoria 
+
+- [paveluv/e](https://github.com/paveluv/e) - A fully customizable self-aware Emacs-like editor written in Chez Scheme.
 
 ## F# # 
 
@@ -2144,7 +2149,7 @@
 - [sdiehl/prism](https://github.com/sdiehl/prism) - A functional language with algebraic effects, multishot continuations, and native codegen
 - [Fran314/secrets-manager-rs](https://github.com/Fran314/secrets-manager-rs) - A command-line tool for securely backing up, restoring, and verifying secrets using interoperable standards like age encryption and coreutils, ensuring long-term accessibility without vendor lock-in
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
-- [screwys/Rufin](https://github.com/screwys/Rufin) - Native GTK4/libadwaita music player for Jellyfin, Navidrome/OpenSubsonic and local libraries written in Rust
+- [screwys/Rufin](https://github.com/screwys/Rufin) - Cross-platform native music player for Jellyfin, Navidrome/OpenSubsonic and local libraries written in Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [NLnetLabs/rotonda](https://github.com/NLnetLabs/rotonda) - Modular, programmable BGP Engine
 - [lukefleed/hpla-rs](https://github.com/lukefleed/hpla-rs) - Benchmark suite accompanying the work “Evaluating Rust for Sparse Matrix Kernels in Scientific Computing”
@@ -2490,7 +2495,7 @@
 
 - [phc-dm/seminarietti-website](https://github.com/phc-dm/seminarietti-website) - Piccolo sito in Astro per i Seminarietti del PHC
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
-- [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
+- [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - 「DEPRECATED」A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 
 ## Scala 
 
@@ -2517,7 +2522,7 @@
 - [FOBshippingpoint/shittp](https://github.com/FOBshippingpoint/shittp) - Bring your dotfiles to remote machine via SSH
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
