@@ -324,7 +324,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Zero-config AI agent written in pure Go. Enforced ephemeral subagents keep your model smart and your context tiny. From local models to frontier LLMs.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Autonomous AI dev agent in pure Go. Enforced ephemeral subagents keep context pure. Making small local models viable for real dev work.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -832,7 +832,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Zero-config AI agent written in pure Go. Enforced ephemeral subagents keep your model smart and your context tiny. From local models to frontier LLMs.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Autonomous AI dev agent in pure Go. Enforced ephemeral subagents keep context pure. Making small local models viable for real dev work.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -1044,6 +1044,10 @@
 
 ## compiler 
 
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [gossamer-lang/gossamer](https://github.com/gossamer-lang/gossamer) - The Gossamer programming language and tooling
+- [niklas-heer/fern](https://github.com/niklas-heer/fern) - 🌿 A statically-typed, functional language with Python aesthetics that compiles to single binaries
+- [Abhisheklearn12/lumen-lang](https://github.com/Abhisheklearn12/lumen-lang) - A small, statically-typed programming language and its compiler, written in Rust
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [distractedlambda/pille](https://github.com/distractedlambda/pille) - Extensible low-level programming
 - [nooga/let-go](https://github.com/nooga/let-go) - Almost Clojure written in Go.
@@ -2234,7 +2238,6 @@
 ## hacktoberfest 
 
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [christianliebel/paint](https://github.com/christianliebel/paint) - Open source, Web Components-based remake of MS Paint using modern web capabilities. 🎨🖌
 - [sympa-community/sympa](https://github.com/sympa-community/sympa) - Sympa, Mailing List Management Software
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -2782,6 +2785,8 @@
 
 ## language 
 
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [gossamer-lang/gossamer](https://github.com/gossamer-lang/gossamer) - The Gossamer programming language and tooling
 - [distractedlambda/pille](https://github.com/distractedlambda/pille) - Extensible low-level programming
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [naver/lispe](https://github.com/naver/lispe) - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.
@@ -3008,7 +3013,7 @@
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Zero-config AI agent written in pure Go. Enforced ephemeral subagents keep your model smart and your context tiny. From local models to frontier LLMs.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Autonomous AI dev agent in pure Go. Enforced ephemeral subagents keep context pure. Making small local models viable for real dev work.
 - [cbacary/MoDeGPT](https://github.com/cbacary/MoDeGPT) - An implementation of the MoDeGPT LLM compression from the ICLR 2025 Conference paper: Modular Decomposition For Large Language Model Compression.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
@@ -3287,7 +3292,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Zero-config AI agent written in pure Go. Enforced ephemeral subagents keep your model smart and your context tiny. From local models to frontier LLMs.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Autonomous AI dev agent in pure Go. Enforced ephemeral subagents keep context pure. Making small local models viable for real dev work.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
@@ -3733,7 +3738,7 @@
 - [aziis98/statuspage](https://github.com/aziis98/statuspage) - A simple status page written in golang and preact
 - [sqliteai/warp](https://github.com/sqliteai/warp) - Run the full 2.78-trillion-parameter Kimi K3 model or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 - [friendlymatthew/slurpjson](https://github.com/friendlymatthew/slurpjson) - slurp through json using webgpu compute shaders
-- [OpenCPIL/prima.cpp](https://github.com/OpenCPIL/prima.cpp) - [Official] prima.cpp: scale your local AI beyond one device.
+- [OpenCPIL/prima.cpp](https://github.com/OpenCPIL/prima.cpp) - [Official] Prima.cpp: Scale Your Local AI Beyond One Device.
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -3817,7 +3822,7 @@
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B conf
 - [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss) - 
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+- [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE) - DarkSword webkit exploit captured ITW
 - [isene/watchit](https://github.com/isene/watchit) - Rust terminal browser for IMDb Top 250 movies and series. Part of the Fe2O3 suite.
@@ -5054,6 +5059,10 @@
 
 ## programming-language 
 
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [gossamer-lang/gossamer](https://github.com/gossamer-lang/gossamer) - The Gossamer programming language and tooling
+- [niklas-heer/fern](https://github.com/niklas-heer/fern) - 🌿 A statically-typed, functional language with Python aesthetics that compiles to single binaries
+- [Abhisheklearn12/lumen-lang](https://github.com/Abhisheklearn12/lumen-lang) - A small, statically-typed programming language and its compiler, written in Rust
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [Jacob-Lockwood/fixapl](https://github.com/Jacob-Lockwood/fixapl) - A simple APL derivative, built on fixed-arity functions
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
@@ -5135,6 +5144,7 @@
 
 ## python 
 
+- [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe) - Mirror of
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -5491,6 +5501,8 @@
 
 ## rust 
 
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [Abhisheklearn12/lumen-lang](https://github.com/Abhisheklearn12/lumen-lang) - A small, statically-typed programming language and its compiler, written in Rust
 - [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante) - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.
 - [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -6083,7 +6095,7 @@
 
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Zero-config AI agent written in pure Go. Enforced ephemeral subagents keep your model smart and your context tiny. From local models to frontier LLMs.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - Autonomous AI dev agent in pure Go. Enforced ephemeral subagents keep context pure. Making small local models viable for real dev work.
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
