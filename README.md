@@ -833,6 +833,7 @@
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An JWT based API for managing users and issuing JWT tokens.
 - [alecthomas/types](https://github.com/alecthomas/types) - Useful generic types for Go
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [alecthomas/go-check-sumtype](https://github.com/alecthomas/go-check-sumtype) - A simple utility for running exhaustiveness checks on Go "sum types."
 - [aziis98/template-go-vitejs](https://github.com/aziis98/template-go-vitejs) - My personal template for building web server using Go and ViteJS
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
@@ -1669,7 +1670,6 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [make-github-pseudonymous-again/pixels](https://github.com/make-github-pseudonymous-again/pixels) - :flower_playing_cards: 1x1 black and white images in jpg, png, gif and ppm formats
 - [snaptoken/kilo-tutorial](https://github.com/snaptoken/kilo-tutorial) - build your own text editor
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [Siilikuin/minimum-viable-hugo](https://github.com/Siilikuin/minimum-viable-hugo) - No CSS, no JS. One static HTML page to start you off.
 - [czhuang/coconet](https://github.com/czhuang/coconet) - Counterpoint by convolution
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
@@ -2146,7 +2146,7 @@
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
@@ -2155,7 +2155,7 @@
 - [sdiehl/prism](https://github.com/sdiehl/prism) - A functional language with algebraic effects, multishot continuations, and native codegen
 - [Fran314/secrets-manager-rs](https://github.com/Fran314/secrets-manager-rs) - A command-line tool for securely backing up, restoring, and verifying secrets using interoperable standards like age encryption and coreutils, ensuring long-term accessibility without vendor lock-in
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
-- [screwys/Rufin](https://github.com/screwys/Rufin) - Cross-platform native music player for self-hosted music servers, and local/remote libraries
+- [screwys/Rufin](https://github.com/screwys/Rufin) - Cross-platform native music player for local/remote libraries and music servers
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [NLnetLabs/rotonda](https://github.com/NLnetLabs/rotonda) - Modular, programmable BGP Engine
 - [lukefleed/hpla-rs](https://github.com/lukefleed/hpla-rs) - Benchmark suite accompanying the work “Evaluating Rust for Sparse Matrix Kernels in Scientific Computing”
