@@ -479,7 +479,6 @@
 - [3Dickulus/FragM](https://github.com/3Dickulus/FragM) - Derived from https://github.com/Syntopia/Fragmentarium/
 - [agnusmaximus/Word2Bits](https://github.com/agnusmaximus/Word2Bits) - Quantized word vectors that take 8x-16x less space than regular word vectors
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [tomhrr/dale](https://github.com/tomhrr/dale) - Lisp-flavoured C
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 
@@ -536,6 +535,7 @@
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 
 ## Cuda 
 
@@ -1985,7 +1985,7 @@
 - [pygae/clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
 - [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant, and scalable Jax LLM!
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [capjamesg/knowledge-graph-language](https://github.com/capjamesg/knowledge-graph-language) - A query language for exploring knowledge graphs.
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
@@ -2157,7 +2157,7 @@
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
 - [screwys/Rufin](https://github.com/screwys/Rufin) - Cross-platform native music player for local/remote libraries and music servers
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
-- [NLnetLabs/rotonda](https://github.com/NLnetLabs/rotonda) - Modular, programmable BGP Engine
+- [NLnetLabs/rotonda](https://github.com/NLnetLabs/rotonda) - (Moved to Codeberg) Modular, programmable BGP Engine
 - [lukefleed/hpla-rs](https://github.com/lukefleed/hpla-rs) - Benchmark suite accompanying the work “Evaluating Rust for Sparse Matrix Kernels in Scientific Computing”
 - [sigmaSd/IRust](https://github.com/sigmaSd/IRust) - Cross Platform Rust Repl
 - [dirge-code/dirge](https://github.com/dirge-code/dirge) - Dynamic Intent Resolution Grounding Engine
