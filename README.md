@@ -480,6 +480,7 @@
 - [3Dickulus/FragM](https://github.com/3Dickulus/FragM) - Derived from https://github.com/Syntopia/Fragmentarium/
 - [agnusmaximus/Word2Bits](https://github.com/agnusmaximus/Word2Bits) - Quantized word vectors that take 8x-16x less space than regular word vectors
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [tomhrr/dale](https://github.com/tomhrr/dale) - Lisp-flavoured C
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 
@@ -536,7 +537,6 @@
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
-- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 
 ## Cuda 
 
@@ -704,7 +704,7 @@
 - [html2any/layout](https://github.com/html2any/layout) - flex layout go struct tree with css support
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Vector graphics in Go
 - [tfriedel6/canvas](https://github.com/tfriedel6/canvas) - Canvas is a Go drawing library based on OpenGL or using software rendering that is very similar to the HTML5 canvas API
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! build your own beacon using Xiao-BLE
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! Build your own beacon using Xiao-BLE
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -1730,6 +1730,7 @@
 
 ## Python 
 
+- [kennethwolters/litelm](https://github.com/kennethwolters/litelm) - litellm without the bloat
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [fzakaria/selfdb](https://github.com/fzakaria/selfdb) - 
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
@@ -2667,7 +2668,7 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [christianliebel/paint](https://github.com/christianliebel/paint) - Open source, Web Components-based remake of MS Paint using modern web capabilities. 🎨🖌
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
