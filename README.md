@@ -540,7 +540,7 @@
 ## Cuda 
 
 - [theialab/radfoam](https://github.com/theialab/radfoam) - Original implementation of "Radiant Foam: Real-Time Differentiable Ray Tracing"
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 
 ## Cython 
 
@@ -637,7 +637,7 @@
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [nooga/let-go](https://github.com/nooga/let-go) - Almost Clojure written in Go.
 - [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - AI agent for long-horizon tasks using local LLMs, cloud models, or both. Built on empirical research. Maintains coherence across 200k+ tokens of work with a 64k context window.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -1637,7 +1637,7 @@
 ## Others 
 
 - [klinbee/Aetherial-Islands](https://github.com/klinbee/Aetherial-Islands) - Whimsical floating islands with mountains, rivers, and floating ocean pools!
-- [Ringmast4r/Global-Data-Center-Map](https://github.com/Ringmast4r/Global-Data-Center-Map) - ATLAS (All The Locations of All Servers) -- 18,110 data centers across 116 countries and 4,181 operators. Interactive map and downloadable datasets in 12 formats.
+- [Ringmast4r/Global-Data-Center-Map](https://github.com/Ringmast4r/Global-Data-Center-Map) - `Cross-platform` `CSV` `GeoJSON` `Dataset` - ATLAS (All The Locations of All Servers) -- 18,110 data centers across 116 countries and 4,181 operators. Interactive map and downloadable datasets in 12 f
 - [Zehong-Wang/Awesome-Weight-Space-Learning](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning) - A collection of weight space learning including papers, codes, and datasets.
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [ornith-ai/Ornith-1](https://github.com/ornith-ai/Ornith-1) - 
@@ -2649,7 +2649,7 @@
 - [animesh-94/Onboard-CLI](https://github.com/animesh-94/Onboard-CLI) - An AST-powered, local-first CLI that visualizes complex system architectures and enforces architectural boundaries via instant Git hooks.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone.
-- [shumaiOne/shumai](https://github.com/shumaiOne/shumai) - The best open-source Frame.io alternative for creative collaboration.
+- [shumaiOne/shumai](https://github.com/shumaiOne/shumai) - Open-source Frame.io alternative
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [carderne/pi-sandbox](https://github.com/carderne/pi-sandbox) - OS-level sandboxing for pi with interactive permission prompts
 - [DominikPeters/tikz-editor](https://github.com/DominikPeters/tikz-editor) - A WYSIWYG editor for TikZ that parses TikZ code
@@ -2657,8 +2657,6 @@
 - [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - A browser-based viewer for Office Open XML documents that renders to an HTML Canvas element.
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
-- [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
