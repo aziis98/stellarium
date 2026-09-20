@@ -1639,6 +1639,7 @@
 
 ## Others 
 
+- [open-free-llm-api/awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis) - 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
 - [klinbee/Aetherial-Islands](https://github.com/klinbee/Aetherial-Islands) - Whimsical floating islands with mountains, rivers, and floating ocean pools!
 - [Ringmast4r/Global-Data-Center-Map](https://github.com/Ringmast4r/Global-Data-Center-Map) - `Cross-platform` `CSV` `GeoJSON` `Dataset` - ATLAS (All The Locations of All Servers) -- 18,110 data centers across 116 countries and 4,181 operators. Interactive map and downloadable datasets in 12 f
 - [Zehong-Wang/Awesome-Weight-Space-Learning](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning) - A collection of weight space learning including papers, codes, and datasets.
@@ -2802,7 +2803,7 @@
 - [observablehq/htl](https://github.com/observablehq/htl) - A tagged template literal that allows safe interpolation of values into HTML, following the HTML5 spec
 - [elematic/heximal](https://github.com/elematic/heximal) - Heximal is a web-based interactive document and notebook system
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [react-gjs/renderer](https://github.com/react-gjs/renderer) - A React renderer for the Gnome JS. It provides components and methods allowing to use React to build native Gnome GTK applications.
