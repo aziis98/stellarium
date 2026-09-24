@@ -214,7 +214,6 @@
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
-- [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [ebassi/emeus](https://github.com/ebassi/emeus) - Constraint-based layout manager for GTK+
 - [ebassi/graphene](https://github.com/ebassi/graphene) - A thin layer of graphic data types
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
@@ -1083,6 +1082,7 @@
 - [datastax/jvector](https://github.com/datastax/jvector) - JVector: the most advanced embedded vector search engine
 - [iczelia/kamilalisp](https://github.com/iczelia/kamilalisp) - A functional, flexible and concise Lisp.
 - [t-e-l/tel](https://github.com/t-e-l/tel) - Termux Launcher for Experts
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) - Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
@@ -1113,6 +1113,7 @@
 
 ## JavaScript 
 
+- [decker-edu/decker](https://github.com/decker-edu/decker) - A markdown based tool for slide deck creation.
 - [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [p2r3/ha.mr](https://github.com/p2r3/ha.mr) - Static URL compressor and QR code optimizer
@@ -1545,6 +1546,7 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [pragtical/plugins](https://github.com/pragtical/plugins) - Plugins for the Pragtical editor
+- [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -2209,7 +2211,7 @@
 - [TrevorS/voxtral-mini-realtime-rs](https://github.com/TrevorS/voxtral-mini-realtime-rs) - Voxtral ASR & TTS running natively and in the browser. A Rust implementation of Mistral's Voxtral mini realtime ASR / TTS using the Burn ML framework
 - [alecthomas/proctor](https://github.com/alecthomas/proctor) - A Procfile-compatible process manager with hot reload, readiness probes, dependencies, and more
 - [nopwashere/Rust-for-Arduboy](https://github.com/nopwashere/Rust-for-Arduboy) - 
-- [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
+- [ratatui/mousefood](https://github.com/ratatui/mousefood) - Build embedded applications with Ratatui! 🧀
 - [alecthomas/t](https://github.com/alecthomas/t) - `t` (T-for-text) is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq.
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -2661,7 +2663,7 @@
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [OrangeJuiceExtension/OrangeJuice](https://github.com/OrangeJuiceExtension/OrangeJuice) - Orange Juice makes Hacker News sweeter
@@ -2669,7 +2671,7 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
@@ -2879,7 +2881,6 @@
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
 - [penxio/penx](https://github.com/penxio/penx) - AI Powered Personal Data Hub
