@@ -325,7 +325,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -454,7 +454,7 @@
 
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 
 ## ai-agents 
@@ -864,7 +864,7 @@
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -915,7 +915,7 @@
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
-- [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
+- [andreibordy/viking](https://github.com/andreibordy/viking) - Simple way to manage your remote machines and SSH keys
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
@@ -1404,7 +1404,7 @@
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [openrundev/openrun](https://github.com/openrundev/openrun) - Deployment platform for teams to deploy internal tools. Deploy web apps declaratively, on a single-node or on Kubernetes, with OIDC/SAML auth and RBAC.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
+- [andreibordy/viking](https://github.com/andreibordy/viking) - Simple way to manage your remote machines and SSH keys
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
 - [ubclaunchpad/inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3042,7 +3042,7 @@
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM.
 - [cbacary/MoDeGPT](https://github.com/cbacary/MoDeGPT) - An implementation of the MoDeGPT LLM compression from the ICLR 2025 Conference paper: Modular Decomposition For Large Language Model Compression.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
@@ -3323,7 +3323,7 @@
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
@@ -3749,6 +3749,7 @@
 
 ## others 
 
+- [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) - Code-rendered music video for "I'm Upping My P(doom)"
 - [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) - open-source canvas for thoughtful software design
 - [decker-edu/decker](https://github.com/decker-edu/decker) - A markdown based tool for slide deck creation.
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
@@ -5555,7 +5556,7 @@
 - [morrow-lang/morrow](https://github.com/morrow-lang/morrow) - The Morrow programming language: statically typed, functional, with Python-like syntax and native binaries.
 - [Abhisheklearn12/lumen-lang](https://github.com/Abhisheklearn12/lumen-lang) - A small, statically-typed programming language and its compiler, written in Rust
 - [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante) - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.
-- [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
+- [model-checking/kani](https://github.com/model-checking/kani) - A model checker for Rust programs.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
