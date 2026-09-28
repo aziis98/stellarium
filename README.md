@@ -637,7 +637,7 @@
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [nooga/let-go](https://github.com/nooga/let-go) - Almost Clojure written in Go.
 - [aziis98/autonotes](https://github.com/aziis98/autonotes) - A project with a tool and workflow for automatically converting handwritten math notes to a semantic format with complete references to the source material
-- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.
+- [mlhher/late-cli](https://github.com/mlhher/late-cli) - High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM.
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [smhanov/laconic](https://github.com/smhanov/laconic) - An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
@@ -737,7 +737,7 @@
 - [steelbrain/ffmpeg-over-ip](https://github.com/steelbrain/ffmpeg-over-ip) - Connect to remote ffmpeg servers
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
-- [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
+- [andreibordy/viking](https://github.com/andreibordy/viking) - Simple way to manage your remote machines and SSH keys
 - [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
@@ -2149,7 +2149,7 @@
 - [monocurl/monocurl](https://github.com/monocurl/monocurl) - A programming language used to make math-based videos and slideshows
 - [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante) - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.
 - [jjo/drm-colortemp](https://github.com/jjo/drm-colortemp) - DRM Color Temperature Control for COSMIC DE (workaround)
-- [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
+- [model-checking/kani](https://github.com/model-checking/kani) - A model checker for Rust programs.
 - [friendlymatthew/slurpjson](https://github.com/friendlymatthew/slurpjson) - slurp through json using webgpu compute shaders
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
@@ -2633,6 +2633,7 @@
 
 ## TypeScript 
 
+- [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) - Code-rendered music video for "I'm Upping My P(doom)"
 - [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) - open-source canvas for thoughtful software design
 - [Martian-Engineering/volt](https://github.com/Martian-Engineering/volt) - Coding agent with lossless context management
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
