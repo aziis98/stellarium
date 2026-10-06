@@ -88,6 +88,7 @@
 - [SystemVerilog](#systemverilog)
 - [Tcl](#tcl)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
@@ -195,7 +196,7 @@
 - [martinfama/fui](https://github.com/martinfama/fui) - framebuffer user interface
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
-- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [mity/md4c](https://github.com/mity/md4c) - Fast, compact, dependency-free Markdown parser for C.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
@@ -1084,7 +1085,6 @@
 - [datastax/jvector](https://github.com/datastax/jvector) - JVector: the most advanced embedded vector search engine
 - [iczelia/kamilalisp](https://github.com/iczelia/kamilalisp) - A functional, flexible and concise Lisp.
 - [t-e-l/tel](https://github.com/t-e-l/tel) - Termux Launcher for Experts
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) - Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
@@ -2529,7 +2529,6 @@
 - [cosmos72/schemesh](https://github.com/cosmos72/schemesh) - A Unix shell and Lisp REPL, fused together
 - [webyrd/quines](https://github.com/webyrd/quines) - Relational interpreter in miniKanren that can generate quines
 - [false-schemers/skint](https://github.com/false-schemers/skint) - Cheap and fast R7RS Scheme interpreter
-- [mario-goulart/awful](https://github.com/mario-goulart/awful) - awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
 - [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) - A portable, compact and extensible Scheme implementation to 25 targets. R4RS compliant.
 
 ## Shell 
@@ -2634,6 +2633,10 @@
 - [aziis98/template-latex](https://github.com/aziis98/template-latex) - A simple template for a LaTeX project.
 - [fmarotta/kaobook](https://github.com/fmarotta/kaobook) - A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.
 - [paolobrasolin/commutative-diagrams](https://github.com/paolobrasolin/commutative-diagrams) - CoDi: Commutative Diagrams for TeX
+
+## Tree-sitter Query 
+
+- [mario-goulart/awful](https://github.com/mario-goulart/awful) - awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
 
 ## TypeScript 
 
@@ -2888,6 +2891,7 @@
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [curvenote/editor](https://github.com/curvenote/editor) - An interactive scientific editor built with ProseMirror, React and Redux - by Curvenote.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
 - [penxio/penx](https://github.com/penxio/penx) - AI Powered Personal Data Hub
@@ -2964,7 +2968,7 @@
 - [brundonsmith/bagel](https://github.com/brundonsmith/bagel) - A reactive and strongly-typed, but also pragmatic, new programming language. Compiles to JavaScript, designed to be comfy for people used to the JavaScript/TypeScript language and ecosystem.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [mnater/Hyphenopoly](https://github.com/mnater/Hyphenopoly) - Hyphenation for node and Polyfill for client-side hyphenation.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [wwwtyro/candygraph](https://github.com/wwwtyro/candygraph) - Fast by default, flexible 2D plotting library.
 - [github/template-parts](https://github.com/github/template-parts) - An implementation of the Template Parts proposal
