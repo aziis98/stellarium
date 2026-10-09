@@ -1139,7 +1139,7 @@
 ## computer-vision 
 
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
-- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - ML-powered manga translator, written in Rust.
 - [imagej/imagej2](https://github.com/imagej/imagej2) - Open scientific N-dimensional image processing :microscope: :sparkler:
 - [kornia/kornia-rs](https://github.com/kornia/kornia-rs) - 🦀 Low-level 3D Computer Vision library in Rust
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
@@ -1363,7 +1363,7 @@
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
-- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - ML-powered manga translator, written in Rust.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
@@ -2233,7 +2233,7 @@
 ## gui 
 
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
-- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - ML-powered manga translator, written in Rust.
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -3489,6 +3489,7 @@
 
 ## nextjs 
 
+- [statico/ycombinator1.com](https://github.com/statico/ycombinator1.com) - 🟧 Lets you add a character to Hacker News links to add social media and OpenGraph previews for sharing on things like Slack or Twitter.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
@@ -3768,6 +3769,8 @@
 
 ## others 
 
+- [SamsungLabs/LittleBit](https://github.com/SamsungLabs/LittleBit) - Official implementation of LittleBit (NeurIPS 2025) and its follow-up LittleBit-2 (ICML 2026)
+- [sdiehl/nano-lean](https://github.com/sdiehl/nano-lean) - A small parallel Lean 4 typechecker based on unbound de Bruijn indexes
 - [openai/math](https://github.com/openai/math) - 
 - [FeSens/openTPU](https://github.com/FeSens/openTPU) - An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card.
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -3983,7 +3986,7 @@
 - [tyx-editor/TyX](https://github.com/tyx-editor/TyX) - A LyX-like experience rewritten for Typst and the modern era
 - [codemirror/merge](https://github.com/codemirror/merge) - Merge view for CodeMirror
 - [alecthomas/t](https://github.com/alecthomas/t) - `t` (T-for-text) is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x* faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew alternative
 - [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
 - [plumkewe/dove-unipi](https://github.com/plumkewe/dove-unipi) - Un'applicazione web per orientarsi facilmente tra gli edifici, i piani e le aule dei Poli dell'Università di Pisa. Esplora le mappe interattive e trova le informazioni di cui hai bisogno.
@@ -5576,6 +5579,7 @@
 
 ## rust 
 
+- [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
 - [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [aovestdipaperino/plank](https://github.com/aovestdipaperino/plank) - Interactive terminal coding agent in Rust — runs the DeepSeek V4 Flash model locally on macOS (Metal), with a Ratatui TUI, a full tool suite, MCP, and persistent sessions.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -5602,7 +5606,7 @@
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
-- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - ML-powered manga translator, written in Rust.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor.
