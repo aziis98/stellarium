@@ -86,6 +86,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1616,6 +1617,10 @@
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## dsh-plugin 
 
@@ -3797,6 +3802,8 @@
 
 ## others 
 
+- [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
+- [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) - 
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [ethanhe42/nanoRL](https://github.com/ethanhe42/nanoRL) - 
@@ -4019,7 +4026,7 @@
 - [tyx-editor/TyX](https://github.com/tyx-editor/TyX) - A LyX-like experience rewritten for Typst and the modern era
 - [codemirror/merge](https://github.com/codemirror/merge) - Merge view for CodeMirror
 - [alecthomas/t](https://github.com/alecthomas/t) - `t` (T-for-text) is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 5x faster Homebrew client
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 10x faster Homebrew client
 - [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
 - [plumkewe/dove-unipi](https://github.com/plumkewe/dove-unipi) - Un'applicazione web per orientarsi facilmente tra gli edifici, i piani e le aule dei Poli dell'Università di Pisa. Esplora le mappe interattive e trova le informazioni di cui hai bisogno.
