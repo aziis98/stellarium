@@ -251,6 +251,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -513,6 +514,7 @@
 
 ## algorithms 
 
+- [algebraic-solving/msolve](https://github.com/algebraic-solving/msolve) - Library for Polynomial System Solving through Algebraic Methods
 - [beling/bsuccinct-rs](https://github.com/beling/bsuccinct-rs) - Rust libraries and programs focused on succinct data structures
 
 ## analytics 
@@ -3805,6 +3807,7 @@
 
 ## others 
 
+- [chriswestbrown/tarski](https://github.com/chriswestbrown/tarski) - A system for computing with Tarski Formulas / Semi-Algebraic Sets.
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
 - [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) - 
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
@@ -4293,6 +4296,7 @@
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [ConduitIO/benchi](https://github.com/ConduitIO/benchi) - Benchmark any tool from the CLI
+- [holepunchto/pear](https://github.com/holepunchto/pear) - Peer-to-Peer (P2P) Install & Deploy CLI
 - [3-manifolds/py_hfk](https://github.com/3-manifolds/py_hfk) - 
 - [Overv/vramfs](https://github.com/Overv/vramfs) - VRAM based file system for Linux
 - [koto-lang/koto-ls](https://github.com/koto-lang/koto-ls) - A language server for Koto
@@ -5965,6 +5969,14 @@
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 
+## skills 
+
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).
+
 ## software 
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -6153,7 +6165,6 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - (moved to https://github.com/sagemathinc/cocalc-ai) CoCalc: Collaborative Calculation in the Cloud
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [holepunchto/pear](https://github.com/holepunchto/pear) - Peer-to-Peer (P2P) Install & Deploy CLI
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
