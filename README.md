@@ -59,6 +59,7 @@
 - [Meson](#meson)
 - [Mojo](#mojo)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -133,7 +134,7 @@
 
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [algebraic-solving/msolve](https://github.com/algebraic-solving/msolve) - Library for Polynomial System Solving through Algebraic Methods
-- [oosexgang/hakios-xnu-kernel](https://github.com/oosexgang/hakios-xnu-kernel) - 
+- [oosexgang/hakios-xnu-kernel](https://github.com/oosexgang/hakios-xnu-kernel) - Apple's open-source XNU kernel on Android phones: its own loader and drivers, Metal on the Adreno. Runs from RAM; a reboot gives the phone back to Android.
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [simoneiacomino/xenolith](https://github.com/simoneiacomino/xenolith) - A pure C inference engine designed for Intel Xe-LP iGPUs and Gemma 4 26B-A4B QAT.
 - [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
@@ -142,7 +143,7 @@
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [sqliteai/warp](https://github.com/sqliteai/warp) - Run the full 2.78-trillion-parameter Kimi K3 model, DeepSeek V4.1 Flash or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inferen
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [talalalrwas/ocr-grab](https://github.com/talalalrwas/ocr-grab) - Flameshot clone that adds OCR.
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [erincatto/box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
@@ -160,7 +161,6 @@
 - [bryanpkc/corkscrew](https://github.com/bryanpkc/corkscrew) - A tool for tunneling SSH through HTTP proxies
 - [abdimoallim/jit](https://github.com/abdimoallim/jit) - A header-only, cross-platform JIT compiler library in C—targets i386, x86-64, ARM32, ARM64, RISC-V 64
 - [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [abdimoallim/vdb](https://github.com/abdimoallim/vdb) - A header-only C vector database library
 - [datavorous/sameshi](https://github.com/datavorous/sameshi) - a ~1200 Elo chess engine that fits within 2KB
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
@@ -338,6 +338,7 @@
 
 ## C++ 
 
+- [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI
 - [skeeto/prospero](https://github.com/skeeto/prospero) - Prospero coding harness
 - [cobanov/PS5LM](https://github.com/cobanov/PS5LM) - llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -365,6 +366,7 @@
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [ICS-MU/pam_oauth2_device](https://github.com/ICS-MU/pam_oauth2_device) - PAM module OAuth2 Device flow
 - [a-e-k/canvas_ity](https://github.com/a-e-k/canvas_ity) - A tiny, single-header &lt;canvas&gt;-like 2D rasterizer for C++
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
@@ -387,7 +389,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [geo-data/cesium-terrain-builder](https://github.com/geo-data/cesium-terrain-builder) - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
+- [cactus-compute/engine](https://github.com/cactus-compute/engine) - 2bit quants, kernels and runtime for consumer devices.
 - [adobe/lagrange](https://github.com/adobe/lagrange) - A Robust Geometry Processing Library
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Structure-fom-Motion and Multi-View Stereo reconstruction library
@@ -501,7 +503,7 @@
 - [spiritov/ds.css](https://github.com/spiritov/ds.css) - css framework recreating the DS / DS Lite's UI
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [NeverCease/uchu](https://github.com/NeverCease/uchu) - → https://code.webb.page/nevercease/uchu.git
-- [gdgpisa/devfest-2025](https://github.com/gdgpisa/devfest-2025) - Nuovo sito in Astro per la DevFest 2026
+- [gdgpisa/devfest-pisa](https://github.com/gdgpisa/devfest-pisa) - Nuovo sito in Astro per la DevFest 2026
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [sugina-dev/latin-modern-web](https://github.com/sugina-dev/latin-modern-web) - CSS/Fonts of the 'Latin Modern' font family for use on a modern web browser
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
@@ -924,7 +926,6 @@
 - [davidbyttow/govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [bradfitz/jndi](https://github.com/bradfitz/jndi) - a irresponsibly bad logging library
-- [mocaccinoOS/mocaccino](https://github.com/mocaccinoOS/mocaccino) - :musical_score: where magic happens
 - [healeycodes/adventlang](https://github.com/healeycodes/adventlang) - 🎅 A programming language (+ code playground) for Advent of Code.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -1563,7 +1564,6 @@
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
-- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
@@ -1623,6 +1623,10 @@
 - [arturo-lang/arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [treeform/fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
+
+## Nix 
+
+- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 
 ## Nushell 
 
@@ -1851,7 +1855,6 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [1rgs/nanocode](https://github.com/1rgs/nanocode) - Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
 - [aziis98/links2rss-telegram-bot](https://github.com/aziis98/links2rss-telegram-bot) - Telegram bot that watches for messages containing links in a group and converts them to a RSS feed accessible via an auth token
@@ -2013,7 +2016,6 @@
 - [affjljoo3581/GPT2](https://github.com/affjljoo3581/GPT2) - PyTorch Implementation of OpenAI GPT-2
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Time Series Forecasting
 - [pygae/clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
@@ -2592,6 +2594,7 @@
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [robinmanuelthiel/speedtest](https://github.com/robinmanuelthiel/speedtest) - Check internet bandwidth from a Docker container and save the results to an InfluxDB
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
+- [mocaccinoOS/mocaccino](https://github.com/mocaccinoOS/mocaccino) - :musical_score: where magic happens
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [aziis98/bash-vcs](https://github.com/aziis98/bash-vcs) - An extremely simple version control system written in bash
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -2620,6 +2623,7 @@
 ## Svelte 
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [1ntEgr8/arss](https://github.com/1ntEgr8/arss) - An rss reader
 
@@ -2711,7 +2715,7 @@
 - [kenforthewin/atomic-editor](https://github.com/kenforthewin/atomic-editor) - CodeMirror 6 markdown editor with Obsidian-style inline live preview.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
@@ -2748,6 +2752,7 @@
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 - [OverflowCat/astro-typst](https://github.com/OverflowCat/astro-typst) - All-in-one Typst integration for Astro
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [gristlabs/grainjs](https://github.com/gristlabs/grainjs) - Javascript library from Grist Labs
@@ -2756,7 +2761,7 @@
 - [codemirror/lsp-client](https://github.com/codemirror/lsp-client) - Language server protocol client for CodeMirror
 - [metareflection/dafny-replay](https://github.com/metareflection/dafny-replay) - Verified kernels, written in Dafny and compiled to JavaScript, for correct-by-construction state in interactive web applications
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
-- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [dimitropoulos/typeslayer](https://github.com/dimitropoulos/typeslayer) - you can't hide from TypeSlayer
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio) - Edit your Markdown website, in production.
@@ -2901,7 +2906,7 @@
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
