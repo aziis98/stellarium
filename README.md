@@ -363,7 +363,7 @@
 - [WebODM/OpenSplat](https://github.com/WebODM/OpenSplat) - Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 💦
 - [antirez/llama.cpp-deepseek-v4-flash](https://github.com/antirez/llama.cpp-deepseek-v4-flash) - Experimental implementation of DeepSeek v4 flaash in llama.cpp
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,Minimax H3,...) inference in pure C/C++
 - [ICS-MU/pam_oauth2_device](https://github.com/ICS-MU/pam_oauth2_device) - PAM module OAuth2 Device flow
 - [a-e-k/canvas_ity](https://github.com/a-e-k/canvas_ity) - A tiny, single-header &lt;canvas&gt;-like 2D rasterizer for C++
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
@@ -502,7 +502,7 @@
 - [spiritov/ds.css](https://github.com/spiritov/ds.css) - css framework recreating the DS / DS Lite's UI
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [NeverCease/uchu](https://github.com/NeverCease/uchu) - → https://code.webb.page/nevercease/uchu.git
-- [gdgpisa/devfest-pisa](https://github.com/gdgpisa/devfest-pisa) - Nuovo sito in Astro per la DevFest 2026
+- [gdgpisa/devfest-pisa](https://github.com/gdgpisa/devfest-pisa) - Nuovo sito in Astro per la DevFest Pisa
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [sugina-dev/latin-modern-web](https://github.com/sugina-dev/latin-modern-web) - CSS/Fonts of the 'Latin Modern' font family for use on a modern web browser
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
@@ -631,6 +631,7 @@
 
 ## Go 
 
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
@@ -1201,7 +1202,6 @@
 - [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
 - [WebReflection/uhtml](https://github.com/WebReflection/uhtml) - A micro HTML/SVG render
 - [WebReflection/usignal](https://github.com/WebReflection/usignal) - A blend of @preact/signals-core and solid-js basic reactivity API
-- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A uniquely capable, unusually fast &lt;canvas&gt; for Node.js
 - [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero.
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
@@ -1656,6 +1656,7 @@
 
 ## Others 
 
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [nikolqyy/bypass-paywalls-chrome](https://github.com/nikolqyy/bypass-paywalls-chrome) - Bypass Paywalls Chrome Clean (BPC) mirror. Latest version, updated. Chrome, Firefox & Orion.
 - [open-free-llm-api/awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis) - 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
 - [klinbee/Aetherial-Islands](https://github.com/klinbee/Aetherial-Islands) - Whimsical floating islands with mountains, rivers, and floating ocean pools!
@@ -2168,7 +2169,8 @@
 
 ## Rust 
 
-- [expo/exact](https://github.com/expo/exact) - 
+- [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [raphlinus/nibnib](https://github.com/raphlinus/nibnib) - Image compression at 4bpp with extreme decompression speed
 - [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing
 - [SheepSeb/tinyworldformer](https://github.com/SheepSeb/tinyworldformer) - Tiny world model generates games and stream ac plays them all on Pico 2W
@@ -2370,6 +2372,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [PistonDevelopers/graphics](https://github.com/PistonDevelopers/graphics) - A library for 2D graphics, written in Rust, that works with multiple back-ends
 - [linebender/tiny-skia](https://github.com/linebender/tiny-skia) - A tiny Skia subset ported to Rust
+- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A uniquely capable, unusually fast &lt;canvas&gt; for Node.js
 - [jrmuizel/raqote](https://github.com/jrmuizel/raqote) - Rust 2D graphics library
 - [raviqqe/stak](https://github.com/raviqqe/stak) - The miniature, embeddable R7RS Scheme implementation
 - [pomsky-lang/pomsky](https://github.com/pomsky-lang/pomsky) - A new, portable, regular expression language
@@ -3118,7 +3121,7 @@
 ## Zig 
 
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
-- [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan
+- [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, Linux (Wayland/Vulkan), and Windows (Win32/Vulkan)
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [lalinsky/zio](https://github.com/lalinsky/zio) - Async I/O framework for Zig
 - [zwasm/zwasm](https://github.com/zwasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
