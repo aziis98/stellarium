@@ -154,6 +154,7 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -402,7 +403,7 @@
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,Minimax H3,...) inference in pure C/C++
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - A Lisp-free, Emacs-keybinding text editor for Windows built with Electron + React + TypeScript, with a built-in MCP server that lets AI agents (Claude Desktop, etc.) drive the editor. Batteries-includ
@@ -476,6 +477,8 @@
 
 ## ai-agents 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - 🐋 Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
 - [intent-hq/intent](https://github.com/intent-hq/intent) - Monorepo for the Intent platform — tracks intentd, cloudlands-fe, and ios as submodules; docs, CI, and release orchestration
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
@@ -536,6 +539,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [screwys/Rufin](https://github.com/screwys/Rufin) - Cross-platform native music player for local/remote libraries and music servers
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [ray-pH/Nabla-TypeMath-android](https://github.com/ray-pH/Nabla-TypeMath-android) - Nabla TypeMath is an android application that allow you to easily type mathematical symbols.
@@ -659,7 +663,6 @@
 
 ## awesome 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -899,6 +902,7 @@
 
 ## claude-code 
 
+- [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - 🐋 Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
@@ -909,6 +913,7 @@
 - [mlhher/late-cli](https://github.com/mlhher/late-cli) - The AI agent that always stays sharp. 200k+ tokens of work in a 64k context. Sandboxed for unattended overnight runs. Sub-10ms Go CLI, any model.
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
@@ -1253,6 +1258,7 @@
 
 ## css 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [litehtml/litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
@@ -1567,6 +1573,7 @@
 
 ## docker 
 
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
@@ -2280,6 +2287,7 @@
 
 ## gui 
 
+- [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - ML-powered manga translator, written in Rust.
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
@@ -2339,7 +2347,6 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
@@ -2549,6 +2556,7 @@
 
 ## ios 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
@@ -2839,6 +2847,13 @@
 
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - (moved to https://github.com/sagemathinc/cocalc-ai) CoCalc: Collaborative Calculation in the Cloud
 
+## knowledge-graph 
+
+- [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
+- [capjamesg/knowledge-graph-language](https://github.com/capjamesg/knowledge-graph-language) - A query language for exploring knowledge graphs.
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+
 ## kotlin 
 
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -2988,6 +3003,7 @@
 
 ## linux 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -3275,6 +3291,7 @@
 
 ## macos 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [aovestdipaperino/plank](https://github.com/aovestdipaperino/plank) - Interactive terminal coding agent in Rust — runs the DeepSeek V4 Flash model locally on macOS (Metal), with a Ratatui TUI, a full tool suite, MCP, and persistent sessions.
 - [Kuberwastaken/hp-laser-1008a-macos](https://github.com/Kuberwastaken/hp-laser-1008a-macos) - Native macOS (Apple Silicon) driver for the HP Laser 1003-1008
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
@@ -3409,6 +3426,7 @@
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - A Lisp-free, Emacs-keybinding text editor for Windows built with Electron + React + TypeScript, with a built-in MCP server that lets AI agents (Claude Desktop, etc.) drive the editor. Batteries-includ
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -3420,6 +3438,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sdiehl/usolver](https://github.com/sdiehl/usolver) - A model context protocol server for solving combinatorial optimization problems with logical and numerical constraints.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).
@@ -3703,7 +3722,6 @@
 ## npm 
 
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [felvin-search/instant-apps](https://github.com/felvin-search/instant-apps) - Your search box is now an app store! 🎉
@@ -3847,7 +3865,11 @@
 
 ## others 
 
-- [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads.
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
+- [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Lua, C & C++. Twice as good as GPUI
 - [xiaomi-research/Xiaomi-OCR-0](https://github.com/xiaomi-research/Xiaomi-OCR-0) - Xiaomi-OCR-0
 - [raphlinus/nibnib](https://github.com/raphlinus/nibnib) - Image compression at 4bpp with extreme decompression speed
 - [skeeto/prospero](https://github.com/skeeto/prospero) - Prospero coding harness
@@ -3882,7 +3904,7 @@
 - [kennethwolters/litelm](https://github.com/kennethwolters/litelm) - litellm without the bloat
 - [EPFL-LGG/ElasticRods_fork_tencers](https://github.com/EPFL-LGG/ElasticRods_fork_tencers) - Elastic Rod and X-Shell Simulation
 - [EPFL-LGG/Tencers](https://github.com/EPFL-LGG/Tencers) - This repository contains the source code and data for the SIGGRAPH Asia 2024 paper Tencers: Tension-Constrained Elastic Rods.
-- [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
+- [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to bzip2.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
 - [paveluv/e](https://github.com/paveluv/e) - A tiny, fully customizable, self-aware, Emacs-like editor written in Chez Scheme.
 - [klinbee/Aetherial-Islands](https://github.com/klinbee/Aetherial-Islands) - Whimsical floating islands with mountains, rivers, and floating ocean pools!
@@ -3964,7 +3986,7 @@
 - [uellenberg/Insert](https://github.com/uellenberg/Insert) - Insert is a programming language for self-modifying code.
 - [gary149/llama-agent](https://github.com/gary149/llama-agent) - Agents in llama.cpp
 - [JorisAR/gaussian-point-splatting](https://github.com/JorisAR/gaussian-point-splatting) - Official implementation of Gaussian point splatting (SIGGRAPH'26)
-- [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan
+- [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, Linux (Wayland/Vulkan), and Windows (Win32/Vulkan)
 - [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [tree-sitter/go-tree-sitter](https://github.com/tree-sitter/go-tree-sitter) - Go bindings for tree-sitter
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
@@ -4707,7 +4729,7 @@
 - [aziis98/talk-intro-go-generics](https://github.com/aziis98/talk-intro-go-generics) - Talk "Introduzione alle Generics in Go" per la DevFest del GDG
 - [alecthomas/types](https://github.com/alecthomas/types) - Useful generic types for Go
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
-- [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
+- [loov/lensm](https://github.com/loov/lensm) - Assembly and source viewer with goodies.
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 - [b0bleet/zvisor](https://github.com/b0bleet/zvisor) - Minimalistic hypervisor built on KVM, coded with Zig.
 - [rxi/kit](https://github.com/rxi/kit) - A tiny library for making small games with big pixels
@@ -5671,10 +5693,12 @@
 
 ## rust 
 
+- [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [SheepSeb/tinyworldformer](https://github.com/SheepSeb/tinyworldformer) - Tiny world model generates games and stream ac plays them all on Pico 2W
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [aovestdipaperino/plank](https://github.com/aovestdipaperino/plank) - Interactive terminal coding agent in Rust — runs the DeepSeek V4 Flash model locally on macOS (Metal), with a Ratatui TUI, a full tool suite, MCP, and persistent sessions.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
@@ -5904,6 +5928,7 @@
 
 ## self-hosted 
 
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [nicorobinreal/llmspeed](https://github.com/nicorobinreal/llmspeed) - Feel how fast a local LLM runs before you buy the hardware
 - [rociiu/talorys](https://github.com/rociiu/talorys) - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel
@@ -6018,7 +6043,6 @@
 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).
 
@@ -6087,7 +6111,7 @@
 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,Minimax H3,...) inference in pure C/C++
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
@@ -6126,6 +6150,7 @@
 
 ## swift 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [velox-apps/velox](https://github.com/velox-apps/velox) - Velox is a port of Tauri to Swift.
@@ -6437,6 +6462,7 @@
 
 ## ui 
 
+- [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
@@ -6593,6 +6619,7 @@
 
 ## web 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
@@ -6676,7 +6703,7 @@
 - [aziis98/website-2025](https://github.com/aziis98/website-2025) - Shiny new website for 2025 and on
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-- [gdgpisa/devfest-pisa](https://github.com/gdgpisa/devfest-pisa) - Nuovo sito in Astro per la DevFest 2026
+- [gdgpisa/devfest-pisa](https://github.com/gdgpisa/devfest-pisa) - Nuovo sito in Astro per la DevFest Pisa
 - [cortinico/thebakery](https://github.com/cortinico/thebakery) - Website for The Developers' Bakery Podcast 👨‍🍳
 - [lakesare/memcode](https://github.com/lakesare/memcode) - Open-source SRS
 
