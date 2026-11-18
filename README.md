@@ -377,9 +377,7 @@
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [elalish/manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
-- [microsoft/onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI with ONNX Runtime
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/foundry-local](https://github.com/microsoft/foundry-local) - 
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [HazyResearch/HipKittens](https://github.com/HazyResearch/HipKittens) - Fast and Furious AMD Kernels
@@ -647,7 +645,7 @@
 - [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [get-vix/vix](https://github.com/get-vix/vix) - Sleek, Fast and Token Efficient AI Coding Agent
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
@@ -994,6 +992,7 @@
 
 ## HTML 
 
+- [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship) - Steer your ideas in realtime
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
@@ -1759,7 +1758,7 @@
 
 - [chenxiachan/textfold](https://github.com/chenxiachan/textfold) - Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.
 - [lightonai/LightOnOCR](https://github.com/lightonai/LightOnOCR) - Turn document pixels into structured, grounded content with LightOnOCR-3
-- [Vaibhaav-Tiwari/deepseek-v3-jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) - DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax
+- [Vaibhaav-Tiwari/deepseek-v3-jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) - DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.
 - [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Run 284B DeepSeek-V4-Flash (&lt;59GiB RAM: 41.1 cold pp, 9.1 N=1 tg, up to 25.3 spec tok/s) & 30B MoEs (22.4 N=1 / 111.6 spec tok/s) on 64GB CPU (0 GPUs).
 - [xiaomi-research/Xiaomi-OCR-0](https://github.com/xiaomi-research/Xiaomi-OCR-0) - Xiaomi-OCR-0
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -2645,6 +2644,7 @@
 
 ## Swift 
 
+- [ZigaoWang/zigzag](https://github.com/ZigaoWang/zigzag) - Feels great. Weighs nothing. The lightweight browser for Mac.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [velox-apps/velox](https://github.com/velox-apps/velox) - Velox is a port of Tauri to Swift.
 - [mattt/Uncertain](https://github.com/mattt/Uncertain) - Uncertain&lt;T&gt; - A Swift library for uncertainty-aware programming.
@@ -2789,7 +2789,7 @@
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
 - [mui/pigment-css](https://github.com/mui/pigment-css) - ⚠️ 𝐀𝐥𝐩𝐡𝐚 𝐩𝐡𝐚𝐬𝐞, currently, on hold. Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Read
 - [qwinsi/tex2typst](https://github.com/qwinsi/tex2typst) - JavaScript library for conversion between TeX/LaTeX and Typst math code.
 - [built-by-as/FleetCode](https://github.com/built-by-as/FleetCode) - Light-weight control pane to run CLI coding agents(Claude Code, Codex) in parallel
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
