@@ -205,7 +205,7 @@
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [mity/md4c](https://github.com/mity/md4c) - Fast, compact, dependency-free Markdown parser for C.
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
@@ -296,6 +296,7 @@
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- [arturo-lang/arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
 - [makccr/dot](https://github.com/makccr/dot) - A repository to contain any and all of my personal application configuration files.
 - [robm/dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
 - [hyperrealm/libconfig](https://github.com/hyperrealm/libconfig) - C/C++ Library for Processing Structured Configuration Files
@@ -306,7 +307,6 @@
 - [msjche/Suckless-msjche](https://github.com/msjche/Suckless-msjche) - 
 - [IoLanguage/io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
 - [domeengine/dome](https://github.com/domeengine/dome) - A lightweight game development environment where games can be written in Wren
 - [tlack/xxl](https://github.com/tlack/xxl) - a minimal vector programming language
 - [Gargron/blurhash](https://github.com/Gargron/blurhash) - Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads
@@ -541,7 +541,7 @@
 
 ## Common Lisp 
 
-- [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language in Python.
+- [briangu/klongpy](https://github.com/briangu/klongpy) - High-Performance Klong array language.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
@@ -1536,6 +1536,8 @@
 
 ## Lean 
 
+- [kiranandcode/StoryLangLib](https://github.com/kiranandcode/StoryLangLib) - Lean 4 library: typed, checkable encodings of text, and modular story worlds where plot holes are decidable
+- [leanprover/con-ron](https://github.com/leanprover/con-ron) - A rust port of con-leche
 - [openai/math](https://github.com/openai/math) - 
 - [SamuelSchlesinger/HashMath](https://github.com/SamuelSchlesinger/HashMath) - A proof of concept of a shared mathematical environment without need for version control or naming synchronization.
 - [James-Hanson/junk-theorems-in-lean](https://github.com/James-Hanson/junk-theorems-in-lean) - A small collection of formally verified junk theorems provable in Lean4 + Mathlib.
@@ -1627,7 +1629,6 @@
 - [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim https://0xc0ffee.netlify.app/osdev
 - [karaxnim/karax](https://github.com/karaxnim/karax) - Karax. Single page applications for Nim.
 - [treeform/pixie](https://github.com/treeform/pixie) - Full-featured 2d graphics library for Nim.
-- [arturo-lang/arturo](https://github.com/arturo-lang/arturo) - Simple, expressive & portable programming language for efficient scripting
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [treeform/fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
 
@@ -1759,6 +1760,9 @@
 
 ## Python 
 
+- [sous-labs/songe](https://github.com/sous-labs/songe) - A training engine for your local model, using your idle compute
+- [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) - Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)
+- [ekzhang/resin](https://github.com/ekzhang/resin) - 🧱 Experimental library for building inference engines
 - [Tufalabs/tufazip](https://github.com/Tufalabs/tufazip) - We shrink 1 GB of Wikipedia to 105.39 MB, losslessly.
 - [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant) - A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
 - [chenxiachan/textfold](https://github.com/chenxiachan/textfold) - Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.
@@ -2183,6 +2187,7 @@
 
 ## Rust 
 
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
 - [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
@@ -2211,7 +2216,7 @@
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
@@ -2699,6 +2704,7 @@
 
 ## TypeScript 
 
+- [satorijs/satori](https://github.com/satorijs/satori) - The Universal Messenger Protocol
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
@@ -3018,7 +3024,7 @@
 - [aziis98/datasheet](https://github.com/aziis98/datasheet) - Data exploration tool with custom scripting language for data manipulation
 - [vega/vega-datasets](https://github.com/vega/vega-datasets) - Common repository for example datasets used by Vega-related projects
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
-- [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
+- [made-in-common/vite-plugin-inspect](https://github.com/made-in-common/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
@@ -3137,7 +3143,7 @@
 ## Zig 
 
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
-- [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, Linux (Wayland/Vulkan), and Windows (Win32/Vulkan)
+- [duanebester/gooey](https://github.com/duanebester/gooey) - Gooey is a hybrid immediate/retained mode UI library designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, Linux (Wayland/Vulkan), and Windows (Win32/Vulkan)
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [lalinsky/zio](https://github.com/lalinsky/zio) - Async I/O framework for Zig
 - [zwasm/zwasm](https://github.com/zwasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
