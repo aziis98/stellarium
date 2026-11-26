@@ -926,6 +926,7 @@
 
 ## claude-code 
 
+- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) - Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 - [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
 - [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) - Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0.
@@ -3146,6 +3147,7 @@
 
 ## llm 
 
+- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) - Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 - [sous-labs/songe](https://github.com/sous-labs/songe) - A training engine for your local model, using your idle compute
 - [ekzhang/resin](https://github.com/ekzhang/resin) - 🧱 Experimental library for building inference engines
 - [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-brow
@@ -3930,6 +3932,7 @@
 
 ## others 
 
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [kiranandcode/StoryLangLib](https://github.com/kiranandcode/StoryLangLib) - Lean 4 library: typed, checkable encodings of text, and modular story worlds where plot holes are decidable
 - [leanprover/con-ron](https://github.com/leanprover/con-ron) - A rust port of con-leche
 - [satorijs/satori](https://github.com/satorijs/satori) - The Universal Messenger Protocol
